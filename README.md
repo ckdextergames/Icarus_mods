@@ -1,5 +1,5 @@
 # Icarus_mods
-mods for Icarus
+mods for Icarus by CK_Dexterhaven
 
 README:
 
@@ -9,6 +9,8 @@ README:
     * Toughest Hedgehogs
     * Superdeluxe QOL mod - coming soon
 * Installation instructions
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 1. __Dextermod: Super Suit Modules__
 
