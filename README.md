@@ -1,34 +1,30 @@
 # Icarus_mods
-mods for Icarus
+*__Dextermods__*: mods for Icarus by CK_Dexterhaven
 
-__Dextermod: Super Suit Modules__
+README:
+
+1. __Super Suit Modules__
+
+Each version below alters the listed suit module accordingly.
 
 **"Nice" Version:**
-* 20% increase to movement speed
-* 50% fall damage resistance
-* Base weight capacity increased by 10
+* 20% increase to movement speed ("Mass Dampener" was 5%)
+* 50% fall damage resistance ("Kickfall" was 25%)
+* Base weight capacity increased by 10 ("Adlift" was 5)
 
 **"Wow" Version:**
-* 40% increase to movement speed
-* 75% fall damage resistance
-* Base weight capacity increased by 20
+* 40% increase to movement speed ("Mass Dampener" was 5%)
+* 75% fall damage resistance ("Kickfall" was 25%)
+* Base weight capacity increased by 20 ("Adlift" was 5)
 
 **"Bananapants" Version:**
-* 60% increase to movement speed
-* 100% fall damage resistance
-* Base weight capacity increased by 40
+* 60% increase to movement speed ("Mass Dampener" was 5%)
+* 100% fall damage resistance ("Kickfall" was 25%)
+* Base weight capacity increased by 40 ("Adlift" was 5)
 
-**NOTE:** This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Equippable.json", or use Mod Manager to choose your desired changes.
+*__CAUTION__:* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Equippable.json", or use Mod Manager to choose your desired changes. Mod Manager highly recommended: https://github.com/Jimk72/Icarus_Software
 
-=-=-=-=-=-=-=-
-
-__Dextermod: CrazyCrafter__
-
-Nearly everything crafts way faster (like, crazyfast).
-
-NOTE: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", or use Mod Manager to choose your desired changes.
-
-=-=-=-=-=-=-=-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 __Installation:__
 
