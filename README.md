@@ -4,13 +4,15 @@ mods for Icarus
 README:
 
 * MODS:
-    Super Suit Modules
-    Crazy Crafter
-    Toughest Hedgehogs
-    Superdeluxe QOL mod - coming soon
+    * Super Suit Modules
+    * Crazy Crafter
+    * Toughest Hedgehogs
+    * Superdeluxe QOL mod - coming soon
 * Installation instructions
 
 1. __Dextermod: Super Suit Modules__
+
+Each version below alters the listed suit module accordingly.
 
 **"Nice" Version:**
 * 20% increase to movement speed ("Mass Dampener" was 5%)
@@ -29,21 +31,23 @@ README:
 
 *__CAUTION__:* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Equippable.json", or use Mod Manager to choose your desired changes. Mod Manager hightly recommended: https://github.com/Jimk72/Icarus_Software
 
-=-=-=-=-=-=-=-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 2. __Dextermod: CrazyCrafter__
-```diff
-+ Nearly everything crafts way faster (like, crazyfast).
-```
-**CAUTION**: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", or use Mod Manager to choose your desired changes.  Mod Manager hightly recommended: https://github.com/Jimk72/Icarus_Software
 
-=-=-=-=-=-=-=-
+Nearly everything crafts way faster (like, crazyfast).
+
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", or use Mod Manager to choose your desired changes.  Mod Manager hightly recommended: https://github.com/Jimk72/Icarus_Software
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 3. __Toughest Hedgehogs__
-```diff
-+ Hedgehogs which look just like the normal "Medium Wood Hedgehog" but are **40X** more durable. Crafting requires additional materials.
-```
-**CAUTION**: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemsStatic.json" & "D_ProcessorRecipes", or use Mod Manager to choose your desired changes.  Mod Manager hightly recommended: https://github.com/Jimk72/Icarus_Software
+
+Hedgehogs which look and cause damage just like the normal "Medium Wood Hedgehog" but are **40X** more durable. Crafting requires additional materials.
+
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemsStatic.json" & "D_ProcessorRecipes", or use Mod Manager to choose your desired changes.  Mod Manager hightly recommended: https://github.com/Jimk72/Icarus_Software
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 __Installation:__
 
