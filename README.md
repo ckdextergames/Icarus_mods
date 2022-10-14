@@ -3,7 +3,7 @@
 
 README:
 
-1. __Super Suit Modules__
+__Super Suit Modules__
 
 Each version below alters the listed suit module accordingly.
 
