@@ -6,7 +6,7 @@ README:
 * MODS:
     * Super Suit Modules
     * Crazy Crafter
-    * Toughest Hedgehogs -- *troubleshooting, will re-upload soon*
+    * Toughest Hedgehogs
     * Superdeluxe QOL mod - coming soon
 * Installation instructions
 
@@ -43,7 +43,7 @@ Nearly everything crafts way faster (like, crazyfast).
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-3. __Toughest Hedgehogs__  -- *troubleshooting, will re-upload soon*
+3. __Toughest Hedgehogs__
 
 Hedgehogs which look just like the normal "Medium Wood Hedgehog" but are **40X** more durable and cause **5X** damage. Crafting requires additional materials.
 
