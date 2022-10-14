@@ -39,15 +39,15 @@ Each version below alters the listed suit module accordingly.
 
 Nearly everything crafts way faster (like, crazyfast).
 
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", or use Mod Manager to choose your desired changes.  Mod Manager hightly recommended: https://github.com/Jimk72/Icarus_Software
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", or use Mod Manager to choose your desired changes. Mod Manager hightly recommended: https://github.com/Jimk72/Icarus_Software
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 3. __Toughest Hedgehogs__
 
-Hedgehogs which look and cause damage just like the normal "Medium Wood Hedgehog" but are **40X** more durable. Crafting requires additional materials.
+Hedgehogs which look just like the normal "Medium Wood Hedgehog" but are **40X** more durable and cause **5X** damage. Crafting requires additional materials.
 
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemsStatic.json" & "D_ProcessorRecipes", or use Mod Manager to choose your desired changes.  Mod Manager hightly recommended: https://github.com/Jimk72/Icarus_Software
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemsStatic.json", "D_Alterations" & "D_ProcessorRecipes"; or use Mod Manager to choose your desired changes. Mod Manager hightly recommended: https://github.com/Jimk72/Icarus_Software
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
