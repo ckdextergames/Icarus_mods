@@ -1,5 +1,5 @@
 # Icarus_mods
-mods for Icarus by CK_Dexterhaven
+*__Dextermods__*: mods for Icarus by CK_Dexterhaven
 
 README:
 
@@ -12,7 +12,7 @@ README:
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-1. __Dextermod: Super Suit Modules__
+1. __Super Suit Modules__
 
 Each version below alters the listed suit module accordingly.
 
@@ -35,7 +35,7 @@ Each version below alters the listed suit module accordingly.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-2. __Dextermod: CrazyCrafter__
+2. __CrazyCrafter__
 
 Nearly everything crafts way faster (like, crazyfast).
 
