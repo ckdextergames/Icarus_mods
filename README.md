@@ -61,7 +61,7 @@ This all-in-one mod encompasses all three above mods (including the Bananapants 
 * Critfail's Pneu_B_Gone (as-is)
 * Enhanced versions of CritFail's WasteNot_All (more exotics per voxel), MoarBearz (even more bears, polar bears, & mammoths)
 
-*__CAUTION__* Intended as a stand-alone modpack and confilcts with other mods. If you intend to use this mod with any other mods, you'll for sure need to use Mod Manager to choose options and merge. https://github.com/Jimk72/Icarus_Software
+*__CAUTION:__* Intended as a stand-alone modpack and confilcts with other mods. If you intend to use this mod with any other mods, you'll for sure need to use Mod Manager to choose options and merge. https://github.com/Jimk72/Icarus_Software
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
