@@ -12,21 +12,21 @@ README:
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-1. __Super Suit Modules__
+1. __Super Suit Modules__ (Direct link: https://bit.ly/CKDsupersuits)
 
 Each version below alters the listed suit module accordingly.
 
-**"Nice" Version:**
+**"Nice" Version:** (Direct link to download page: https://bit.ly/CKsupernice)
 * 20% increase to movement speed ("Mass Dampener" was 5%)
 * 50% fall damage resistance ("Kickfall" was 25%)
 * Base weight capacity increased by 10 ("Adlift" was 5)
 
-**"Wow" Version:**
+**"Wow" Version:** (Direct link to download page: https://bit.ly/CKDsuperwow)
 * 40% increase to movement speed ("Mass Dampener" was 5%)
 * 75% fall damage resistance ("Kickfall" was 25%)
 * Base weight capacity increased by 20 ("Adlift" was 5)
 
-**"Bananapants" Version:**
+**"Bananapants" Version:** (Direct link to download page: https://bit.ly/CKDsuperbanana)
 * 60% increase to movement speed ("Mass Dampener" was 5%)
 * 100% fall damage resistance ("Kickfall" was 25%)
 * Base weight capacity increased by 40 ("Adlift" was 5)
@@ -35,7 +35,7 @@ Each version below alters the listed suit module accordingly.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-2. __CrazyCrafter__
+2. __CrazyCrafter__ (Direct link: https://bit.ly/CKDcrazy)
 
 Nearly everything crafts way faster (like, crazyfast).
 
@@ -43,7 +43,7 @@ Nearly everything crafts way faster (like, crazyfast).
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-3. __Toughest Hedgehogs__
+3. __Toughest Hedgehogs__ (Direct link: https://bit.ly/CKDhogs)
 
 Hedgehogs which look just like the normal "Medium Wood Hedgehog" but are **40X** more durable and cause **5X** damage. Crafting requires additional materials.
 
@@ -51,7 +51,7 @@ Hedgehogs which look just like the normal "Medium Wood Hedgehog" but are **40X**
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-4. __Superdeluxe Combo__
+4. __Superdeluxe Combo__ (Direct link: https://bit.ly/CKDcombo)
 
 This all-in-one mod encompasses all three above mods (including the Bananapants version of Suit Modules), but also integrates the following other mods: (or in some cases pieces or tweaks of them)
 
