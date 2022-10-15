@@ -3,7 +3,7 @@
 
 __So_Many_Bearz__
 
-Looking for a challenge? This adaptation of CritFail's MoarBearz mod turns up the volume. A lot. Beware! MaorBearz keeps the in-game distance they can spawn from your dropship. This mod decreases that distance by half! MOarBearz increases the possible spawning of bears, polar bears and mammoths from 1 to 3, while this mods cranks that up to __7__. So yeah, be warned. And be ready! Enjoy. 
+Looking for a challenge? This adaptation of CritFail's MoarBearz mod turns up the volume. A lot. Beware! MaorBearz keeps the in-game distance they can spawn from your dropship. This mod decreases that distance by half! MoarBearz increases the possible spawning of bears, polar bears and mammoths from 1 to 3, while this mods cranks that up to __7__. So yeah, be warned. And be ready! Enjoy. 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
