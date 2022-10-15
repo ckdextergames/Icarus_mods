@@ -8,6 +8,7 @@ README:
     * Crazy Crafter
     * Toughest Hedgehogs
     * Superdeluxe Combo
+    * So. Many. Bearz!
 * Installation instructions
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -62,6 +63,12 @@ This all-in-one mod encompasses all three above mods (including the Bananapants 
 * Enhanced versions of CritFail's WasteNot_All (more exotics per voxel), MoarBearz (even more bears, polar bears, & mammoths)
 
 *__CAUTION:__* Intended as a stand-alone modpack and confilcts with other mods. If you intend to use this mod with any other mods, you'll for sure need to use Mod Manager to choose options and merge. https://github.com/Jimk72/Icarus_Software
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+5. __So_Many_Bearz__ (Direct link: https://bit.ly/CKDbearz)
+
+Looking for a challenge? This adaptation of CritFail's *MoarBearz* mod turns up the volume. A lot. Beware! *MoarBearz* keeps the in-game distance they can spawn from your dropship. This mod decreases that distance __by half__! *MoarBearz* increases the possible spawning of bears, polar bears and mammoths from 1 to 3, while this mods __cranks that up to 7__. So yeah, be warned. And be ready! Enjoy.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
