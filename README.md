@@ -1,15 +1,21 @@
 # Icarus_mods
 *__Dextermods__*: mods for Icarus by CK_Dexterhaven
 
-__Superdeluxe Combo__
+__Superdeluxe Combo__ (Direct link: https://bit.ly/CKDcombo)
 
-This all-in-one mod encompasses all three above mods (including the Bananapants version of Suit Modules), but also integrates the following other mods: (or in some cases pieces or tweaks of them)
+This all-in-one package encompasses all three mods above (including the Bananapants version of Suit Modules), but also integrates the following:
 
 * Floof_ModifiedLevelignMod (as-is)
-* The expansive WZG Icarus-balance-overhaul mod (tweaked)
-* JimK72's Windmill_Generator, No_Poison_Fish, Jimk_900_Jump, Custom_Puck_Lights, and Camera_Distance mods (as-is)
+* The expansive WZG Icarus-balance-overhaul mod, tweaked thusly:
+   * The Larkwell Beta bakcpack has higher stats (more slots, reduced carry weights, increased ammo capacity and reload speed for rifles, etc) 
+   * Much higher chances to mine a voxel in one swing and harvest a tree with one chop
+   * More food buff slots
+   * The MXC furnace smelts like an electric furnace
+   * The Larkwell arrow and bolt bundles contain 50, not 25 per pack (the onscreen description still says 25 but they contain 50)
+   * Crumbed Fish is a "powerfood," giving 200 max health and stamina, and 30% stamina regeneration. Slightly increased recipe requirements. 
+* JimK72's Windmill_Generator, Jimk_900_Jump, Custom_Puck_Lights, and Camera_Distance mods (as-is)
 * Critfail's Pneu_B_Gone (as-is)
-* Enhanced versions of CritFail's WasteNot_All (more exotics per voxel), MoarBearz (even more bears, polar bears, & mammoths)
+* An enhanced versions of CritFail's WasteNot_All (higher chance for more exotics)
 
 *__CAUTION:__* Intended as a stand-alone modpack and confilcts with other mods. If you intend to use this mod with any other mods, you'll for sure need to use Mod Manager to choose options and merge. https://github.com/Jimk72/Icarus_Software
 
