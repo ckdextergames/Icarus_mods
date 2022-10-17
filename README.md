@@ -5,7 +5,7 @@ README:
 
 * MODS:
     * Super Suit Modules
-    * Crazy Crafter
+    * SpeedyCrafter and CrazyCrafter 
     * Toughest Hedgehogs
     * Superdeluxe Combo
     * So. Many. Bearz!
@@ -38,11 +38,19 @@ Each version below alters the listed suit module accordingly.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-2. __CrazyCrafter__ (Direct link: https://bit.ly/CKDcrazy)
+2. Crafting speeds:
+
+__SpeedyCrafter__ (Direct link: https://bit.ly/CKDspeedy)
+
+Everything that already crafts fast in vanilla stays that fast. But all the longer crafting times are reduced to be slightly less than the "default" speed (the same speed as iron ingots or gunpowder).
+
+__CrazyCrafter__ (Direct link: https://bit.ly/CKDcrazy)
 
 Nearly everything crafts way faster (like, crazyfast).
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", or use Mod Manager to choose your desired changes. Mod Manager highly recommended: https://github.com/Jimk72/Icarus_Software
+
+
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
