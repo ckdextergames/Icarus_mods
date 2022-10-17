@@ -68,7 +68,7 @@ This all-in-one package encompasses all three mods above (including the Bananapa
    * Crumbed Fish is a "powerfood," giving 200 max health and stamina, and 30% stamina regeneration. Slightly increased recipe requirements. 
 * JimK72's Windmill_Generator, Jimk_900_Jump, Custom_Puck_Lights, and Camera_Distance mods (as-is)
 * Critfail's Pneu_B_Gone (as-is)
-* An enhanced versions of CritFail's WasteNot_All (more exotics per voxel)
+* An enhanced versions of CritFail's WasteNot_All (higher chance for more exotics)
 
 *__CAUTION:__* Intended as a stand-alone modpack and confilcts with other mods. If you intend to use this mod with any other mods, you'll for sure need to use Mod Manager to choose options and merge. https://github.com/Jimk72/Icarus_Software
 
