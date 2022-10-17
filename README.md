@@ -88,7 +88,7 @@ This mod turns the Icarus Statue into a late-game prize to be displayed with pri
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-7. __All_The_Poison_Fish!__
+7. __All_The_Poison_Fish!__ (Direct link: https://bit.ly/CKDpoisonfish)
 
 Going the opposite direction of JimK72's great No_Poison_Fish mod, this one makes __ALL the fish that spawn__ the aggressive ones, and there's triple the number of them! __CAUTION:__ With this mod installed, swimming and fishing in lakes works fine and you can catch a lot of fish (bring an anti-poison buff, you are more likely to get bit!) However, it is __*HIGHLY RECOMMENDED*__ that you do not swim or try to catch fish in any of the narrow rivers. Theree will be way too many of them coming at you at once which could impact game performance, and is highly likely to make you __somewhat dead very fast__. Y'all been warned.
 
