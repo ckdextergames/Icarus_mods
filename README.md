@@ -11,6 +11,7 @@ README:
     * So. Many. Bearz!
     * Revised Icarus Statue
     * All Poison Fish
+    * MaxiStax
 * Installation instructions
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -49,8 +50,6 @@ __CrazyCrafter__ (Direct link: https://bit.ly/CKDcrazy)
 Nearly everything crafts way faster (like, crazyfast).
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", or use Mod Manager to choose your desired changes. Mod Manager highly recommended: https://github.com/Jimk72/Icarus_Software
-
-
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
@@ -105,6 +104,14 @@ This mod turns the Icarus Statue into a late-game prize to be displayed with pri
 7. __All_The_Poison_Fish!__ (Direct link: https://bit.ly/CKDpoisonfish)
 
 Going the opposite direction of JimK72's great No_Poison_Fish mod, this one makes __ALL the fish that spawn__ the aggressive ones, and there's triple the number of them! __CAUTION:__ With this mod installed, swimming and fishing in lakes works fine and you can catch a lot of fish (bring an anti-poison buff, you are more likely to get bit!) However, it is __*HIGHLY RECOMMENDED*__ that you do not swim or try to catch fish in any of the narrow rivers. Theree will be way too many of them coming at you at once which could impact game performance, and is highly likely to make you __somewhat dead very fast__. Y'all been warned.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+8. __MaxiStax__ (Direct link: https://bit.ly/CKDmaxistax)
+
+This mod was designed to help move a large base a short distance without having to fuss with lots of individual stacks. Mods like WZG and others increase stack sizes for __many__ different items, and in some cases by a lot. With this mod, I wanted to take that a step further. By merging this mod with one like WZG I can take advantage of those larger stack sizes already there, and then bump up some key ones by a lot more, thus making a move a bunch easier. Complete details of stack size changes are on the download page.
+
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Itemable.json", or use Mod Manager to choose your desired changes. Mod Manager highly recommended: https://github.com/Jimk72/Icarus_Software
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
