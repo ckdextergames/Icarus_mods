@@ -1,7 +1,7 @@
 # Icarus_mods
 *__Dextermods__*: mods for Icarus by CK_Dexterhaven
 
-__MaxiStax__ (Direct link: https://bit.ly/CKDmaxistax)
+__MaxiStax__
 
 This mod was designed to help move a large base a short distance without having to fuss with lots of individual stacks. Mods like WZG and others increase stack sizes for __many__ different items, and in some cases by a lot. With this mod, I wanted to take that a step further. By merging this mod with one like WZG I can take advantage of those larger stack sizes already there, and then bump up some key ones by a lot more, thus making a move a bunch easier. Complete details of stack size changes are below.
 
