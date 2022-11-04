@@ -20,17 +20,17 @@ README:
 
 Each version below alters the listed suit module accordingly.
 
-**"Nice" Version:** (Direct link to download page: https://bit.ly/CKsupernice)
+**"Nice" Version:**
 * 20% increase to movement speed ("Mass Dampener" was 5%)
 * 50% fall damage resistance ("Kickfall" was 25%)
 * Base weight capacity increased by 10 ("Adlift" was 5)
 
-**"Wow" Version:** (Direct link to download page: https://bit.ly/CKDsuperwow)
+**"Wow" Version:**
 * 40% increase to movement speed ("Mass Dampener" was 5%)
 * 75% fall damage resistance ("Kickfall" was 25%)
 * Base weight capacity increased by 20 ("Adlift" was 5)
 
-**"Bananapants" Version:** (Direct link to download page: https://bit.ly/CKDsuperbanana)
+**"Bananapants" Version:**
 * 60% increase to movement speed ("Mass Dampener" was 5%)
 * 100% fall damage resistance ("Kickfall" was 25%)
 * Base weight capacity increased by 40 ("Adlift" was 5)
