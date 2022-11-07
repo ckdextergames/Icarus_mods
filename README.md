@@ -14,7 +14,7 @@ README:
     * MaxiStax
 * Installation instructions
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+---
 
 1. __Super Suit Modules__ (Direct link: https://bit.ly/CKDsupersuits)
 
