@@ -58,7 +58,7 @@ Nearly everything crafts way faster (like, crazyfast).
 
 Hedgehogs which look just like the normal "Medium Wood Hedgehog" but are **40X** more durable and cause **5X** damage. Crafting requires additional materials.
 
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemsStatic.json", "D_Alterations" & "D_ProcessorRecipes"; or use Mod Manager to choose your desired changes. Mod Manager highly recommended: https://github.com/Jimk72/Icarus_Software
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemsStatic.json", "D_Alterations" & "D_ProcessorRecipes"; or use Mod Manager to choose your desired changes.  [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
 ---
 
@@ -78,7 +78,7 @@ This all-in-one package encompasses all three mods above (including the Bananapa
 * Critfail's Pneu_B_Gone (as-is)
 * An enhanced versions of CritFail's WasteNot_All (higher chance for more exotics)
 
-*__CAUTION:__* Intended as a stand-alone modpack and confilcts with other mods. If you intend to use this mod with any other mods, you'll for sure need to use Mod Manager to choose options and merge. https://github.com/Jimk72/Icarus_Software
+*__CAUTION:__* Intended as a stand-alone modpack and confilcts with other mods. If you intend to use this mod with any other mods, you'll for sure need to use [Mod Manager](https://github.com/Jimk72/Icarus_Software) to choose options and merge.
 
 ---
 
@@ -98,7 +98,7 @@ __T4_Statue__
 
 This mod turns the Icarus Statue into a late-game prize to be displayed with pride. :) It must be crafted at the fabricator and the recipe requires a wholloping crapton of various T2, T3, and T4 materials.
 
-*__CAUTION__*: These mods may conflict with other mods! (And obvi can't be used together...) Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", or use Mod Manager to choose your desired changes. Mod Manager highly recommended: https://github.com/Jimk72/Icarus_Software
+*__CAUTION__*: These mods may conflict with other mods! (And obvi can't be used together...) Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", or use Mod Manager to choose your desired changes.  [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
 ---
 
@@ -112,7 +112,7 @@ Going the opposite direction of JimK72's great No_Poison_Fish mod, this one make
 
 This mod was designed to help move a large base a short distance without having to fuss with lots of individual stacks. Mods like WZG and others increase stack sizes for __many__ different items, and in some cases by a lot. With this mod, I wanted to take that a step further. By merging this mod with one like WZG I can take advantage of those larger stack sizes already there, and then bump up some key ones by a lot more, thus making a move a bunch easier. Complete details of stack size changes are on the download page.
 
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Itemable.json", or use Mod Manager to choose your desired changes. Mod Manager highly recommended: https://github.com/Jimk72/Icarus_Software
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Itemable.json", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
 ---
 
@@ -122,4 +122,4 @@ __Installation:__
 * Download .pak file from here and put it in the mods folder.
 * Relaunch steam and Icarus. Enjoy!
 
-__NOTICE: these mods are intended for Offline and/or solo play. Playing with others who aren't using the same mods or any mods could cause errors, crashes and/or inventory loss.__
+__WARNING: these mods are intended for Offline and/or solo play. Playing with others who aren't using the same mods or any mods could cause errors, crashes and/or inventory loss.__
