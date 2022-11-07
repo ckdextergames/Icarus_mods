@@ -3,15 +3,16 @@
 
 README:
 
-* MODS:
-    * Super Suit Modules
-    * SpeedyCrafter and CrazyCrafter 
-    * Toughest Hedgehogs
-    * Superdeluxe Combo
-    * So. Many. Bearz!
-    * Revised Icarus Statue
-    * All Poison Fish
-    * MaxiStax
+MODS:
+1. Super Suit Modules
+2. SpeedyCrafter and CrazyCrafter 
+3. Toughest Hedgehogs
+4. Superdeluxe Combo
+5. So. Many. Bearz!
+6. Revised Icarus Statue
+7. All Poison Fish
+8. MaxiStax
+
 * Installation instructions
 
 ---
@@ -35,9 +36,9 @@ Each version below alters the listed suit module accordingly.
 * 100% fall damage resistance ("Kickfall" was 25%)
 * Base weight capacity increased by 40 ("Adlift" was 5)
 
-*__CAUTION__:* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Equippable.json", or use Mod Manager to choose your desired changes. Mod Manager highly recommended: https://github.com/Jimk72/Icarus_Software
+*__CAUTION__:* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Equippable.json", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+---
 
 2. Crafting speeds:
 
@@ -51,7 +52,7 @@ Nearly everything crafts way faster (like, crazyfast).
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", or use Mod Manager to choose your desired changes. Mod Manager highly recommended: https://github.com/Jimk72/Icarus_Software
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+---
 
 3. __Toughest Hedgehogs__ (Direct link: https://bit.ly/CKDhogs)
 
@@ -59,7 +60,7 @@ Hedgehogs which look just like the normal "Medium Wood Hedgehog" but are **40X**
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemsStatic.json", "D_Alterations" & "D_ProcessorRecipes"; or use Mod Manager to choose your desired changes. Mod Manager highly recommended: https://github.com/Jimk72/Icarus_Software
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+---
 
 4. __Superdeluxe Combo__ (Direct link: https://bit.ly/CKDcombo)
 
@@ -79,13 +80,13 @@ This all-in-one package encompasses all three mods above (including the Bananapa
 
 *__CAUTION:__* Intended as a stand-alone modpack and confilcts with other mods. If you intend to use this mod with any other mods, you'll for sure need to use Mod Manager to choose options and merge. https://github.com/Jimk72/Icarus_Software
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+---
 
 5. __So_Many_Bearz__ (Direct link: https://bit.ly/CKDbearz)
 
 Looking for a challenge? This adaptation of CritFail's *MoarBearz* mod turns up the volume. A lot. Beware! *MoarBearz* keeps the in-game distance they can spawn from your dropship. This mod decreases that distance __by half__! *MoarBearz* increases the possible spawning of bears, polar bears and mammoths from 1 to 3, while this mods __cranks that up to 7__. So yeah, be warned. And be ready! Enjoy.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+---
 
 6. __Revised Icarus Statues__: two varieties! (Direct link: https://bit.ly/CKDstatues)
 
@@ -99,13 +100,13 @@ This mod turns the Icarus Statue into a late-game prize to be displayed with pri
 
 *__CAUTION__*: These mods may conflict with other mods! (And obvi can't be used together...) Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", or use Mod Manager to choose your desired changes. Mod Manager highly recommended: https://github.com/Jimk72/Icarus_Software
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+---
 
 7. __All_The_Poison_Fish!__ (Direct link: https://bit.ly/CKDpoisonfish)
 
 Going the opposite direction of JimK72's great No_Poison_Fish mod, this one makes __ALL the fish that spawn__ the aggressive ones, and there's triple the number of them! __CAUTION:__ With this mod installed, swimming and fishing in lakes works fine and you can catch a lot of fish (bring an anti-poison buff, you are more likely to get bit!) However, it is __*HIGHLY RECOMMENDED*__ that you do not swim or try to catch fish in any of the narrow rivers. Theree will be way too many of them coming at you at once which could impact game performance, and is highly likely to make you __somewhat dead very fast__. Y'all been warned.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+---
 
 8. __MaxiStax__ (Direct link: https://bit.ly/CKDmaxistax)
 
@@ -113,7 +114,7 @@ This mod was designed to help move a large base a short distance without having 
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Itemable.json", or use Mod Manager to choose your desired changes. Mod Manager highly recommended: https://github.com/Jimk72/Icarus_Software
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+---
 
 __Installation:__
 
