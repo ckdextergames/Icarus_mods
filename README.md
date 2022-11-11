@@ -3,6 +3,8 @@
 
 README:
 
+ALERT - MODS NOT YET UPDATED FOR WEEK 49. Will be asap.
+
 MODS:
 1. Super Suit Modules
 2. SpeedyCrafter and CrazyCrafter 
