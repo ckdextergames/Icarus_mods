@@ -79,7 +79,7 @@ This all-in-one package encompasses all three mods above (including the Bananapa
 * Critfail's Pneu_B_Gone (as-is)
 * An enhanced versions of CritFail's WasteNot_All (higher chance for more exotics)
 
-*__CAUTION:__* Intended as a stand-alone modpack and confilcts with other mods. If you intend to use this mod with any other mods, you'll for sure need to use [Mod Manager](https://github.com/Jimk72/Icarus_Software) to choose options and merge.
+*__CAUTION:__* Intended as a unique modpack -- it confilcts with other mods. If you intend to use this mod with any other mods, you'll for sure need to use [Mod Manager](https://github.com/Jimk72/Icarus_Software) to choose options and merge.
 
 ---
 
