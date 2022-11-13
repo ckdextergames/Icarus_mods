@@ -31,3 +31,5 @@ __Installation:__
 * Go to \Icarus\Content\Paks\mods. If there is no mods folder, create one inside Paks
 * Download .pak file from here and put it in the mods folder.
 * Relaunch steam and Icarus. Enjoy!
+
+__WARNING: these mods are intended for Offline and/or solo play. Playing with others who aren't using the same mods or any mods could cause errors, crashes, and/or inventory loss.__
