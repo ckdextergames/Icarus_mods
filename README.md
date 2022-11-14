@@ -6,7 +6,7 @@ README:
 MODS:
 1. Super Suit Modules
 2. SpeedyCrafter and CrazyCrafter 
-3. Toughest Hedgehogs
+3. Toughest Hedgehogs -- *Note this is not being updated for now*
 4. Superdeluxe Combo
 5. So. Many. Bearz!
 6. Revised Icarus Statue
@@ -56,6 +56,8 @@ Nearly everything crafts way faster (like, crazyfast).
 ---
 
 3. __Toughest Hedgehogs__ (Direct link: https://bit.ly/CKDhogs)
+
+***Note, as of week 49, the Toughest Hedgehogs mod works fine. However, more investigation is required on why it's breaking the sitting-in-chairs game mechanic when combined with other mods, even when all it's json files are updated to the current week. I'll announce on the discord if/when it's been fixed***
 
 Hedgehogs which look just like the normal "Medium Wood Hedgehog" but are **40X** more durable and cause **5X** damage. Crafting requires additional materials.
 
