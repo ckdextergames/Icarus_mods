@@ -3,6 +3,8 @@
 
 __MaxiStax__
 
+*Per galactic law, beer and wine come in twelve packs. No way I'm messing with that s**t"* (CK Dexterhaven)
+
 This mod was designed to help move a large base a short distance without having to fuss with lots of individual stacks. Mods like WZG and others increase stack sizes for __many__ different items, and in some cases by a lot. With this mod, I wanted to take that a step further. By merging this mod with one like WZG I can take advantage of those larger stack sizes already there, and then bump up some key ones by a lot more, thus making a move a bunch easier. Complete details of stack size changes are below.
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Itemable.json", or use Mod Manager to choose your desired changes. Mod Manager highly recommended: https://github.com/Jimk72/Icarus_Software
@@ -49,6 +51,7 @@ __Stack size changes:__
 * Pastry 10 >> 60
 * Fatty T-bone 20 >> 100
 * Cooked Fatty T-bone 20 >> 100
+* Cooked Giant Steak 20 >> 100
 
 __Installation:__
 
