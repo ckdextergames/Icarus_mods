@@ -13,9 +13,12 @@ MODS:
 7. All Poison Fish
 8. MaxiStax
 9. One Hit Wonder
+10. Prefab base kits
 
 * Installation instructions
 
+---
+*Huge shout-outs to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Waldo, Semac, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
 ---
 
 1. __Super Suit Modules__ (Direct link: https://bit.ly/CKDsupersuits)
@@ -122,6 +125,18 @@ This mod was designed to help move a large base a short distance without having 
 9. __One_Hit_Wonder__ (Direct link: https://bit.ly/CKDonehit)
 
 Wishing that the __"Peerless Lumberjack"__ and __"Lucky Strike"__ talents gave you a much higher chance of chopping that tree or mining that voxel in just one hit? Wish no more, dear prospector. The One_Hit_Wonder mod is availaible in 10%, 25%, 50%, and 65% flavors.
+
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Talents.json", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+---
+
+10. __Prefab_Base_Kit__ (Direct link: http://bit.ly/CKDprefabs)
+
+Adapting and updating Pr0f23ss0r's original Base Kits mod, here's two new versions (choose one, they aren't compatible with each other). They replace the berry seed pack and cost more. Cuz, my friend, you can just go pick some berries. LOL. To use: just "consume" when on the surface and voila, you have all the needed items.
+
+A. Concrete Prefab base kit: Everything needed for a strudy, bare-bones, storm-defying concrete 2X6.
+
+B. Cozy Cabin Prefab kit: Everything needed for a small but functional 2X3 stone hunting cabin (including a front porch for watching the sunset and growing a few essential crops).
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Talents.json", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
