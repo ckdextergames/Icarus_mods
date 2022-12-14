@@ -1,7 +1,7 @@
 # Icarus_mods
 *__Dextermods__*: mods for Icarus by CK_Dexterhaven
 
-__Prefab_Base_Kits__ (Direct link: http://bit.ly/CKDprefabs)
+__Prefab_Base_Kits__
 
 Adapting and updating Pr0f23ss0r's original Base Kits mod, here's two new versions (choose one, they aren't compatible with each other). They replace the berry seed pack and cost more. Cuz, my friend, you can just go pick some berries. LOL. To use: just "consume" when on the surface and voila, you have all the needed items.
 
