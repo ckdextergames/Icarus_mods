@@ -18,7 +18,9 @@ MODS:
 * Installation instructions
 
 ---
+
 *Huge shout-outs to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Waldo, Semac, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
+
 ---
 
 1. __Super Suit Modules__ (Direct link: https://bit.ly/CKDsupersuits)
