@@ -9,7 +9,7 @@ A. Concrete Prefab base kit: Everything needed for a strudy, bare-bones, storm-d
 
 B. Cozy Cabin Prefab kit: Everything needed for a small but functional 2X3 stone hunting cabin (including a front porch for watching the sunset and growing a few essential crops).
 
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Talents.json", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_ItemStatic", "D_ItemTemplate", "D_WorkshopItems", "D_Consumable", and "D_Itemable". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
 ---
 
