@@ -82,7 +82,7 @@ This all-in-one package encompasses all three mods above (including the Bananapa
    * The MXC furnace smelts like an electric furnace
    * The Larkwell arrow bundles contain 50, not 25 per pack
    * Crumbed Fish is a "powerfood," giving 200 max health and stamina, and 30% stamina regeneration. Slightly increased recipe requirements. 
-* JimK72's ~~Windmill_Generator~~, ~~Jimk_900_Jump~~, Custom_Puck_Lights, and Camera_Distance mods (as-is)
+* JimK72's Custom_Puck_Lights and Camera_Distance mods (as-is)
 * Critfail's Pneu_B_Gone (as-is)
 * An enhanced versions of CritFail's WasteNot_All (higher chance for more exotics)
 
