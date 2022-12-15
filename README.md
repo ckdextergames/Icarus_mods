@@ -19,7 +19,7 @@ MODS:
 
 ---
 
-*Huge shout-outs to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Waldo, Semac, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
+*Huge shout-outs to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Waldo, Semac, R3ap3r, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
 
 ---
 
