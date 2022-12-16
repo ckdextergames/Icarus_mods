@@ -14,6 +14,7 @@ MODS:
 8. MaxiStax
 9. One Hit Wonder
 10. Prefab base kits
+11. Bifrost Crossbow
 
 * Installation instructions
 
@@ -141,6 +142,15 @@ A. Concrete Prefab base kit: Everything needed for a strudy, bare-bones, storm-d
 B. Cozy Cabin Prefab kit: Everything needed for a small but functional 2X3 stone hunting cabin (including a front porch for watching the sunset and growing a few essential crops).
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_ItemStatic", "D_ItemTemplate", "D_WorkshopItems", "D_Consumable", and "D_Itemable". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+---
+
+11. __The Bifrost Titanium Crossbow__
+
+The Bifrost is a weapon of unparalled power and speed. While it requires more resources to craft, it hits harder and has a much higher ammo capacity.
+"Not as clumsy or random as a blaster, an elegant weapon for a more civilized age."
+
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_ProcessorRecipes", "D_ItemStatic", "D_FirearmData", and "D_Itemable". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
 ---
 
