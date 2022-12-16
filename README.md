@@ -47,8 +47,11 @@ __Stack size changes:__
 * Platinum ingot 20 >> 200
 * Steel ingot 20 >> 200
 * Steel rebar 50 >> 200
+* Fish curry 10 >> 50
+* Roast vegetables 10 >> 50
 * Animal fat 10 >> 200
 * Pastry 10 >> 60
+* Meat Pie 10 >> 50
 * Fatty T-bone 20 >> 100
 * Cooked Fatty T-bone 20 >> 100
 * Cooked Giant Steak 20 >> 100
