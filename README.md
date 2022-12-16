@@ -11,7 +11,7 @@ This all-in-one package encompasses all three mods above (including the Bananapa
    * Much higher chances to mine a voxel in one swing and harvest a tree with one chop
    * More food buff slots
    * The MXC furnace smelts like an electric furnace
-   * The Larkwell arrow bundles contain 50, not 25 per pack
+   * The Larkwell arrow and crossbow bolt bundles contain 50, not 25 per pack
    * Crumbed Fish is a "powerfood," giving 200 max health and stamina, and 30% stamina regeneration. Slightly increased recipe requirements. 
 * JimK72's Custom_Puck_Lights and Camera_Distance mods (as-is)
 * Critfail's Pneu_B_Gone (as-is)
