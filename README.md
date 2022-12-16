@@ -1,7 +1,7 @@
 # Icarus_mods
 *__Dextermods__*: mods for Icarus by CK_Dexterhaven
 
-__Superdeluxe Combo__ (Direct link: https://bit.ly/CKDcombo)
+__Superdeluxe Combo__
 
 <<<<<<< HEAD
 This all-in-one package encompasses all three mods above (including the Bananapants version of Suit Modules), but also integrates the following:
