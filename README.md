@@ -145,7 +145,7 @@ B. Cozy Cabin Prefab kit: Everything needed for a small but functional 2X3 stone
 
 ---
 
-11. __The Bifrost Titanium Crossbow__
+11. __The Bifrost Titanium Crossbow__ (Direct link: https://bit.ly/CKDbifrost)
 
 The Bifrost is a weapon of unparalled power and speed. While it requires more resources to craft, it hits harder and has a much higher ammo capacity.
 "Not as clumsy or random as a blaster, an elegant weapon for a more civilized age."
