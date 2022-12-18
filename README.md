@@ -12,6 +12,7 @@ Expanding on CriticalFail's original "Moar_Bearz" mod, I'm moving beyond my "So_
 Notes:
 A. This mod only impacts Hard Mode prospects and open world. If there's a lot of popular demand, I could consider making different versions for medium, but for now, it's just for Hard.
 B. This mod doesn't specifically alter Horde Mode waves. For that, I'd suggest Semac's mods.
+C. Yes, especially for level 3, there may be some bears spawning in trees. Enjoy.
 
 Good hunting!
 
