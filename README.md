@@ -9,7 +9,9 @@ Expanding on CriticalFail's original "Moar_Bearz" mod, I'm moving beyond my "So_
 * Level 2 provides some real challenges in dealing with the increased spawning in each biome you enter.
 * Level 3? Ha! You can't handle level 3... Seriously, be prepared. There will be TONS of crazed quadrapeds ready to attack at every turn. Y'all been warned.
 
-Note: This mod doesn't specifically alter Horde Mode waves. For that, I'd suggest Semac's mods.
+Notes:
+A. This mod only impacts Hard Mode prospects and open world. If there's a lot of popular demand, I could consider making different versions for medium, but for now, it's just for Hard.
+B. This mod doesn't specifically alter Horde Mode waves. For that, I'd suggest Semac's mods.
 
 Good hunting!
 
