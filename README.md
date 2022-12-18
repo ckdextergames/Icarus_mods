@@ -93,7 +93,7 @@ This all-in-one package integrates the following:
 
 5. __So_Many_Bearz__ (Direct link: https://bit.ly/CKDbearz)
 
-Looking for a challenge? This adaptation of CritFail's *MoarBearz* mod turns up the volume. A lot. Beware! *MoarBearz* keeps the in-game distance they can spawn from your dropship. This mod decreases that distance __by half__! *MoarBearz* increases the possible spawning of bears, polar bears and mammoths from 1 to 3, while this mods __cranks that up to 7__. So yeah, be warned. And be ready! Enjoy.
+Looking for a challenge? This adaptation of CritFail's *MoarBearz* mod turns up the volume. A lot. Beware! *MoarBearz* keeps the in-game distance they can spawn from your dropship. This mod decreases that distance __by half__! *MoarBearz* increases the possible spawning of bears, polar bears and mammoths from 1 to 3, while this mods __cranks that up to 7__. So yeah, be warned. And be ready! Enjoy. **Now with a new version** -- "Too_Many_Bearz" which increases the spawn from 7 to 14. Mostly a proof-of-concept, but I imagine some will like to just play that way all the time. XD
 
 ---
 
