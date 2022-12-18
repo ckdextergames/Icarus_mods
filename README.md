@@ -174,7 +174,9 @@ A. This mod only impacts Hard Mode prospects and open world. If there's a lot of
 
 B. This mod doesn't specifically alter Horde Mode waves. For that, I'd suggest Semac's mods.
 
-C. Yes, especially for level 3, there may be some bears spawning in trees. Enjoy.
+C. Increased spawns may not appear right away. You may need to move around until you come across them.
+
+D. Yes, especially for level 3, there may be some bears spawning in trees. Enjoy.
 
 Good hunting!
 
