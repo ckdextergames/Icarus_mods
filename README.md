@@ -7,7 +7,7 @@ Expanding on CriticalFail's original "Moar_Bearz" mod, I'm moving beyond my "So_
 
 * Level 1 just marginally ups the count of aggressive critters all around so you'll notice, but not be overwhelved.
 * Level 2 provides some real challenges in dealing with the increased spawning in each biome you enter.
-* Level 3? Ha! You can't handle level 3... Seriously, be prepared. There will be TONS of crazed quadrupeds ready to attack at every turn. Y'all been warned.
+* Level 3? Ha! You can't handle level 3... Seriously, be prepared. There can be TONS of crazed quadrupeds ready to attack at every turn. Y'all been warned.
 
 Notes:
 
