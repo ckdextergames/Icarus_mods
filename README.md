@@ -7,31 +7,31 @@ This is the weekly-updated collection of mods I play with most often. Feel free 
 
 This modpack includes the following mods:
 
-___From Waldo___:
-WZG Icarus Balance Overhaul (tweaked as shown in my SuperDeluxe Combo mod)
+__From Waldo__:
+* WZG Icarus Balance Overhaul (tweaked as shown in my SuperDeluxe Combo mod)
 
-___From JimK72___:
-Cabinets
-Custom Pucklights
-Building Height Strength
-Camera Distance
-Elevators
-Thor Hammer
-Windmill Generator
-JimK's Teleporter
-JimK 800 Jump
+__From JimK72__:
+* Cabinets
+* Custom Pucklights
+* Building Height Strength
+* Camera Distance
+* Elevators
+* Thor Hammer
+* Windmill Generator
+* JimK's Teleporter
+* JimK 800 Jump
 
-___From Critical Fail___:
-Pneu-B-Gone
-Waste Not - All (upgraded for a higher chance of exotics)
+__From Critical Fail__:
+* Pneu-B-Gone
+* Waste Not - All (upgraded for a higher chance of exotics)
 
-___By me___:
-The Bifrost Crossbow
-Crazy Crafter
-Maxi Stax
-So Many Bearz
-The Bananapants Suit Module mod
-Moar Orbitslotz (provides increased slots for orbital workshop inventory (not loadout, but the station inventory on the left)
+__By me__:
+* The Bifrost Crossbow
+* Crazy Crafter
+* Maxi Stax
+* So Many Bearz
+* The Bananapants Suit Module mod
+* Moar Orbitslotz (provides increased slots for orbital workshop inventory (not loadout, but the station inventory on the left)
 
 ---
 
