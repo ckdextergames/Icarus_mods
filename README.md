@@ -10,8 +10,11 @@ Expanding on CriticalFail's original "Moar_Bearz" mod, I'm moving beyond my "So_
 * Level 3? Ha! You can't handle level 3... Seriously, be prepared. There will be TONS of crazed quadrapeds ready to attack at every turn. Y'all been warned.
 
 Notes:
-A. This mod only impacts Hard Mode prospects and open world. If there's a lot of popular demand, I could consider making different versions for medium or super hard, but for now, it's just for Hard. I don't recommend using this mod for playing any other level. 
+
+A. This mod only impacts Hard Mode prospects and open world. If there's a lot of popular demand, I could consider making different versions for medium or super hard, but for now, it's just for Hard. I don't recommend using this mod for playing any other level.
+
 B. This mod doesn't specifically alter Horde Mode waves. For that, I'd suggest Semac's mods.
+
 C. Yes, especially for level 3, there may be some bears spawning in trees. Enjoy.
 
 Good hunting!
