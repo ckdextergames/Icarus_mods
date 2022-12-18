@@ -13,7 +13,7 @@ Notes:
 
 A. This mod only impacts Hard Mode prospects and open world. If there's a lot of popular demand, I could consider making different versions for medium or super hard, but for now, it's just for Hard. I don't recommend using this mod for playing any other level.
 
-B. This mod doesn't specifically alter Horde Mode waves. For that, I'd suggest Semac's mods.
+B. This mod doesn't specifically alter Horde Mode waves. For that, I'd suggest Semac's mods or other's mods designed to alter Horde Mode.
 
 C. Increased spawns may not appear right away. You may need to move around until you come across them.
 
