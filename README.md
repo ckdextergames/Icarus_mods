@@ -29,7 +29,7 @@ __By me__:
 * The Bifrost Crossbow
 * Crazy Crafter
 * Maxi Stax
-* So Many Bearz
+* Creature Chaos Level 3
 * The Bananapants Suit Module mod
 * Moar Orbitslotz (provides increased slots for orbital workshop inventory (not loadout, but the station inventory on the left)
 
