@@ -158,13 +158,13 @@ The Bifrost is a weapon of unparalled power and speed. While it requires more re
 
 12. __Creature Chaos!__ (Direct link: https://bit.ly/CKDcritters)
 
-Expanding on CriticalFail's original "Moar_Bearz" mod, I'm moving beyond my "So_Many_Bearz" mod to encompass all the different carnivorous varmits throughout both Olympus and Styx. This mod comes in three flavors, of increasing intensity (labeled LVL 1, 2, and 3).
+Expanding on CriticalFail's original "Moar_Bearz" mod, I'm moving beyond my "So_Many_Bearz" mod to encompass all the different carnivorous varmints throughout both Olympus and Styx. This mod comes in three flavors, of increasing intensity (labeled LVL 1, 2, and 3).
 
-Level 1 just marginally ups the count of agressive critters all around so you'll notice, but not be overwhelved.
+Level 1 just marginally ups the count of aggressive critters all around so you'll notice, but not be overwhelved.
 
 Level 2 provides some real challenges in dealing with the increased spawning in each biome you enter.
 
-Level 3? Ha! You can't handle level 3... Seriously, be prepared. There will be TONS of crazed quadrapeds ready to attack at every turn. Ya been warned.
+Level 3? Ha! You can't handle level 3... Seriously, be prepared. There will be TONS of crazed quadrupeds ready to attack at every turn. Ya been warned.
 
 Notes:
 
