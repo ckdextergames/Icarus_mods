@@ -73,9 +73,9 @@ Hedgehogs which look just like the normal "Medium Wood Hedgehog" but are **40X**
 
 4. __Superdeluxe Combo__ (Direct link: https://bit.ly/CKDcombo)
 
-This all-in-one package encompasses all three mods above (including the Bananapants version of Suit Modules), but also integrates the following:
+This all-in-one package integrates the following:
 
-* Floof_ModifiedLevelignMod (as-is)
+* ~~Floof_ModifiedLevelignMod (as-is)~~ *not as of week 54, instead use JimK72's temp fix for the leveling mod.*
 * The expansive WZG Icarus-balance-overhaul mod, tweaked thusly:
    * The Larkwell Beta bakcpack has higher stats (more slots, reduced carry weights, increased ammo capacity and reload speed for rifles, etc) 
    * Much higher chances to mine a voxel in one swing and harvest a tree with one chop
