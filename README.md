@@ -164,13 +164,13 @@ Level 1 just marginally ups the count of aggressive critters all around so you'l
 
 Level 2 provides some real challenges in dealing with the increased spawning in each biome you enter.
 
-Level 3? Ha! You can't handle level 3... Seriously, be prepared. There will be TONS of crazed quadrupeds ready to attack at every turn. Ya been warned.
+Level 3? Ha! You can't handle level 3... Seriously, be prepared. There can be TONS of crazed quadrupeds ready to attack at every turn. Ya been warned.
 
 Notes:
 
 A. This mod only impacts Hard Mode prospects and open world. If there's a lot of popular demand, I could consider making different versions for medium or super hard, but for now, it's just for Hard. I don't recommend using this mod for playing any other level.
 
-B. This mod doesn't specifically alter Horde Mode waves. For that, I'd suggest Semac's mods.
+B. This mod doesn't specifically alter Horde Mode waves. For that, I'd suggest Semac's mods or other's mods designed to alter Horde Mode.
 
 C. Increased spawns may not appear right away. You may need to move around until you come across them.
 
