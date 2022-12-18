@@ -147,7 +147,8 @@ B. Cozy Cabin Prefab kit: Everything needed for a small but functional 2X3 stone
 
 11. __The Bifrost Titanium Crossbow__ (Direct link: https://bit.ly/CKDbifrost)
 
-The Bifrost is a weapon of unparalled power and speed. While it requires more resources to craft, it hits harder and has a much higher ammo capacity.
+The Bifrost is a weapon of unparalled power and speed. While it requires more resources to craft, it hits harder and has a much higher ammo capacity. (This mod replaces the vanilla Titanium Crossbow, crafted in the Fabricator, with this more expensive and powerful version.)
+
 "Not as clumsy or random as a blaster, an elegant weapon for a more civilized age."
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_ProcessorRecipes", "D_ItemStatic", "D_FirearmData", and "D_Itemable". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
