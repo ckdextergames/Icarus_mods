@@ -15,6 +15,7 @@ MODS:
 9. One Hit Wonder
 10. Prefab base kits
 11. Bifrost Crossbow
+12. Creature Chaos
 
 * Installation instructions
 
@@ -154,6 +155,24 @@ The Bifrost is a weapon of unparalled power and speed. While it requires more re
 "Not as clumsy or random as a blaster, an elegant weapon for a more civilized age."
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_ProcessorRecipes", "D_ItemStatic", "D_FirearmData", and "D_Itemable". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+---
+
+12. __Creature Chaos!__ (Direct link: https://bit.ly/CKDcritters)
+
+Expanding on CriticalFail's original "Moar_Bearz" mod, I'm moving beyond my "So_Many_Bearz" mod to encompass all the different carnivorous varmits throughout both Olympus and Styx. This mod comes in three flavors, of increasing intensity (labeled LVL 1, 2, and 3).
+
+Level 1 just marginally ups the count of agressive critters all around so you'll notice, but not be overwhelved.
+
+Level 2 provides some real challenges in dealing with the increased spawning in each biome you enter.
+
+Level 3? Ha! You can't handle level 3... Seriously, be prepared. There will be TONS of crazed quadrapeds ready to attack at every turn. Ya been warned.
+
+Note: This mod doesn't specifically alter Horde Mode Waves. For that, I'd suggest Semac's mods.
+
+Good hunting!
+
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_AISpawnRules", "D_AISpawnZones", and "D_AIAutonomousSpawns". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
 ---
 
