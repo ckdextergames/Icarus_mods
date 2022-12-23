@@ -1,8 +1,6 @@
 # Icarus_mods
 *__Welcome to Dextermods__*: Mods for Icarus by CK_Dexterhaven
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 <a name="modlist">MODS:</a>
 
 1. [Super Suit Modules](#1)
@@ -114,13 +112,11 @@ This mod turns the Icarus Statue into a late-game prize to be displayed with pri
 ---
 
 7. <a name="7">__All_The_Poison_Fish!__</a> (Direct link: https://bit.ly/CKDpoisonfish)
-=======
+
 __All_The_Poison_Fish!__
->>>>>>> AllPoisonFish
 
 Going the opposite direction of JimK72's great No_Poison_Fish mod, this one makes __ALL the fish that spawn__ the aggressive ones, and there's triple the number of them! __CAUTION:__ With this mod installed, swimming and fishing in lakes works fine and you can catch a lot of fish (bring an anti-poison buff, you are more likely to get bit!) However, it is __*HIGHLY RECOMMENDED*__ that you do not swim or try to catch fish in any of the narrow rivers. Theree will be way too many of them coming at you at once which could impact game performance, and is highly likely to make you __somewhat dead very fast__. Y'all been warned. -- [*__Return to mod list__*](#modlist)
 
-<<<<<<< HEAD
 ---
 
 8. <a name="8">__MaxiStax__</a> (Direct link: https://bit.ly/CKDmaxistax)
@@ -192,18 +188,6 @@ __CK_Dexterhaven's special unadvertised "OmniMod"__
 This weekly-updated compilation is the collection of mods I play with most often (details on the download page). Feel free to use as desired. All the warnings and disclaimers apply. Cheers! -- [*__Return to mod list__*](#modlist)
 
 ---
-=======
-Fun but crazy.
-=======
-__All_The_Poison_Fish!__
-
-Going the opposite direction of JimK72's great No_Poison_Fish mod, this one makes __ALL the fish that spawn__ the aggressive ones, and there's triple the number of them! __CAUTION:__ With this mod installed, swimming and fishing in lakes works fine and you can catch a lot of fish (bring an anti-poison buff, you are more likely to get bit!) However, it is __*HIGHLY RECOMMENDED*__ that you do not swim or try to catch fish in any of the narrow rivers. Theree will be way too many of them coming at you at once which could impact game performance, and is highly likely to make you __somewhat dead very fast__. Y'all been warned.
->>>>>>> AllPoisonFish
-
-Fun but crazy.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
->>>>>>> AllPoisonFish
 
 __Installation:__
 
