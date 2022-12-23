@@ -1,7 +1,5 @@
 # Icarus_mods
-*__Dextermods__*: mods for Icarus by CK_Dexterhaven
-
-README:
+*__Welcome to Dextermods__*: Mods for Icarus by CK_Dexterhaven
 
 MODS:
 1. Super Suit Modules
