@@ -3,6 +3,8 @@
 
 __CK_Dexterhaven's special unadvertised "OmniMod"__
 
+NOT YET UPDATED FOR WEEK 55... Working on it...
+
 This is the weekly-updated collection of mods I play with most often. Feel free to use as desired. All the warnings and disclaimers apply. Cheers!
 
 This modpack includes the following mods:
