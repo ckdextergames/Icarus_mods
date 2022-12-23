@@ -2,7 +2,7 @@
 *__Welcome to Dextermods__*: Mods for Icarus by CK_Dexterhaven
 
 MODS:
-1. Super Suit Modules
+1. <a name="1">Super Suit Modules</a?
 2. SpeedyCrafter and CrazyCrafter 
 3. Toughest Hedgehogs -- *Note this is not being updated for now*
 4. Superdeluxe Combo
@@ -23,7 +23,7 @@ MODS:
 
 ---
 
-1. __Super Suit Modules__ (Direct link: https://bit.ly/CKDsupersuits)
+1. [__Super Suit Modules__ ](#1) (Direct link: https://bit.ly/CKDsupersuits)
 
 Each version below alters the listed suit module accordingly.
 
