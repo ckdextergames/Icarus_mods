@@ -43,7 +43,7 @@ Each version below alters the listed suit module accordingly.
 * 100% fall damage resistance ("Kickfall" was 25%)
 * Base weight capacity increased by 40 ("Adlift" was 5)
 
-*__CAUTION__:* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Equippable.json", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended! [*Return to mod list*](#modlist)
+*__CAUTION__:* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Equippable.json", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended! -- [*__Return to mod list__*](#modlist)
 
 ---
 
@@ -57,7 +57,7 @@ __CrazyCrafter__ (Direct link: https://bit.ly/CKDcrazy)
 
 Nearly everything crafts way faster (like, crazyfast).
 
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", or use Mod Manager to choose your desired changes. Mod Manager highly recommended: https://github.com/Jimk72/Icarus_Software
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", or use Mod Manager to choose your desired changes. Mod Manager highly recommended: https://github.com/Jimk72/Icarus_Software -- [*__Return to mod list__*](#modlist)
 
 ---
 
@@ -67,7 +67,7 @@ Nearly everything crafts way faster (like, crazyfast).
 
 Hedgehogs which look just like the normal "Medium Wood Hedgehog" but are **40X** more durable and cause **5X** damage. Crafting requires additional materials.
 
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemsStatic.json", "D_Alterations" & "D_ProcessorRecipes"; or use Mod Manager to choose your desired changes.  [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemsStatic.json", "D_Alterations" & "D_ProcessorRecipes"; or use Mod Manager to choose your desired changes.  [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended! -- [*__Return to mod list__*](#modlist)
 
 ---
 
@@ -87,13 +87,13 @@ This all-in-one package integrates the following:
 * Critfail's Pneu_B_Gone (as-is)
 * An enhanced versions of CritFail's WasteNot_All (higher chance for more exotics)
 
-*__CAUTION:__* Intended as a unique modpack -- it confilcts with other mods. If you intend to use this mod with any other mods, you'll for sure need to use [Mod Manager](https://github.com/Jimk72/Icarus_Software) to choose options and merge.
+*__CAUTION:__* Intended as a unique modpack -- it confilcts with other mods. If you intend to use this mod with any other mods, you'll for sure need to use [Mod Manager](https://github.com/Jimk72/Icarus_Software) to choose options and merge. -- [*__Return to mod list__*](#modlist)
 
 ---
 
 5. <a name="5">__So_Many_Bearz__</a> (Direct link: https://bit.ly/CKDbearz)
 
-Looking for a challenge? This adaptation of CritFail's *MoarBearz* mod turns up the volume. A lot. Beware! *MoarBearz* keeps the in-game distance they can spawn from your dropship. This mod decreases that distance __by half__! *MoarBearz* increases the possible spawning of bears, polar bears and mammoths from 1 to 3, while this mods __cranks that up to 7__. So yeah, be warned. And be ready! Enjoy.
+*Note: Not being updated. I suggest instead using one of my [Creature Chaos](#12) mods*. Looking for a challenge? This adaptation of CritFail's *MoarBearz* mod turns up the volume. A lot. Beware! *MoarBearz* keeps the in-game distance they can spawn from your dropship. This mod decreases that distance __by half__! *MoarBearz* increases the possible spawning of bears, polar bears and mammoths from 1 to 3, while this mods __cranks that up to 7__. So yeah, be warned. And be ready! Enjoy. -- [*__Return to mod list__*](#modlist)
 
 ---
 
@@ -107,13 +107,13 @@ __T4_Statue__
 
 This mod turns the Icarus Statue into a late-game prize to be displayed with pride. :) It must be crafted at the fabricator and the recipe requires a wholloping crapton of various T2, T3, and T4 materials.
 
-*__CAUTION__*: These mods may conflict with other mods! (And obvi can't be used together...) Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", or use Mod Manager to choose your desired changes.  [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+*__CAUTION__*: These mods may conflict with other mods! (And obvi can't be used together...) Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", or use Mod Manager to choose your desired changes.  [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended! -- [*__Return to mod list__*](#modlist)
 
 ---
 
 7. <a name="7">__All_The_Poison_Fish!__</a> (Direct link: https://bit.ly/CKDpoisonfish)
 
-Going the opposite direction of JimK72's great No_Poison_Fish mod, this one makes __ALL the fish that spawn__ the aggressive ones, and there's triple the number of them! __CAUTION:__ With this mod installed, swimming and fishing in lakes works fine and you can catch a lot of fish (bring an anti-poison buff, you are more likely to get bit!) However, it is __*HIGHLY RECOMMENDED*__ that you do not swim or try to catch fish in any of the narrow rivers. Theree will be way too many of them coming at you at once which could impact game performance, and is highly likely to make you __somewhat dead very fast__. Y'all been warned.
+Going the opposite direction of JimK72's great No_Poison_Fish mod, this one makes __ALL the fish that spawn__ the aggressive ones, and there's triple the number of them! __CAUTION:__ With this mod installed, swimming and fishing in lakes works fine and you can catch a lot of fish (bring an anti-poison buff, you are more likely to get bit!) However, it is __*HIGHLY RECOMMENDED*__ that you do not swim or try to catch fish in any of the narrow rivers. Theree will be way too many of them coming at you at once which could impact game performance, and is highly likely to make you __somewhat dead very fast__. Y'all been warned. -- [*__Return to mod list__*](#modlist)
 
 ---
 
@@ -121,7 +121,7 @@ Going the opposite direction of JimK72's great No_Poison_Fish mod, this one make
 
 This mod was designed to help move a large base a short distance without having to fuss with lots of individual stacks. Mods like WZG and others increase stack sizes for __many__ different items, and in some cases by a lot. With this mod, I wanted to take that a step further. By merging this mod with one like WZG I can take advantage of those larger stack sizes already there, and then bump up some key ones by a lot more, thus making a move a bunch easier. Complete details of stack size changes are on the download page.
 
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Itemable.json", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Itemable.json", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended! -- [*__Return to mod list__*](#modlist)
 
 ---
 
@@ -129,7 +129,7 @@ This mod was designed to help move a large base a short distance without having 
 
 Wishing that the __"Peerless Lumberjack"__ and __"Lucky Strike"__ talents gave you a much higher chance of chopping that tree or mining that voxel in just one hit? Wish no more, dear prospector. The One_Hit_Wonder mod is availaible in 10%, 25%, 50%, and 65% flavors.
 
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Talents.json", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Talents.json", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended! -- [*__Return to mod list__*](#modlist)
 
 ---
 
@@ -141,7 +141,7 @@ A. Concrete Prefab base kit: Everything needed for a strudy, bare-bones, storm-d
 
 B. Cozy Cabin Prefab kit: Everything needed for a small but functional 2X3 stone hunting cabin (including a front porch for watching the sunset and growing a few essential crops).
 
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_ItemStatic", "D_ItemTemplate", "D_WorkshopItems", "D_Consumable", and "D_Itemable". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_ItemStatic", "D_ItemTemplate", "D_WorkshopItems", "D_Consumable", and "D_Itemable". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended! -- [*__Return to mod list__*](#modlist)
 
 ---
 
@@ -151,7 +151,7 @@ The Bifrost is a weapon of unparalled power and speed. While it requires more re
 
 "Not as clumsy or random as a blaster, an elegant weapon for a more civilized age."
 
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_ProcessorRecipes", "D_ItemStatic", "D_FirearmData", and "D_Itemable". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_ProcessorRecipes", "D_ItemStatic", "D_FirearmData", and "D_Itemable". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended! -- [*__Return to mod list__*](#modlist)
 
 ---
 
@@ -177,13 +177,13 @@ D. Yes, especially for level 3, there may be some bears spawning in trees or wal
 
 Good hunting!
 
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_AISpawnRules", "D_AISpawnZones", and "D_AIAutonomousSpawns". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_AISpawnRules", "D_AISpawnZones", and "D_AIAutonomousSpawns". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended! -- [*__Return to mod list__*](#modlist)
 
 ---
 
 __CK_Dexterhaven's special unadvertised "OmniMod"__
 
-This weekly-updated compilation is the collection of mods I play with most often (details on the download page). Feel free to use as desired. All the warnings and disclaimers apply. Cheers!
+This weekly-updated compilation is the collection of mods I play with most often (details on the download page). Feel free to use as desired. All the warnings and disclaimers apply. Cheers! -- [*__Return to mod list__*](#modlist)
 
 ---
 
