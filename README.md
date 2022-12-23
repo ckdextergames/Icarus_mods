@@ -20,6 +20,7 @@ __From JimK72__:
 * Windmill Generator
 * JimK's Teleporter
 * JimK 800 Jump
+* Christmas Tree!
 
 __From Critical Fail__:
 * Pneu-B-Gone
