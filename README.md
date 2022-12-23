@@ -3,17 +3,17 @@
 
 MODS:
 1. [Super Suit Modules](#1)
-2. SpeedyCrafter and CrazyCrafter 
-3. Toughest Hedgehogs -- *Note this is not being updated for now*
-4. Superdeluxe Combo
-5. So. Many. Bearz!
-6. Revised Icarus Statue
-7. All Poison Fish
-8. MaxiStax
-9. One Hit Wonder
-10. Prefab base kits
-11. Bifrost Crossbow
-12. Creature Chaos
+2. [SpeedyCrafter and CrazyCrafter](#2)
+3. [Toughest Hedgehogs](#3) -- *Note: This is not being updated*
+4. [Superdeluxe Combo](#4)
+5. [So. Many. Bearz!](#5) -- *Note: This is not being updated, I suggest [Creature Chaos](#12) instead.*
+6. [Revised Icarus Statue](#6)
+7. [All Poison Fish](#7)
+8. [MaxiStax](#8)
+9. [One Hit Wonder](#9)
+10. [Prefab base kits](#10)
+11. [Bifrost Crossbow](#11)
+12. [Creature Chaos](#12)
 
 * Installation instructions
 
@@ -46,7 +46,7 @@ Each version below alters the listed suit module accordingly.
 
 ---
 
-2. Crafting speeds:
+2. <a name="2">Crafting speeds:</a>
 
 __SpeedyCrafter__ (Direct link: https://bit.ly/CKDspeedy)
 
@@ -60,7 +60,7 @@ Nearly everything crafts way faster (like, crazyfast).
 
 ---
 
-3. __Toughest Hedgehogs__ (Direct link: https://bit.ly/CKDhogs)
+3. <a name="3">__Toughest Hedgehogs__</a> (Direct link: https://bit.ly/CKDhogs)
 
 ***Note: NOT UPDATED. With the addition of vanilla fortifications, I may no longer be updating this mod. As of week 49, the Toughest Hedgehogs mod works fine. However, more investigation is required on why it's breaking the sitting-in-chairs game mechanic when combined with other mods, even when all it's json files are updated to the current week. I'll announce on the discord if/when it's been fixed***
 
@@ -70,7 +70,7 @@ Hedgehogs which look just like the normal "Medium Wood Hedgehog" but are **40X**
 
 ---
 
-4. __Superdeluxe Combo__ (Direct link: https://bit.ly/CKDcombo)
+4. <a name="4">__Superdeluxe Combo__</a> (Direct link: https://bit.ly/CKDcombo)
 
 This all-in-one package integrates the following:
 
@@ -90,13 +90,13 @@ This all-in-one package integrates the following:
 
 ---
 
-5. __So_Many_Bearz__ (Direct link: https://bit.ly/CKDbearz)
+5. <a name="5">__So_Many_Bearz__</a> (Direct link: https://bit.ly/CKDbearz)
 
 Looking for a challenge? This adaptation of CritFail's *MoarBearz* mod turns up the volume. A lot. Beware! *MoarBearz* keeps the in-game distance they can spawn from your dropship. This mod decreases that distance __by half__! *MoarBearz* increases the possible spawning of bears, polar bears and mammoths from 1 to 3, while this mods __cranks that up to 7__. So yeah, be warned. And be ready! Enjoy.
 
 ---
 
-6. __Revised Icarus Statues__: two varieties! (Direct link: https://bit.ly/CKDstatues)
+6. <a name="6">__Revised Icarus Statues__: two varieties!</a> (Direct link: https://bit.ly/CKDstatues)
 
 __NoGold_Statue__
 
@@ -110,13 +110,13 @@ This mod turns the Icarus Statue into a late-game prize to be displayed with pri
 
 ---
 
-7. __All_The_Poison_Fish!__ (Direct link: https://bit.ly/CKDpoisonfish)
+7. <a name="7">__All_The_Poison_Fish!__</a> (Direct link: https://bit.ly/CKDpoisonfish)
 
 Going the opposite direction of JimK72's great No_Poison_Fish mod, this one makes __ALL the fish that spawn__ the aggressive ones, and there's triple the number of them! __CAUTION:__ With this mod installed, swimming and fishing in lakes works fine and you can catch a lot of fish (bring an anti-poison buff, you are more likely to get bit!) However, it is __*HIGHLY RECOMMENDED*__ that you do not swim or try to catch fish in any of the narrow rivers. Theree will be way too many of them coming at you at once which could impact game performance, and is highly likely to make you __somewhat dead very fast__. Y'all been warned.
 
 ---
 
-8. __MaxiStax__ (Direct link: https://bit.ly/CKDmaxistax)
+8. <a name="8">__MaxiStax__</a> (Direct link: https://bit.ly/CKDmaxistax)
 
 This mod was designed to help move a large base a short distance without having to fuss with lots of individual stacks. Mods like WZG and others increase stack sizes for __many__ different items, and in some cases by a lot. With this mod, I wanted to take that a step further. By merging this mod with one like WZG I can take advantage of those larger stack sizes already there, and then bump up some key ones by a lot more, thus making a move a bunch easier. Complete details of stack size changes are on the download page.
 
@@ -124,7 +124,7 @@ This mod was designed to help move a large base a short distance without having 
 
 ---
 
-9. __One_Hit_Wonder__ (Direct link: https://bit.ly/CKDonehit)
+9. <a name="9">__One_Hit_Wonder__</a> (Direct link: https://bit.ly/CKDonehit)
 
 Wishing that the __"Peerless Lumberjack"__ and __"Lucky Strike"__ talents gave you a much higher chance of chopping that tree or mining that voxel in just one hit? Wish no more, dear prospector. The One_Hit_Wonder mod is availaible in 10%, 25%, 50%, and 65% flavors.
 
@@ -132,7 +132,7 @@ Wishing that the __"Peerless Lumberjack"__ and __"Lucky Strike"__ talents gave y
 
 ---
 
-10. __Prefab_Base_Kit__ (Direct link: http://bit.ly/CKDprefabs)
+10. <a name="10">__Prefab_Base_Kit__</a> (Direct link: http://bit.ly/CKDprefabs)
 
 Adapting and updating Pr0f23ss0r's original Base Kits mod, here's two new versions (choose one, they aren't compatible with each other). They replace the berry seed pack and cost more. Cuz, my friend, you can just go pick some berries. LOL. To use: just "consume" when on the surface and voila, you have all the needed items.
 
@@ -144,7 +144,7 @@ B. Cozy Cabin Prefab kit: Everything needed for a small but functional 2X3 stone
 
 ---
 
-11. __The Bifrost Titanium Crossbow__ (Direct link: https://bit.ly/CKDbifrost)
+11. <a name="11">__The Bifrost Titanium Crossbow__</a> (Direct link: https://bit.ly/CKDbifrost)
 
 The Bifrost is a weapon of unparalled power and speed. While it requires more resources to craft, it hits harder and has a much higher ammo capacity. (This mod replaces the vanilla Titanium Crossbow, crafted in the Fabricator, with this more expensive and powerful version.)
 
@@ -154,7 +154,7 @@ The Bifrost is a weapon of unparalled power and speed. While it requires more re
 
 ---
 
-12. __Creature Chaos!__ (Direct link: https://bit.ly/CKDcritters)
+12. <a name="12">__Creature Chaos!__</a> (Direct link: https://bit.ly/CKDcritters)
 
 Expanding on CriticalFail's original "Moar_Bearz" mod, I'm moving beyond my "So_Many_Bearz" mod to encompass all the different carnivorous varmints throughout both Olympus and Styx. This mod comes in three flavors, of increasing intensity (labeled LVL 1, 2, and 3).
 
@@ -164,7 +164,7 @@ Level 2 provides some real challenges in dealing with the increased spawning in 
 
 Level 3? Ha! You can't handle level 3... Seriously, be prepared. There can be TONS of crazed quadrupeds ready to attack at every turn. Ya been warned.
 
-Notes:
+__Notes__:
 
 A. This mod only impacts Hard Mode prospects and open world. If there's a lot of popular demand, I could consider making different versions for medium or super hard, but for now, it's just for Hard. I don't recommend using this mod for playing any other level.
 
@@ -172,7 +172,7 @@ B. This mod doesn't specifically alter Horde Mode waves. For that, I'd suggest S
 
 C. Increased spawns may not appear right away. You may need to move around until you come across them.
 
-D. Yes, especially for level 3, there may be some bears spawning in trees. Enjoy.
+D. Yes, especially for level 3, there may be some bears spawning in trees or walking in air. Enjoy.
 
 Good hunting!
 
