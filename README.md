@@ -183,12 +183,6 @@ Good hunting!
 
 ---
 
-__CK_Dexterhaven's special unadvertised "OmniMod"__
-
-This weekly-updated compilation is the collection of mods I play with most often (details on the download page). Feel free to use as desired. All the warnings and disclaimers apply. Cheers! -- [*__Return to mod list__*](#modlist)
-
----
-
 __Installation:__
 
 * Go to \Icarus\Content\Paks\mods. If there is no mods folder, create one inside Paks
