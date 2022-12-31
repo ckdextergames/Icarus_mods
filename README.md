@@ -15,6 +15,7 @@
 10. [Prefab base kits](#10)
 11. [Bifrost Crossbow](#11)
 12. [Creature Chaos](#12)
+13. [Better_Carts](#13)
 
 * Installation instructions
 
@@ -180,6 +181,24 @@ D. Yes, especially for level 3, there may be some bears spawning in trees or wal
 Good hunting!
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_AISpawnRules", "D_AISpawnZones", and "D_AIAutonomousSpawns". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended! -- [*__Return to mod list__*](#modlist)
+
+---
+
+1. <a name="13">__Better Carts__</a> (Direct link: https://bit.ly/CKDbettercarts)
+
+Three new versions of the buffalo cart:
+
+The "Terrier":
+* Weight capacity increased from 1000 to 3000 and no speed loss
+* Same recipie, but slightly increased crafting cost
+  
+The "Ridgeback":
+* Weight capacity increased from 1000 to 5000 and slight speed gain
+* Increased crafting cost, also requires steel screws instead of iron nails
+  
+The "Mastiff":
+* Weight capacity increased from 1000 to 8000 and speed bumped by 40%
+* Increased crafting cost, requires steel screws, steel rebar, and carbon fiber 
 
 ---
 
