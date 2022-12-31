@@ -17,6 +17,10 @@ The "Mastiff":
 * Weight capacity increased from 1000 to 8000 and speed bumped by 40%
 * Increased crafting cost, requires steel screws, steel rebar, and carbon fiber 
 
+(Obviously, these are mutually exclusive mods. Choose one variety.)
+
+*__CAUTION__:* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Equippable.json", "D_ProcessorRecipes", and "D_Itemable", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
 ---
 
 __Installation:__
