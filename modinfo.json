@@ -1,0 +1,211 @@
+{
+  "mods": [
+    {
+      "name": "Dextermod: Super_SuitModule_Bananapants",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Enhances suit modules. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/SuperSuitModules/Dextermod_SuitModule_Bananapants_P.pak"
+    },
+    {
+      "name": "Dextermod: Super_SuitModule_Nice",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Enhances suit modules. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/SuperSuitModules/Dextermod_SuitModule_Nice_P.pak"
+    },
+    {
+      "name": "Dextermod: Super_SuitModule_Wowzers",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Enhances suit modules. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/SuperSuitModules/Dextermod_SuitModule_Wowzers_P.pak"
+	},
+    {
+      "name": "Dextermod: Speedy_Crafter",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Speeds up crafting times. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/SpeedyCrafter/Dextermod_SpeedyCrafter_P.pak"
+	},
+    {
+      "name": "Dextermod: Crazy_Crafter",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Speeds up crafting times. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/CrazyCrafter/Dextermod_CrazyCrafter_P.pak"
+	},
+    {
+      "name": "Dextermod: SuperDeluxe_Combo",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Combo pack of multiple QOL and game-enhancing mods. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/Superdeluxe-Combo/Dextermod_Superdeluxe_Combo_P.pak"
+	},
+    {
+      "name": "Dextermod: NoGold_Statue",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Enables crafting an Icarus statue without gold. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/Statues/Dextermod_NoGold_Statue_P.pak"
+	},
+    {
+      "name": "Dextermod: T4_Statue",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Turns the Icarus Statue into a late-game prize. Must be crafted at fabricator and recipe requires various T2, T3, and T4 materials. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/Statues/Dextermod_T4statue_P.pak"
+	},
+    {
+      "name": "Dextermod: All_The_Poison_Fish",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "All the fish are the aggressive ones, and there's 3X as many. Please see full details on my github before use.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/AllPoisonFish/Dextermod_AllPoisonFish_P.pak"
+	},
+    {
+      "name": "Dextermod: MaxiStax",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Increases stack sizes of many items dramatically. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/MaxiStax/Dextermod_MaxiStax_P.pak"
+	},
+    {
+      "name": "Dextermod: One_Hit_Wonder_10",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Enhances Peerless Lumberjack and Lucky Strike talents for a 10% higher chance of chopping trees or mining voxels in just one hit. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/OneHit/Dextermod_One_Hit_Wonder_10_P.pak"
+	},
+    {
+      "name": "Dextermod: One_Hit_Wonder_25",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Enhances Peerless Lumberjack and Lucky Strike talents for a 25% higher chance of chopping trees or mining voxels in just one hit. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/OneHit/Dextermod_One_Hit_Wonder_25_P.pak"
+	},
+    {
+      "name": "Dextermod: One_Hit_Wonder_50",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Enhances Peerless Lumberjack and Lucky Strike talents for a 50% higher chance of chopping trees or mining voxels in just one hit. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/OneHit/Dextermod_One_Hit_Wonder_50_P.pak"
+	},
+    {
+      "name": "Dextermod: One_Hit_Wonder_65",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Enhances Peerless Lumberjack and Lucky Strike talents for a 65% higher chance of chopping trees or mining voxels in just one hit. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/OneHit/Dextermod_One_Hit_Wonder_65_P.pak"
+	},
+    {
+      "name": "Dextermod: Prefab_Base_Kits_Concrete",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Concrete prefab base kit: Everything needed for a strudy, bare-bones, storm-defying concrete 2X6. Instructions and full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_ConcreteBareBones_P.pak"
+	},
+    {
+      "name": "Dextermod: Prefab_Base_Cozy_Cabin",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": " Everything needed for a small but functional 2X3 stone hunting cabin (including a front porch for watching the sunset and growing a few essential crops). Instructions and full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_CozyCabin_P.pak"
+	},
+    {
+      "name": "Dextermod: Bifrost_Titanium_Crossbow",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Requires more resources to craft, hits harder and has a much higher ammo capacity. This mod replaces the vanilla Titanium Crossbow, crafted in the Fabricator, with this more expensive and powerful version. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/Bifrost/Dextermod_BifrostCrossbow_P.pak"
+	},
+    {
+      "name": "Dextermod: Creature_Chaos_Level_1",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Increases the count of aggressive animals. Please see the full details on my github before use.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL1_P.pak"
+	},
+    {
+      "name": "Dextermod: Creature_Chaos_Level_2",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Increases the count of aggressive animals. Please see the full details on my github before use.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL2_P.pak"
+	},
+    {
+      "name": "Dextermod: Creature_Chaos_Level_3",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Increases the count of aggressive animals. Please see the full details on my github before use.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL3_P.pak"
+	},
+	{
+      "name": "Dextermod: BetterCarts_Mastiff",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Higher capacity, faster buffalo carts. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/BetterCarts/Dextermod_BetterCart_Mastiff_P.pak"
+    },
+	{
+      "name": "Dextermod: BetterCarts_Ridgeback",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Higher capacity, faster buffalo carts. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/BetterCarts/Dextermod_BetterCart_Ridgeback_P.pak"
+    },
+	{
+      "name": "Dextermod: BetterCarts_Terrier",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Higher capacity, faster buffalo carts. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/BetterCarts/Dextermod_BetterCart_Terrier_P.pak"
+    }
+  ]
+}
