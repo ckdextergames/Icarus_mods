@@ -1,6 +1,8 @@
 # Icarus_mods
 *__Welcome to Dextermods__*: Mods for Icarus by CK_Dexterhaven
 
+[Shout-outs](#shouts)
+
 <a name="modlist">MODS:</a>
 
 1. [Super Suit Modules](#1)
@@ -17,11 +19,11 @@
 12. [Creature Chaos](#12)
 13. [Better_Carts](#13)
 
-* Installation instructions
+* [Installation instructions & caution](#install)
 
 ---
 
-*Huge shout-outs to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Waldo, Semac, R3ap3r, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
+<a name="shouts">*Huge shout-outs</a> to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Waldo, Semac, R3ap3r, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
 
 ---
 
@@ -206,7 +208,7 @@ The "Mastiff":
 
 ---
 
-__Installation:__
+<a name="install">__Installation:__</a>
 
 * Go to \Icarus\Content\Paks\mods. If there is no mods folder, create one inside Paks
 * Download .pak file from here and put it in the mods folder.
