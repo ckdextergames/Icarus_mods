@@ -1,7 +1,7 @@
 # Icarus_mods
 *__Welcome to Dextermods__*: Mods for Icarus by CK_Dexterhaven
 
-[Shout-outs](#shouts)
+[Shout-outs and donating](#shouts)
 
 <a name="modlist">MODS:</a>
 
@@ -23,7 +23,9 @@
 
 ---
 
-<a name="shouts">*Huge shout-outs</a> to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Waldo, Semac, R3ap3r, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!* -- [*__Return to mod list__*](#modlist)
+<a name="shouts">*Huge shout-outs</a> to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Waldo, Semac, R3ap3r, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
+
+These mods are free to use of course, but if you'd like to make a small donation you can do so at https://www.buymeacoffee.com/ckdexterhaven -- [*__Return to mod list__*](#modlist)
 
 ---
 
