@@ -73,7 +73,7 @@ Nearly everything crafts way faster (like, crazyfast).
 
 ---
 
-3. <a name="3">__Toughest Hedgehogs__</a> (Direct link: https://bit.ly/CKDhogs)
+3. <a name="3">__Toughest Hedgehogs__</a>
 
 ***Note: NOT UPDATED. With the addition of vanilla fortifications, I may no longer be updating this mod. As of week 49, the Toughest Hedgehogs mod works fine. However, more investigation is required on why it's breaking the sitting-in-chairs game mechanic when combined with other mods, even when all it's json files are updated to the current week. I'll announce on the discord if/when it's been fixed***
 
@@ -108,9 +108,9 @@ This all-in-one package integrates the following:
 
 ---
 
-5. <a name="5">__So_Many_Bearz__</a> (Direct link: https://bit.ly/CKDbearz)
+5. <a name="5">__So_Many_Bearz__</a>
 
-*Note: Not being updated. I suggest instead using one of my [Creature Chaos](#12) mods*. Looking for a challenge? This adaptation of CritFail's *MoarBearz* mod turns up the volume. A lot. Beware! *MoarBearz* keeps the in-game distance they can spawn from your dropship. This mod decreases that distance __by half__! *MoarBearz* increases the possible spawning of bears, polar bears and mammoths from 1 to 3, while this mods __cranks that up to 7__. So yeah, be warned. And be ready! Enjoy.
+***Note: Not being updated. I suggest instead using one of my [Creature Chaos](#12) mods***. Looking for a challenge? This adaptation of CritFail's *MoarBearz* mod turns up the volume. A lot. Beware! *MoarBearz* keeps the in-game distance they can spawn from your dropship. This mod decreases that distance __by half__! *MoarBearz* increases the possible spawning of bears, polar bears and mammoths from 1 to 3, while this mods __cranks that up to 7__. So yeah, be warned. And be ready! Enjoy.
 
 -- [*__Return to mod list__*](#modlist)
 
