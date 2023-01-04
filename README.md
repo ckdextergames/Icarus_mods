@@ -241,7 +241,7 @@ The "Mastiff":
 
 14. <a name="14">__Hearty Meat & Veggie Stew__</a> (Direct link: https://bit.ly/CKDstew)
 
-To fight the cold and be pepared for the hunt, prepare this apex dish! Adapted for Icarus from an old family recipie, this chunky stew boosts health and stamina, regeneration, and more. While it's harder to prepare, doing so is worth its many benefits.
+To fight the cold and be pepared for the hunt, prepare this apex dish! Adapted for Icarus from an old family recipe, this chunky stew boosts health and stamina, regeneration, and more. While it's harder to prepare, doing so is worth its many benefits.
 
 "That stuff's expensive as hell, but basically gives you superpowers!" --Sol
 
