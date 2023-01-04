@@ -207,5 +207,14 @@
       "fileType": "pak",
       "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/BetterCarts/Dextermod_BetterCart_Terrier_P.pak"
     }
-  ]
+	{
+      "name": "Dextermod: Extra Hearty Meat & Veggie Stew",
+      "author": "CK_Dexterhaven",
+      "version": "1.14",
+      "compatibility": "w56",
+      "description": "Superfood recipe replaces the in-game Stew. Full details on my github.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/MeatVegStew/Dextermod_Hearty_MeatVeg_Stew_P.pak"
+    }
+]
 }
