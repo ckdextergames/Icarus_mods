@@ -24,7 +24,7 @@
 
 ---
 
-<a name="shouts">*Huge shout-outs</a> to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Waldo, Semac, R3ap3r, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
+<a name="shouts">*Huge shout-outs</a> to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Waldo, Semac, R3ap3r, Nic, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
 
 These mods are free to use of course, but if you'd like to make a small donation you can do so at https://www.buymeacoffee.com/ckdexterhaven
 
@@ -91,6 +91,7 @@ This all-in-one package integrates the following:
 
 * The expansive WZG Icarus-balance-overhaul mod, tweaked thusly:
    * Rope from fiber can be crafted on the Character in addition to the Crafting Bench (as of week 57 update)
+   * Workshop repair kits can be crafted in the Fabricator (as of week 57 update)
    * The Larkwell Beta bakcpack has higher stats (more slots, reduced carry weights, increased ammo capacity and reload speed for rifles, etc) 
    * Much higher chances to mine a voxel in one swing and harvest a tree with one chop
    * More food buff slots
