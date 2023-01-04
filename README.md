@@ -17,7 +17,8 @@
 10. [Prefab base kits](#10)
 11. [Bifrost Crossbow](#11)
 12. [Creature Chaos](#12)
-13. [Better_Carts](#13)
+13. [Better Carts](#13)
+14. [Hearty Meat & Veggie Stew](#14)
 
 * [Installation instructions & caution](#install)
 
@@ -233,6 +234,20 @@ The "Mastiff":
 (Obviously, these are mutually exclusive mods. Choose one variety.)
 
 *__CAUTION__:* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Equippable.json", "D_ProcessorRecipes", and "D_Itemable", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+14. <a name="14">__Hearty Meat & Veggie Stew__</a> (Direct link: https://bit.ly/CKDstew)
+
+To fight the cold and be pepared for the hunt, prepare this apex dish! Adapted for Icarus from an old family recipie, this chunky stew boosts health and stamina, regeneration, and more. While it's harder to prepare, doing so is worth its many benefits.
+
+"That stuff's expensive as hell, but basically gives you superpowers!" --Sol
+
+This mod replaces the "Stew" item, and can only be crafted in the electric and biodiesel stoves, not the potbelly stove.
+
+*__CAUTION__:* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ModifierStates.json", "D_ProcessorRecipes", "D_Consumable", and "D_Itemable", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
 -- [*__Return to mod list__*](#modlist)
 
