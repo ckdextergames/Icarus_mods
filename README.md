@@ -19,6 +19,7 @@
 12. [Creature Chaos](#12)
 13. [Better Carts](#13)
 14. [Hearty Meat & Veggie Stew](#14)
+15. [Enzyme Power Smoothies](#15)
 
 * [Installation instructions & caution](#install)
 
@@ -255,6 +256,18 @@ To fight the cold and be pepared for the hunt, prepare this apex dish! Adapted f
 This mod replaces the "Stew" item, and can only be crafted in the electric and biodiesel stoves, not the potbelly stove.
 
 *__CAUTION__:* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ModifierStates.json", "D_ProcessorRecipes", "D_Consumable", and "D_Itemable", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+15. <a name="15">__EPS: Enzyme Power Smoothies__</a> (Direct link: https://bit.ly/CKDeps)
+
+Blended in the Kitchen Bench or Advanced Kitchen Bench in one these 5 "delicious" varieties, these elixirs pack a punch:
+
+Health Jolt, Stamina Jolt, Fall Damage Protection, Speed Jolt, and EPS 2.0 "OmniBoost"
+
+*__CAUTION__:* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ModifierStates.json", "D_ProcessorRecipes", "D_ItemStatic", "D_ItemTemplate", "D_Consumable", "D_Meshable", and "D_Itemable", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
 -- [*__Return to mod list__*](#modlist)
 
