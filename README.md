@@ -27,7 +27,7 @@
 
 <a name="shouts">*Huge shout-outs</a> to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Waldo, Semac, R3ap3r, Nic, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
 
-These mods are free to use of course, but if you'd like to make a small donation you can do so at https://www.buymeacoffee.com/ckdexterhaven
+These mods are free to use of course, but if you'd like to make a small donation you can do so at https://www.buymeacoffee.com/ckdexterhaven or at https://ko-fi.com/ckdexterhaven
 
 -- [*__Return to mod list__*](#modlist)
 
