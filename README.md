@@ -103,7 +103,11 @@ This all-in-one package integrates the following:
 * Critfail's Pneu_B_Gone (as-is)
 * An enhanced versions of CritFail's WasteNot_All (higher chance for more exotics)
 
-*__CAUTION:__* Intended as a unique modpack -- it confilcts with other mods. If you intend to use this mod with any other mods, you'll for sure need to use [Mod Manager](https://github.com/Jimk72/Icarus_Software) to choose options and merge.
+*__CAUTIONS:__*
+
+* Intended as a unique modpack -- it confilcts with other mods. If you intend to use this mod with any other mods, you'll for sure need to use [Mod Manager](https://github.com/Jimk72/Icarus_Software) to choose options and merge.
+* This mod changes stack sizes. Be warned that if you use this mod, and then use no mods or different mods during a prospect or in the same Open World/Outpost, you will likely lose some or even all inventory. It is best to stay with one stack-size-changing mod for a given prospect or Open World.
+
 
 -- [*__Return to mod list__*](#modlist)
 
@@ -147,7 +151,10 @@ Going the opposite direction of JimK72's great No_Poison_Fish mod, this one make
 
 This mod was designed to help move a large base a short distance without having to fuss with lots of individual stacks. Mods like WZG and others increase stack sizes for __many__ different items, and in some cases by a lot. With this mod, I wanted to take that a step further. By merging this mod with one like WZG I can take advantage of those larger stack sizes already there, and then bump up some key ones by a lot more, thus making a move a bunch easier. Complete details of stack size changes are on the download page.
 
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Itemable.json", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+*__CAUTIONS__*:
+
+* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Itemable.json", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+* This mod changes stack sizes. Be warned that if you use this mod, and then use no mods or different mods during a prospect or in the same Open World/Outpost, you will likely lose some or even all inventory. It is best to stay with one stack-size-changing mod for a given prospect or Open World.
 
 -- [*__Return to mod list__*](#modlist)
 
