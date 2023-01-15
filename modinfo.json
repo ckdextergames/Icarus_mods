@@ -6,13 +6,7 @@
       "version": "1.15",
       "compatibility": "w58",
       "description": "Enhances suit modules. Full details on my github.",
-      "long_description": "__Super Suit Modules__
-Each version below alters the listed suit module accordingly.
-**Bananapants Version:**
-* 60% increase to movement speed (Mass Dampener was 5%)
-* 100% fall damage resistance (Kickfall was 25%)
-* Base weight capacity increased by 40 (Adlift was 5)
-",
+      "long_description": "__Super Suit Modules__ \n Each version below alters the listed suit module accordingly. \n **Bananapants** Version: \n 60% increase to movement speed (Mass Dampener was 5%) \n 100% fall damage resistance (Kickfall was 25%) \n Base weight capacity increased by 40 (Adlift was 5)",
       "fileType": "pak",
       "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/SuperSuitModules/Dextermod_SuitModule_Bananapants_P.pak",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/SuperSuitModules/supersuits.png"
