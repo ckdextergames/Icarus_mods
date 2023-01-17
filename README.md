@@ -3,10 +3,18 @@
 
 __The Sinotai Extreme Spikewall!__
 
+* [Mod info](#mod)
 * [Shout-outs and donating](#shouts)
 * [Disclaimers/warnings](#warnings)
-* [Mod info](#mod)
 * [Installation instructions & caution](#install)
+
+---
+
+<a name="mod">__The Sinotai Extreme Spikewall!__</a>
+
+Replacing the vanilla Spike Fortifications, these new Spikes require much higher-tier materials to craft (refined wood, steel ingots and screws, carbon fiber, exotics, and rope). However, they have __8 times__ the durability of vanilla spikes.
+
+*Hold the line, prospector... Hold. The. Line!*
 
 ---
 
@@ -21,14 +29,6 @@ These mods are free to use of course, but if you'd like to make a small donation
 * This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemsStatic.json", "D_ItemTemplate", "D_Itemable", "D_Durable" & "D_ProcessorRecipes"; or use Mod Manager to choose your desired changes.
 * Instead of placing mods in your mod folder, using [Mod Manager](https://github.com/Jimk72/Icarus_Software) is highly recommended!
 * Playing with others who aren't using the the exact same mod file(s), or any mods, could cause errors, crashes, and/or inventory loss.
-
----
-
-<a name="mod">__The Sinotai Extreme Spikewall!__</a>
-
-Replacing the vanilla Spike Fortifications, these new Spikes require much higher-tier materials to craft (refined wood, steel ingots and screws, carbon fiber, exotics, and rope). However, they have __8 times__ the durability of vanilla spikes.
-
-*Hold the line, prospector... Hold. The. Line!*
 
 ---
 
