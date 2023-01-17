@@ -39,7 +39,7 @@ These mods are free to use of course, but if you'd like to make a small donation
 
 <a name="warnings">*__WARNINGS:__*</a>
 
-* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemsStatic.json", "D_ItemTemplate", "D_Itemable", "D_Durable" & "D_ProcessorRecipes"; or use Mod Manager to choose your desired changes.
+* This mod may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes.
 * Instead of placing mods in your mod folder, using [Mod Manager](https://github.com/Jimk72/Icarus_Software) is highly recommended!
 * Playing with others who aren't using the the exact same mod file(s), or any mods, could cause errors, crashes, and/or inventory loss.
 
