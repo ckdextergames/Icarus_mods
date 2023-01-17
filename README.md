@@ -27,6 +27,8 @@ This all-in-one package integrates the following:
 * Critfail's Pneu_B_Gone (as-is)
 * An enhanced versions of CritFail's WasteNot_All (giving you a higher chance for more exotics)
 
+* __Caution__: This mod changes stack sizes. Be warned that if you use this mod, and then use no mods or different mods during a prospect or in the same Open World/Outpost, you will likely lose some or even all inventory. It is best to stay with one stack-size-changing mod for a given prospect or Open World.
+
 ---
 
 <a name="shouts">*Huge shout-outs</a> to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Donovan, Waldo, Semac, R3ap3r, Nic, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
