@@ -4,7 +4,7 @@
 __The Sinotai Extreme Spikewall!__
 
 * [Shout-outs and donating](#shouts)
-* [Disclaimers/warnings](#warning)
+* [Disclaimers/warnings](#warnings)
 * [Mod info](#mod)
 * [Installation instructions & caution](#install)
 
@@ -16,7 +16,7 @@ These mods are free to use of course, but if you'd like to make a small donation
 
 ---
 
-<a name "warning"> *__WARNINGS__*: </a>
+<a name="warnings">*__WARNINGS:__*</a>
 
 * This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemsStatic.json", "D_ItemTemplate", "D_Itemable", "D_Durable" & "D_ProcessorRecipes"; or use Mod Manager to choose your desired changes.
 * Instead of placing mods in your mod folder, using [Mod Manager](https://github.com/Jimk72/Icarus_Software) is highly recommended!
