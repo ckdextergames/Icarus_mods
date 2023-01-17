@@ -292,7 +292,7 @@ Health Jolt, Stamina Jolt, Fall Damage Protection, Speed Jolt, and EPS 2.0 "Omni
 
 ---
 
-<a name="16">__The Sinotai Extreme Spikewall!__</a>
+<a name="16">__The Sinotai Extreme Spikewall!__</a> (Direct link: https://bit.ly/CKDspikes)
 
 Replacing the vanilla Spike Fortifications, these new Spikes require much higher-tier materials to craft (refined wood, steel ingots and screws, carbon fiber, exotics, and rope). However, they have __8 times__ the durability of vanilla spikes.
 
