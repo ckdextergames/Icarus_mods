@@ -3,6 +3,8 @@
 
 [Shout-outs and donating](#shouts)
 
+[Important Warnings - Please Read](#warnings)
+
 <a name="modlist">MODS:</a>
 
 1. [Super Suit Modules](#1)
@@ -20,8 +22,19 @@
 13. [Better Carts](#13)
 14. [Hearty Meat & Veggie Stew](#14)
 15. [Enzyme Power Smoothies](#15)
+16. [The Sinotai Extreme Spikewall](#16)
 
 * [Installation instructions & caution](#install)
+
+---
+
+<a name="warnings">*__WARNINGS:__*</a>
+
+* These mod may conflict with other mods! Recommended to use alone, or with mods known not to change the files listed for each mod.
+* Instead of placing mods in your mod folder, using [Mod Manager](https://github.com/Jimk72/Icarus_Software) is highly recommended!
+* Playing with others who aren't using the the exact same mod file(s), or any mods, could cause errors, crashes, and/or inventory loss.
+
+-- [*__Return to mod list__*](#modlist)
 
 ---
 
@@ -143,6 +156,8 @@ __All_The_Poison_Fish!__
 
 Going the opposite direction of JimK72's great No_Poison_Fish mod, this one makes __ALL the fish that spawn__ the aggressive ones, and there's triple the number of them! __CAUTION:__ With this mod installed, swimming and fishing in lakes works fine and you can catch a lot of fish (bring an anti-poison buff, you are more likely to get bit!) However, it is __*HIGHLY RECOMMENDED*__ that you do not swim or try to catch fish in any of the narrow rivers. Theree will be way too many of them coming at you at once which could impact game performance, and is highly likely to make you __somewhat dead very fast__. Y'all been warned.
 
+*__CAUTION__:* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_WaterSetup", or use Mod Manager to choose your desired changes.
+
 -- [*__Return to mod list__*](#modlist)
 
 ---
@@ -151,10 +166,7 @@ Going the opposite direction of JimK72's great No_Poison_Fish mod, this one make
 
 This mod was designed to help move a large base a short distance without having to fuss with lots of individual stacks. Mods like WZG and others increase stack sizes for __many__ different items, and in some cases by a lot. With this mod, I wanted to take that a step further. By merging this mod with one like WZG I can take advantage of those larger stack sizes already there, and then bump up some key ones by a lot more, thus making a move a bunch easier. Complete details of stack size changes are on the download page.
 
-*__CAUTIONS__*:
-
-* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Itemable.json", or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
-* This mod changes stack sizes. Be warned that if you use this mod, and then use no mods or different mods during a prospect or in the same Open World/Outpost, you will likely lose some or even all inventory. It is best to stay with one stack-size-changing mod for a given prospect or Open World.
+* __Caution__: This mod changes stack sizes. Be warned that if you use this mod, and then use no mods or different mods during a prospect or in the same Open World/Outpost, you will likely lose some or even all inventory. It is best to stay with one stack-size-changing mod for a given prospect or Open World.
 
 -- [*__Return to mod list__*](#modlist)
 
@@ -280,12 +292,23 @@ Health Jolt, Stamina Jolt, Fall Damage Protection, Speed Jolt, and EPS 2.0 "Omni
 
 ---
 
+<a name="16">__The Sinotai Extreme Spikewall!__</a>
+
+Replacing the vanilla Spike Fortifications, these new Spikes require much higher-tier materials to craft (refined wood, steel ingots and screws, carbon fiber, exotics, and rope). However, they have __8 times__ the durability of vanilla spikes.
+
+*__CAUTION__:* * This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemsStatic.json", "D_ItemTemplate", "D_Itemable", "D_Durable" & "D_ProcessorRecipes"; or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+*Hold the line, prospector... Hold. The. Line!*
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
 <a name="install">__Installation:__</a>
 
 * Go to \Icarus\Content\Paks\mods. If there is no mods folder, create one inside Paks
 * Download .pak file from here and put it in the mods folder.
+* See the warning above regarding placing multiple mods in this folder! [Mod Manager](https://github.com/Jimk72/Icarus_Software) is highly recommended! 
 * Relaunch steam and Icarus. Enjoy!
-
-__WARNING: these mods are intended for Offline and/or solo play. Playing with others who aren't using the same mods or any mods could cause errors, crashes, and/or inventory loss.__
 
 -- [*__Return to mod list__*](#modlist)

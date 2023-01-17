@@ -308,6 +308,17 @@
       "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/MeatVegStew/Dextermod_Hearty_MeatVeg_Stew_P.pak",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/MeatVegStew/stew.png",
 			"readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/MeatVegStew/README.md"
+    },
+		{
+      "name": "Dextermod: Sinotai Extreme Spikes",
+      "author": "CK_Dexterhaven",
+      "version": "1.15",
+      "compatibility": "w58",
+      "description": "The Sinotai Extreme Spikewall! Eight times the durability as vanilla spikes.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/MeatVegStew/Dextermod_Hearty_MeatVeg_Stew_P.pak",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/ExtremeSpikes/spikes.png",
+		"readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/ExtremeSpikes/README.md"
     }
 ]
 }
