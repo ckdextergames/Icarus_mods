@@ -14,6 +14,8 @@ __The Sinotai Extreme Spikewall!__
 
 Replacing the vanilla Spike Fortifications, these new Spikes require much higher-tier materials to craft (refined wood, steel ingots and screws, carbon fiber, exotics, and rope). However, they have __8 times__ the durability of vanilla spikes.
 
+They are crafted in the Machining Bench, not the Crafting Bench.
+
 *Hold the line, prospector... Hold. The. Line!*
 
 ---
