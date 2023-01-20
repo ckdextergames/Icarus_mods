@@ -3,7 +3,7 @@
     {
       "name": "Dextermod: Super_SuitModule_Bananapants",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Enhances suit modules.",
       "fileType": "pak",
@@ -14,7 +14,7 @@
     {
       "name": "Dextermod: Super_SuitModule_Nice",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Enhances suit modules.",
       "fileType": "pak",
@@ -25,7 +25,7 @@
     {
       "name": "Dextermod: Super_SuitModule_Wowzers",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Enhances suit modules.",
       "fileType": "pak",
@@ -36,7 +36,7 @@
     {
       "name": "Dextermod: Speedy_Crafter",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Speeds up crafting times.",
       "fileType": "pak",
@@ -47,7 +47,7 @@
     {
       "name": "Dextermod: Crazy_Crafter",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Speeds up crafting times. A lot.",
       "fileType": "pak",
@@ -58,7 +58,7 @@
     {
       "name": "Dextermod: SuperDeluxe_Combo",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Combo pack of multiple QOL and game-enhancing mods.",
       "fileType": "pak",
@@ -69,7 +69,7 @@
      {
       "name": "Dextermod: NoGold_Statue",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Enables crafting an Icarus statue without gold.",
       "fileType": "pak",
@@ -80,7 +80,7 @@
     {
       "name": "Dextermod: T4_Statue",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Turns the Icarus Statue into a late-game prize. Must be crafted at fabricator and recipe requires various T2, T3, and T4 materials.",
       "fileType": "pak",
@@ -91,7 +91,7 @@
     {
       "name": "Dextermod: All_The_Poison_Fish",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "All the fish are the aggressive ones, and there's 3X as many. Please see full details before use.",
       "fileType": "pak",
@@ -102,7 +102,7 @@
     {
       "name": "Dextermod: MaxiStax",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Increases stack sizes of many items dramatically.",
       "fileType": "pak",
@@ -113,7 +113,7 @@
     {
       "name": "Dextermod: One_Hit_Wonder_10",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Enhances Peerless Lumberjack and Lucky Strike talents for a 10% higher chance of chopping trees or mining voxels in just one hit.",
       "fileType": "pak",
@@ -124,7 +124,7 @@
     {
       "name": "Dextermod: One_Hit_Wonder_25",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Enhances Peerless Lumberjack and Lucky Strike talents for a 25% higher chance of chopping trees or mining voxels in just one hit.",
       "fileType": "pak",
@@ -135,7 +135,7 @@
     {
       "name": "Dextermod: One_Hit_Wonder_50",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Enhances Peerless Lumberjack and Lucky Strike talents for a 50% higher chance of chopping trees or mining voxels in just one hit.",
       "fileType": "pak",
@@ -146,7 +146,7 @@
     {
       "name": "Dextermod: One_Hit_Wonder_65",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Enhances Peerless Lumberjack and Lucky Strike talents for a 65% higher chance of chopping trees or mining voxels in just one hit. Full details on my github.",
       "fileType": "pak",
@@ -157,7 +157,7 @@
     {
       "name": "Dextermod: Prefab_Base_Kits_Concrete",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Concrete prefab base kit: Everything needed for a strudy, bare-bones, storm-defying concrete 2X6.",
       "fileType": "pak",
@@ -168,7 +168,7 @@
     {
       "name": "Dextermod: Prefab_Base_Cozy_Cabin",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Everything needed for a small but functional 2X3 stone hunting cabin (including a front porch for watching the sunset and growing a few essential crops).",
       "long_description": "See https://bit.ly/CKDprefabs for more info.",
@@ -180,7 +180,7 @@
     {
       "name": "Dextermod: Prefab_Base_BigConcrete",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Everything needed for a larger concrete base. Somewhat pricer, but still just the building materials.",
       "fileType": "pak",
@@ -191,7 +191,7 @@
     {
       "name": "Dextermod: Prefab_Base_BigStone",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "A more expensive package, this contains everything needed for larger stone hunting cabin -- including a front porch for watching the sunset and growing a few essential crops.",
       "fileType": "pak",
@@ -202,7 +202,7 @@
     {
       "name": "Dextermod: Prefab_Team_Basecamp",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "A much more expensive package with lots more to use.",
       "fileType": "pak",
@@ -213,7 +213,7 @@
     {
       "name": "Dextermod: Bifrost_Titanium_Crossbow",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Requires more resources to craft, hits harder and has a much higher ammo capacity. This mod replaces the vanilla Titanium Crossbow, crafted in the Fabricator, with this more expensive and powerful version.",
       "fileType": "pak",
@@ -224,7 +224,7 @@
     {
       "name": "Dextermod: Creature_Chaos_Level_1",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Increases the count of aggressive animals. Please see the full details before use.",
       "fileType": "pak",
@@ -235,7 +235,7 @@
     {
       "name": "Dextermod: Creature_Chaos_Level_2",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Increases the count of aggressive animals. Please see the full details before use.",
       "fileType": "pak",
@@ -246,7 +246,7 @@
     {
       "name": "Dextermod: Creature_Chaos_Level_3",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Increases the count of aggressive animals. Please see the full details before use.",
       "fileType": "pak",
@@ -257,7 +257,7 @@
 		{
       "name": "Dextermod: BetterCarts_Mastiff",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Higher capacity, faster buffalo carts.",
       "fileType": "pak",
@@ -268,7 +268,7 @@
 		{
       "name": "Dextermod: BetterCarts_Ridgeback",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Higher capacity, faster buffalo carts.",
       "fileType": "pak",
@@ -279,7 +279,7 @@
 		{
       "name": "Dextermod: BetterCarts_Terrier",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Higher capacity, faster buffalo carts.",
       "fileType": "pak",
@@ -290,7 +290,7 @@
 		{
       "name": "Dextermod: Enzyme Power Smoothies",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Blended in the Kitchen Bench or Advanced Kitchen Bench in one of 5 varieties, these elixirs pack a punch.",
       "fileType": "pak",
@@ -301,7 +301,7 @@
 		{
       "name": "Dextermod: Extra Hearty Meat & Veggie Stew",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "Superfood recipe replaces the in-game Stew.",
       "fileType": "pak",
@@ -312,7 +312,7 @@
 		{
       "name": "Dextermod: Sinotai Extreme Spikes",
       "author": "CK_Dexterhaven",
-      "version": "1.15",
+      "version": "1.17",
       "compatibility": "w59",
       "description": "The Sinotai Extreme Spikewall! Eight times the durability as vanilla spikes.",
       "fileType": "pak",
