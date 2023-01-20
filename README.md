@@ -284,7 +284,7 @@ Replacing the vanilla Spike Fortifications, these new Spikes require much higher
 
 ---
 
-<a name="15>__Deprecated mods:__</a>
+<a name="15">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
 * Toughest Hedgehogs (I recommend instead using the Sinotai Extreme Spikewall mod)
