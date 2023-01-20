@@ -9,20 +9,21 @@
 
 1. [Super Suit Modules](#1)
 2. [SpeedyCrafter and CrazyCrafter](#2)
-3. [Toughest Hedgehogs](#3) -- *Note: This is not being updated*
-4. [Superdeluxe Combo](#4)
-5. [So. Many. Bearz!](#5) -- *Note: This is not being updated, I suggest [Creature Chaos](#12) instead.*
-6. [Revised Icarus Statue](#6)
-7. [All Poison Fish](#7)
-8. [MaxiStax](#8)
-9. [One Hit Wonder](#9)
-10. [Prefab base kits](#10)
-11. [Bifrost Crossbow](#11)
-12. [Creature Chaos](#12)
-13. [Better Carts](#13)
-14. [Hearty Meat & Veggie Stew](#14)
-15. [Enzyme Power Smoothies](#15)
-16. [The Sinotai Extreme Spikewall](#16)
+3. [Superdeluxe Combo](#3)
+4. [Revised Icarus Statue](#4)
+5. [All Poison Fish](#5)
+6. [MaxiStax](#6)
+7. [One Hit Wonder](#7)
+8. [Prefab base kits](#8)
+9. [Bifrost Crossbow](#9)
+10. [Creature Chaos](#10)
+11. [Better Carts](#11)
+12. [Hearty Meat & Veggie Stew](#12)
+13. [Enzyme Power Smoothies](#13)
+14. [The Sinotai Extreme Spikewall](#14)
+
+
+[Deprecated mods - no longer in use](#15)
 
 * [Installation instructions & caution](#install)
 
@@ -87,19 +88,7 @@ Nearly everything crafts way faster (like, crazyfast).
 
 ---
 
-3. <a name="3">__Toughest Hedgehogs__</a>
-
-***Note: NOT UPDATED. With the addition of vanilla fortifications, I may no longer be updating this mod. As of week 49, the Toughest Hedgehogs mod works fine. However, more investigation is required on why it's breaking the sitting-in-chairs game mechanic when combined with other mods, even when all it's json files are updated to the current week. I'll announce on the discord if/when it's been fixed***
-
-Hedgehogs which look just like the normal "Medium Wood Hedgehog" but are **40X** more durable and cause **5X** damage. Crafting requires additional materials.
-
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemsStatic.json", "D_Alterations" & "D_ProcessorRecipes"; or use Mod Manager to choose your desired changes.  [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
-
--- [*__Return to mod list__*](#modlist)
-
----
-
-4. <a name="4">__Superdeluxe Combo__</a> (Direct link: https://bit.ly/CKDcombo)
+3. <a name="3">__Superdeluxe Combo__</a> (Direct link: https://bit.ly/CKDcombo)
 
 This all-in-one package integrates the following:
 
@@ -126,15 +115,7 @@ This all-in-one package integrates the following:
 
 ---
 
-5. <a name="5">__So_Many_Bearz__</a>
-
-***Note: Not being updated. I suggest instead using one of my [Creature Chaos](#12) mods***. Looking for a challenge? This adaptation of CritFail's *MoarBearz* mod turns up the volume. A lot. Beware! *MoarBearz* keeps the in-game distance they can spawn from your dropship. This mod decreases that distance __by half__! *MoarBearz* increases the possible spawning of bears, polar bears and mammoths from 1 to 3, while this mods __cranks that up to 7__. So yeah, be warned. And be ready! Enjoy.
-
--- [*__Return to mod list__*](#modlist)
-
----
-
-6. <a name="6">__Revised Icarus Statues__: two varieties!</a> (Direct link: https://bit.ly/CKDstatues)
+4. <a name="4">__Revised Icarus Statues__: two varieties!</a> (Direct link: https://bit.ly/CKDstatues)
 
 __NoGold_Statue__
 
@@ -150,7 +131,7 @@ This mod turns the Icarus Statue into a late-game prize to be displayed with pri
 
 ---
 
-7. <a name="7">__All_The_Poison_Fish!__</a> (Direct link: https://bit.ly/CKDpoisonfish)
+5. <a name="5">__All_The_Poison_Fish!__</a> (Direct link: https://bit.ly/CKDpoisonfish)
 
 __All_The_Poison_Fish!__
 
@@ -162,7 +143,7 @@ Going the opposite direction of JimK72's great No_Poison_Fish mod, this one make
 
 ---
 
-8. <a name="8">__MaxiStax__</a> (Direct link: https://bit.ly/CKDmaxistax)
+6. <a name="6">__MaxiStax__</a> (Direct link: https://bit.ly/CKDmaxistax)
 
 This mod was designed to help move a large base a short distance without having to fuss with lots of individual stacks. Mods like WZG and others increase stack sizes for __many__ different items, and in some cases by a lot. With this mod, I wanted to take that a step further. By merging this mod with one like WZG I can take advantage of those larger stack sizes already there, and then bump up some key ones by a lot more, thus making a move a bunch easier. Complete details of stack size changes are on the download page.
 
@@ -172,7 +153,7 @@ This mod was designed to help move a large base a short distance without having 
 
 ---
 
-9. <a name="9">__One_Hit_Wonder__</a> (Direct link: https://bit.ly/CKDonehit)
+7. <a name="7">__One_Hit_Wonder__</a> (Direct link: https://bit.ly/CKDonehit)
 
 Wishing that the __"Peerless Lumberjack"__ and __"Lucky Strike"__ talents gave you a much higher chance of chopping that tree or mining that voxel in just one hit? Wish no more, dear prospector. The One_Hit_Wonder mod is availaible in 10%, 25%, 50%, and 65% flavors.
 
@@ -182,7 +163,7 @@ Wishing that the __"Peerless Lumberjack"__ and __"Lucky Strike"__ talents gave y
 
 ---
 
-10. <a name="10">__Prefab_Base_Kit__</a> (Direct link: http://bit.ly/CKDprefabs)
+8. <a name="8">__Prefab_Base_Kit__</a> (Direct link: http://bit.ly/CKDprefabs)
 
 Adapting and updating Pr0f23ss0r's original Base Kits mod, here's two new versions (choose one, they aren't compatible with each other). They replace the berry seed pack and cost more. Cuz, my friend, you can just go pick some berries. LOL. To use: just research, buy, and "consume" when on the surface. Then voila, you have all the needed items in your inventory. They come in five varieties:
 
@@ -202,7 +183,7 @@ E. The Team Basecamp Prefab kit: A **much** more expensive package, this contain
 
 ---
 
-11. <a name="11">__The Bifrost Titanium Crossbow__</a> (Direct link: https://bit.ly/CKDbifrost)
+9. <a name="9">__The Bifrost Titanium Crossbow__</a> (Direct link: https://bit.ly/CKDbifrost)
 
 The Bifrost is a weapon of unparalled power and speed. While it requires more resources to craft, it hits harder and has a much higher ammo capacity. (This mod replaces the vanilla Titanium Crossbow, crafted in the Fabricator, with this more expensive and powerful version.)
 
@@ -214,7 +195,7 @@ The Bifrost is a weapon of unparalled power and speed. While it requires more re
 
 ---
 
-12. <a name="12">__Creature Chaos!__</a> (Direct link: https://bit.ly/CKDcritters)
+10. <a name="10">__Creature Chaos!__</a> (Direct link: https://bit.ly/CKDcritters)
 
 Expanding on CriticalFail's original "Moar_Bearz" mod, I'm moving beyond my "So_Many_Bearz" mod to encompass all the different carnivorous varmints throughout both Olympus and Styx. This mod comes in three flavors, of increasing intensity (labeled LVL 1, 2, and 3).
 
@@ -242,7 +223,7 @@ Good hunting!
 
 ---
 
-13. <a name="13">__Better Carts__</a> (Direct link: https://bit.ly/CKDbettercarts)
+11. <a name="11">__Better Carts__</a> (Direct link: https://bit.ly/CKDbettercarts)
 
 Three new versions of the buffalo cart:
 
@@ -266,7 +247,7 @@ The "Mastiff":
 
 ---
 
-14. <a name="14">__Hearty Meat & Veggie Stew__</a> (Direct link: https://bit.ly/CKDstew)
+12. <a name="12">__Hearty Meat & Veggie Stew__</a> (Direct link: https://bit.ly/CKDstew)
 
 To fight the cold and be pepared for the hunt, prepare this apex dish! Adapted for Icarus from an old family recipe, this chunky stew boosts health and stamina, regeneration, and more. While it's harder to prepare, doing so is worth its many benefits.
 
@@ -280,7 +261,7 @@ This mod replaces the "Stew" item, and can only be crafted in the electric and b
 
 ---
 
-15. <a name="15">__EPS: Enzyme Power Smoothies__</a> (Direct link: https://bit.ly/CKDeps)
+13. <a name="13">__EPS: Enzyme Power Smoothies__</a> (Direct link: https://bit.ly/CKDeps)
 
 Blended in the Kitchen Bench or Advanced Kitchen Bench in one these 5 "delicious" varieties, these elixirs pack a punch:
 
@@ -292,7 +273,7 @@ Health Jolt, Stamina Jolt, Fall Damage Protection, Speed Jolt, and EPS 2.0 "Omni
 
 ---
 
-<a name="16">__The Sinotai Extreme Spikewall!__</a> (Direct link: https://bit.ly/CKDspikes)
+14. <a name="14">__The Sinotai Extreme Spikewall!__</a> (Direct link: https://bit.ly/CKDspikes)
 
 Replacing the vanilla Spike Fortifications, these new Spikes require much higher-tier materials to craft (refined wood, steel ingots and screws, carbon fiber, exotics, and rope). However, they have __8 times__ the durability of vanilla spikes.
 
@@ -301,6 +282,14 @@ Replacing the vanilla Spike Fortifications, these new Spikes require much higher
 *Hold the line, prospector... Hold. The. Line!*
 
 -- [*__Return to mod list__*](#modlist)
+
+---
+
+<a name="15>__Deprecated mods:__</a>
+
+These mods are no longer in use, and I won't be updating them:
+* Toughest Hedgehogs (I recommend instead using the Sinotai Extreme Spikewall mod)
+* So_Many_Bearz (I recommend instead using the Creature Chaos mods) 
 
 ---
 
