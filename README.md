@@ -1,9 +1,9 @@
 # Icarus_mods
 *__Welcome to Dextermods__*: Mods for Icarus by CK_Dexterhaven
 
-[Shout-outs and donating](#shouts)
+* [Shout-outs and donating](#shouts)
 
-[Important Warnings - Please Read](#warnings)
+* [Important Warnings - Please Read](#warnings)
 
 <a name="modlist">MODS:</a>
 
@@ -22,8 +22,7 @@
 13. [Enzyme Power Smoothies](#13)
 14. [The Sinotai Extreme Spikewall](#14)
 
-
-[Deprecated mods - no longer in use](#15)
+* [Deprecated mods - no longer in use](#15)
 
 * [Installation instructions & caution](#install)
 
