@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Icarus_mods
 *__Welcome to Dextermods__*: Mods for Icarus by CK_Dexterhaven
 
