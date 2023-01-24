@@ -12,7 +12,7 @@ __The "Panther" Enhanced Suit Module__
 
 <a name="mod">__Enhanced Combo Suit Module: "The Panther"__</a>
 
-Costing quite a bit more to research and purchase, this powerful suit module replaces the "Patcher I" and combines characteristings of multiple modules:
+Costing quite a bit more to research and purchase, this powerful suit module replaces the "Patcher I" and combines characteristics of multiple modules:
 
 * Increases speed by 60%
 * Adds 12 additional inventory slots
