@@ -341,7 +341,6 @@
       "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/StackingCropPlots/Dextermod_StackingCropPlots_P.pak",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/StackingCropPlots/cropplots.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/StackingCropPlots/README.md"
-<<<<<<< HEAD
     },
 		{
       "name": "Dextermod: Enhanced Suit Module",
@@ -364,8 +363,16 @@
       "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/Backpack/Dextermod_TacticalBackpack_P.pak",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Backpack/backpack.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Backpack/README.md"
-=======
->>>>>>> 51b41941af70b4a279d1f2fe94c0824d92db0af7
+    },
+		{
+      "name": "Buffalo Mounts - Ride & Carry",
+      "author": "CK_Dexterhaven",
+      "version": "1.17",
+      "compatibility": "w59",
+      "description": "Made by modder Unaffected, this enables both riding on a saddle and pulling a cart.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/BuffalosRideCarry/Mount_RideCarry_P.pak",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/BuffalosRideCarry/README.md"
     }
 ]
 }
