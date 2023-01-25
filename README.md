@@ -349,11 +349,9 @@ This enhanced version of the Larkwell-Martinez Tactical Backpack has many powerf
 
 ---
 
-19. <a name="19">__Buffalo Mount mod - Ride & Carry__</a>
+19. <a name="19">__Buffalo Mount mod - Ride & Carry__</a> Direct link: [Download on GitHub](https://github.com/ckdextergames/Icarus_mods/tree/BuffalosRideCarry)
 
 This mod, made by Unaffected, allows prospectors to equip tamed buffalos with ***both*** a saddle for riding ***and*** a cart. Note that when viewed by the character, you won't see the saddle (until you're riding) but you'll be able to equip both the saddle and the cart when accessing the mount's menu.
-
----
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_InventoryID", "D_InventoryInfo", and "D_Equippable"; Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
