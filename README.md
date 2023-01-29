@@ -26,8 +26,9 @@
 17. [Panther Suit Module](#17)
 18. [Enhanced Tactical Backpack](#18)
 19. [Buffalo Mounts - Ride & Carry](#19)
+20. [No Weather](#20)
 
-* [Deprecated mods - no longer in use](#20)
+* [Deprecated mods - no longer in use](#21)
 
 * [Installation instructions & caution](#install)
 
@@ -349,7 +350,7 @@ This enhanced version of the Larkwell-Martinez Tactical Backpack has many powerf
 
 ---
 
-19. <a name="19">__Buffalo Mount mod - Ride & Carry__</a> Direct link: [Download on GitHub](https://github.com/ckdextergames/Icarus_mods/tree/BuffalosRideCarry)
+19. <a name="19">__Buffalo Mount mod - Ride & Carry__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/BuffalosRideCarry)
 
 This mod, made by Unaffected, allows prospectors to equip tamed buffalos with ***both*** a saddle for riding ***and*** a cart. Note that when viewed by the character, you won't see the saddle (until you're riding) but you'll be able to equip both the saddle and the cart when accessing the mount's menu.
 
@@ -359,7 +360,17 @@ This mod, made by Unaffected, allows prospectors to equip tamed buffalos with **
 
 ---
 
-<a name="20">__Deprecated mods:__</a>
+19. <a name="20">__No Weather__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/NoWeather)
+
+Thanks to JimK72, laanp, Durzo (and h/t to Crystal), this mod **removes all weather events** from the game. No wind, rain, snow, sand, etc. No storms of any kind.
+
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_WeatherEvents" and "D_ProspectForecast"; or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+<a name="21">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
 * Toughest Hedgehogs (I recommend instead using the [Sinotai Extreme Spikewall](#14) mod)
