@@ -373,6 +373,16 @@
       "fileType": "pak",
       "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/BuffalosRideCarry/Mount_RideCarry_P.pak",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/BuffalosRideCarry/README.md"
+    },
+		{
+      "name": "No Weather",
+      "author": "CK_Dexterhaven",
+      "version": "1.18",
+      "compatibility": "w60",
+      "description": "Made by JimK & laanp, this removes all storms from the game. No weather events at all.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/NoWeather/NoWeather_P.pak",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/NoWeather/README.md"
     }
 ]
 }
