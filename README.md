@@ -28,8 +28,9 @@
 19. [Ultimate Fertilizer](#19)
 20. [Buffalo Mounts - Ride & Carry](#20)
 21. [No Weather](#21)
+22. [T3 Elevator](#22)
 
-* [Deprecated mods - no longer in use](#22)
+* [Deprecated mods - no longer in use](#23)
 
 * [Installation instructions & caution](#install)
 
@@ -382,7 +383,17 @@ Thanks to JimK72, laanp, Durzo (and h/t to Crystal), this mod **removes all weat
 
 ---
 
-<a name="22">__Deprecated mods:__</a>
+22. <a name="22">__T3 Elevator__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/T3Elevator)
+
+This is a revised version of the Elevator mod made by JimK72. Instead of being crafted on the character, this is crafted at the Machining Bench, and requires steel, rope, Carbon Fiber, and an aluminum floor piece.
+
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", "D_DeployableSetup", "D_ItemsStatic", "D_ItemTemplate", "D_Deployable", "D_Itemable", and "D_Meshable"; or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+<a name="23">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
 * Toughest Hedgehogs (I recommend instead using the [Sinotai Extreme Spikewall](#14) mod)
