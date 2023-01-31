@@ -365,6 +365,17 @@
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Backpack/README.md"
     },
 		{
+      "name": "Dextermod: Ultimate Fertilizer",
+      "author": "CK_Dexterhaven",
+      "version": "1.18",
+      "compatibility": "w60",
+      "description": "Combines the features of both advanced fertilizers. Recipe requires more resources.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/UltimateFertilizer/Dextermod_UltimateFertilizer_P.pak",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/UltimateFertilizer/fertilizer.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/UltimateFertilizer/README.md"
+    },
+		{
       "name": "Buffalo Mounts - Ride & Carry",
       "author": "CK_Dexterhaven",
       "version": "1.18",
