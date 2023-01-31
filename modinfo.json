@@ -394,6 +394,16 @@
       "fileType": "pak",
       "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/NoWeather/NoWeather_P.pak",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/NoWeather/README.md"
+    },
+		{
+      "name": "T3 Elevator",
+      "author": "CK_Dexterhaven",
+      "version": "1.18",
+      "compatibility": "w60",
+      "description": "A revised version of the Elevator mod by JimK, requires T2 and T3 materials to craft.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/T3Elevator/T3Elevators_P.pak",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/T3Elevator/README.md"
     }
 ]
 }
