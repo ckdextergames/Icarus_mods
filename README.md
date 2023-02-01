@@ -24,7 +24,7 @@ This all-in-one package integrates the following:
    * The Larkwell arrow and crossbow bolt bundles contain 50, not 25 per pack
    * Crumbed Fish is a "powerfood," giving 200 max health and stamina, and 30% stamina regeneration. Slightly increased recipe requirements. 
 * JimK72's Custom_Puck_Lights and Camera_Distance mods (as-is)
-* Critfail's Pneu_B_Gone (as-is)
+* Critfail's "Blessing of Tartarus" mod (as-is)
 * An enhanced versions of CritFail's WasteNot_All (giving you a higher chance for more exotics)
 
 * __Caution__: This mod changes stack sizes. Be warned that if you use this mod, and then use no mods or different mods during a prospect or in the same Open World/Outpost, you will likely lose some or even all inventory. It is best to stay with one stack-size-changing mod for a given prospect or Open World.
