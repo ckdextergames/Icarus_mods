@@ -110,7 +110,7 @@ This all-in-one package integrates the following:
    * The Larkwell arrow and crossbow bolt bundles contain 50, not 25 per pack
    * Crumbed Fish is a "powerfood," giving 200 max health and stamina, and 30% stamina regeneration. Slightly increased recipe requirements. 
 * JimK72's Custom_Puck_Lights and Camera_Distance mods (as-is)
-* Critfail's Pneu_B_Gone (as-is)
+* Critfail's "Blessing of Tartarus" mod (as-is)
 * An enhanced versions of CritFail's WasteNot_All (higher chance for more exotics)
 
 *__CAUTIONS:__*
