@@ -12,7 +12,7 @@ __Prefab_Base_Kits__
 
 <a name="mod">__Prefab_Base_Kits__</a>
 
-Adapting and updating Pr0f23ss0r's original Base Kits mod, here's two new versions (choose one, they aren't compatible with each other). They replace the berry seed pack and cost more. Cuz, my friend, you can just go pick some berries. LOL. To use: just research, buy, and "consume" when on the surface. Then voila, you have all the needed items in your inventory. They come in five varieties:
+Adapting and updating Pr0f23ss0r's original Base Kits mod, here's two new versions (choose one, they aren't compatible with each other). They replace the berry seed pack (purchased in the orbital workshop) and cost more. Cuz, my friend, you can just go pick some berries. LOL. To use: just research, buy, and "consume" when on the surface. Then voila, you have all the needed items in your inventory. They come in five varieties:
 
 A. Concrete Prefab base kit: Everything needed for a strudy, bare-bones, storm-defying concrete 2X6.
 
