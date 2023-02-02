@@ -376,6 +376,17 @@
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/UltimateFertilizer/README.md"
     },
 		{
+      "name": "Dextermod: Cook All the Things!",
+      "author": "CK_Dexterhaven",
+      "version": "1.18",
+      "compatibility": "w60",
+      "description": "All foods which you can cook in the campfire/fireplace/firepit, you can also cook in all the higher tier stoves (potbelly, biofuel, and electric).",
+      "fileType": "pak",
+      "fileURL": "https://github.com/ckdextergames/Icarus_mods/raw/CookItAll/Dextermod_CookItAll_P.pak",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/CookItAll/stove.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CookItAll/README.md"
+    },
+		{
       "name": "Buffalo Mounts - Ride & Carry",
       "author": "CK_Dexterhaven",
       "version": "1.18",

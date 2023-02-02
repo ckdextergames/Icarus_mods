@@ -26,11 +26,12 @@
 17. [Panther Suit Module](#17)
 18. [Enhanced Tactical Backpack](#18)
 19. [Ultimate Fertilizer](#19)
-20. [Buffalo Mounts - Ride & Carry](#20)
-21. [No Weather](#21)
-22. [T3 Elevator](#22)
+20. [Cook All the Things!](#20)
+21. [Buffalo Mounts - Ride & Carry](#21)
+22. [No Weather](#22)
+23. [T3 Elevator](#23)
 
-* [Deprecated mods - no longer in use](#23)
+* [Deprecated mods - no longer in use](#24)
 
 * [Installation instructions & caution](#install)
 
@@ -362,8 +363,19 @@ This high-yield and high-speed fertilizer requires a bag of each of the other si
 
 ---
 
+20. <a name="20">__Cook All the Things!__</a> (Direct link: https://bit.ly/CKDstoves)
 
-20. <a name="20">__Buffalo Mount mod - Ride & Carry__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/BuffalosRideCarry)
+Yes, prospector. All foods which you can cook in the campfire/fireplace/firepit, you can also cook in all the higher tier stoves (potbelly, biofuel, and electric).
+
+Buen Provecho!
+
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes"; or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+21. <a name="21">__Buffalo Mount mod - Ride & Carry__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/BuffalosRideCarry)
 
 This mod, made by Unaffected, allows prospectors to equip tamed buffalos with ***both*** a saddle for riding ***and*** a cart. Note that when viewed by the character, you won't see the saddle (until you're riding) but you'll be able to equip both the saddle and the cart when accessing the mount's menu.
 
@@ -373,7 +385,7 @@ This mod, made by Unaffected, allows prospectors to equip tamed buffalos with **
 
 ---
 
-21. <a name="21">__No Weather__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/NoWeather)
+22. <a name="22">__No Weather__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/NoWeather)
 
 Thanks to JimK72, laanp, Durzo (and h/t to Crystal), this mod **removes all weather events** from the game. No wind, rain, snow, sand, etc. No storms of any kind.
 
@@ -383,7 +395,7 @@ Thanks to JimK72, laanp, Durzo (and h/t to Crystal), this mod **removes all weat
 
 ---
 
-22. <a name="22">__T3 Elevator__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/T3Elevator)
+23. <a name="23">__T3 Elevator__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/T3Elevator)
 
 This is a revised version of the Elevator mod made by JimK72. Instead of being crafted on the character, this is crafted at the Machining Bench, and requires steel, rope, Carbon Fiber, and an aluminum floor piece.
 
@@ -393,7 +405,7 @@ This is a revised version of the Elevator mod made by JimK72. Instead of being c
 
 ---
 
-<a name="23">__Deprecated mods:__</a>
+<a name="24">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
 * Toughest Hedgehogs (I recommend instead using the [Sinotai Extreme Spikewall](#14) mod)
