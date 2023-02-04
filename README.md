@@ -15,7 +15,7 @@ __Dextermod_BetterCarts__
 
 <a name="mod">__Dextermod_BetterCarts__</a>
 
-Three new versions of the buffalo cart:
+Three new versions of the buffalo cart -- all are rideable:
 
 The "Terrier":
 * Weight capacity increased from 1000 to 3000 and no speed loss
@@ -30,6 +30,8 @@ The "Mastiff":
 * Increased crafting cost, requires steel screws, steel rebar, and carbon fiber 
 
 (Obviously, these are mutually exclusive mods. Choose one variety.)
+
+H/T to Unaffected for the insight to make them rideable.
 
 ---
 
