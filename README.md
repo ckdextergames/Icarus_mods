@@ -20,6 +20,7 @@ This mod was designed to help move a large base a short distance without having 
 
 __Stack size changes:__
 
+* Cooked Meat 20 >> 100
 * Fiber 200 >> 1000
 * Stone 100 >> 400
 * Wood 100 >> 800
