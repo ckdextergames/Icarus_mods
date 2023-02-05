@@ -1,0 +1,6 @@
+Includes the following mods:
+CritFail_WasteNot_ALL_UPGRADED
+Custom_Puck_Lights_V2
+Camera_Distance
+WZG_Mod_V330_WK60TWK
+CritFail_Blessing_Of_Tartarus
