@@ -7,7 +7,7 @@
       "compatibility": "w61",
       "description": "Enhances suit modules.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/SuperSuitModules/supersuits.png",
-      "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/SuperSuitModules/README.md"
+      "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/SuperSuitModules/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/SuperSuitModules/Dextermod_SuitModule_Bananapants_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/SuperSuitModules/Dextermod_SuitModule_Bananapants.EXMODZ"
@@ -20,7 +20,7 @@
       "compatibility": "w61",
       "description": "Enhances suit modules.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/SuperSuitModules/supersuits.png",
-      "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/SuperSuitModules/README.md"
+      "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/SuperSuitModules/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/SuperSuitModules/Dextermod_SuitModule_Nice_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/SuperSuitModules/Dextermod_SuitModule_Nice_P.EXMODZ"
@@ -33,7 +33,7 @@
       "compatibility": "w61",
       "description": "Enhances suit modules.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/SuperSuitModules/supersuits.png",
-      "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/SuperSuitModules/README.md"
+      "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/SuperSuitModules/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/SuperSuitModules/Dextermod_SuitModule_Wowzers_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/SuperSuitModules/Dextermod_SuitModule_Wowzers_P.EXMODZ"
@@ -46,7 +46,7 @@
       "compatibility": "w61",
       "description": "Speeds up crafting times.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/SpeedyCrafter/crazyspeedy.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/SpeedyCrafter/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/SpeedyCrafter/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/SpeedyCrafter/Dextermod_SpeedyCrafter_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/SpeedyCrafter/Dextermod_SpeedyCrafter_P.EXMODZ"
@@ -59,7 +59,7 @@
       "compatibility": "w61",
       "description": "Speeds up crafting times. A lot.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/SpeedyCrafter/crazyspeedy.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CrazyCrafter/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CrazyCrafter/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/SpeedyCrafter/Dextermod_CrazyCrafter_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/SpeedyCrafter/Dextermod_CrazyCrafter_P.EXMODZ"
@@ -72,7 +72,7 @@
       "compatibility": "w61",
       "description": "Combo pack of multiple QOL and game-enhancing mods.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Superdeluxe-Combo/superdeluxe.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Superdeluxe-Combo/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Superdeluxe-Combo/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Superdeluxe-Combo/Dextermod_Superdeluxe_Combo_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Superdeluxe-Combo/Dextermod_Superdeluxe_Combo_P.EXMODZ"
@@ -85,7 +85,7 @@
       "compatibility": "w61",
       "description": "Enables crafting an Icarus statue without gold.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Statues/statues.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Statues/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Statues/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Statues/Dextermod_NoGold_Statue_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Statues/Dextermod_NoGold_Statue_P.EXMODZ"
@@ -98,7 +98,7 @@
       "compatibility": "w61",
       "description": "Turns the Icarus Statue into a late-game prize. Must be crafted at fabricator and recipe requires various T2, T3, and T4 materials.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Statues/statues.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Statues/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Statues/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Statues/Dextermod_T4statue_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Statues/Dextermod_T4statue_P.EXMODZ"
@@ -111,7 +111,7 @@
       "compatibility": "w61",
       "description": "All the fish are the aggressive ones, and there's 3X as many. Please see full details before use.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/AllPoisonFish/poisonfish.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/AllPoisonFish/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/AllPoisonFish/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/AllPoisonFish/Dextermod_AllPoisonFish_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/AllPoisonFish/Dextermod_AllPoisonFish_P.EXMODZ"
@@ -124,7 +124,7 @@
       "compatibility": "w61",
       "description": "Increases stack sizes of many items dramatically.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/MaxiStax/maxistax.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/MaxiStax/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/MaxiStax/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/MaxiStax/Dextermod_MaxiStax_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/MaxiStax/Dextermod_MaxiStax_P.EXMODZ"
@@ -136,8 +136,8 @@
       "version": "1.2",
       "compatibility": "w61",
       "description": "Enhances Peerless Lumberjack and Lucky Strike talents for a 10% higher chance of chopping trees or mining voxels in just one hit.",
-      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/OneHit/onehit.png"
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/OneHit/README.md"
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/OneHit/onehit.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/OneHit/README.md",
 	      "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/OneHit/Dextermod_One_Hit_Wonder_10_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/OneHit/Dextermod_One_Hit_Wonder_10_P.EXMODZ"
@@ -149,8 +149,8 @@
       "version": "1.2",
       "compatibility": "w61",
       "description": "Enhances Peerless Lumberjack and Lucky Strike talents for a 25% higher chance of chopping trees or mining voxels in just one hit.",
-      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/OneHit/onehit.png"
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/OneHit/README.md"
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/OneHit/onehit.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/OneHit/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/OneHit/Dextermod_One_Hit_Wonder_25_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/OneHit/Dextermod_One_Hit_Wonder_25_P.EXMODZ"
@@ -163,7 +163,7 @@
       "compatibility": "w61",
       "description": "Enhances Peerless Lumberjack and Lucky Strike talents for a 50% higher chance of chopping trees or mining voxels in just one hit.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/OneHit/onehit.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/OneHit/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/OneHit/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/OneHit/Dextermod_One_Hit_Wonder_50_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/OneHit/Dextermod_One_Hit_Wonder_50_P.EXMODZ"
@@ -176,7 +176,7 @@
       "compatibility": "w61",
       "description": "Enhances Peerless Lumberjack and Lucky Strike talents for a 65% higher chance of chopping trees or mining voxels in just one hit.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/OneHit/onehit.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/OneHit/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/OneHit/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/OneHit/Dextermod_One_Hit_Wonder_65_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/OneHit/Dextermod_One_Hit_Wonder_65_P.EXMODZ"
@@ -189,7 +189,7 @@
       "compatibility": "w61",
       "description": "Concrete prefab base kit: Everything needed for a strudy, bare-bones, storm-defying concrete 2X6.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Prefabs/prefabs.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Prefabs/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Prefabs/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_ConcreteBareBones_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_ConcreteBareBones_P.EXMODZ"
@@ -202,7 +202,7 @@
       "compatibility": "w61",
       "description": "Everything needed for a small but functional 2X3 stone hunting cabin (including a front porch for watching the sunset and growing a few essential crops).",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Prefabs/prefabs.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Prefabs/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Prefabs/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_CozyCabin_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_CozyCabin_P.EXMODZ"
@@ -215,7 +215,7 @@
       "compatibility": "w61",
       "description": "Everything needed for a larger concrete base. Somewhat pricer, but still just the building materials.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Prefabs/prefabs.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Prefabs/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Prefabs/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_BigConcrete_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_BigConcrete_P.EXMODZ"
@@ -228,7 +228,7 @@
       "compatibility": "w61",
       "description": "A more expensive package, this contains everything needed for larger stone hunting cabin -- including a front porch for watching the sunset and growing a few essential crops.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Prefabs/prefabs.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Prefabs/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Prefabs/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_BigStone_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_Bigstone_P.EXMODZ"
@@ -241,7 +241,7 @@
       "compatibility": "w61",
       "description": "A much more expensive package with lots more to use.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Prefabs/prefabs.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Prefabs/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Prefabs/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_TeamBasecamp_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_TeamBasecamp_P.EXMODZ"
@@ -254,7 +254,7 @@
       "compatibility": "w61",
       "description": "Requires more resources to craft, hits harder and has a much higher ammo capacity. This mod replaces the vanilla Titanium Crossbow, crafted in the Fabricator, with this more expensive and powerful version.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Bifrost/bifrost.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Bifrost/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Bifrost/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Bifrost/Dextermod_BifrostCrossbow_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Bifrost/Dextermod_BifrostCrossbow_P.EXMODZ"
@@ -267,7 +267,7 @@
       "compatibility": "w61",
       "description": "Increases the count of aggressive animals. Please see the full details before use.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/CreatureChaos/creaturechaos.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CreatureChaos/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CreatureChaos/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL1_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL1_P.EXMODZ"
@@ -280,7 +280,7 @@
       "compatibility": "w61",
       "description": "Increases the count of aggressive animals. Please see the full details before use.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/CreatureChaos/creaturechaos.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CreatureChaos/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CreatureChaos/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL2_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL2_P.EXMODZ"
@@ -293,7 +293,7 @@
       "compatibility": "w61",
       "description": "Increases the count of aggressive animals. Please see the full details before use.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/CreatureChaos/creaturechaos.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CreatureChaos/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CreatureChaos/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL3_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL3_P.EXMODZ"
@@ -306,7 +306,7 @@
       "compatibility": "w61",
       "description": "Higher capacity, faster buffalo carts.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/BetterCarts/bettercarts.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/BetterCarts/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/BetterCarts/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/BetterCarts/Dextermod_BetterCart_Mastiff_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/BetterCarts/Dextermod_BetterCart_Mastiff_P.EXMODZ"
@@ -319,7 +319,7 @@
       "compatibility": "w61",
       "description": "Higher capacity, faster buffalo carts.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/BetterCarts/bettercarts.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/BetterCarts/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/BetterCarts/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/BetterCarts/Dextermod_BetterCart_Ridgeback_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/BetterCarts/Dextermod_BetterCart_Ridgeback_P.EXMODZ"
@@ -332,7 +332,7 @@
       "compatibility": "w61",
       "description": "Higher capacity, faster buffalo carts.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/BetterCarts/bettercarts.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/BetterCarts/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/BetterCarts/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/BetterCarts/Dextermod_BetterCart_Terrier_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/BetterCarts/Dextermod_BetterCart_Terrier_P.EXMODZ"
@@ -345,7 +345,7 @@
       "compatibility": "w61",
       "description": "Blended in the Kitchen Bench or Advanced Kitchen Bench in one of 5 varieties, these elixirs pack a punch.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/EnzymePowerSmoothies/smoothies.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/EnzymePowerSmoothies/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/EnzymePowerSmoothies/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/EnzymePowerSmoothies/Dextermod_EnzymePowerSmoothies_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/EnzymePowerSmoothies/Dextermod_EnzymePowerSmoothies_P.EXMODZ"
@@ -358,7 +358,7 @@
       "compatibility": "w61",
       "description": "Superfood recipe replaces the in-game Stew.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/MeatVegStew/stew.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/MeatVegStew/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/MeatVegStew/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/MeatVegStew/Dextermod_Hearty_MeatVeg_Stew_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/MeatVegStew/Dextermod_Hearty_MeatVeg_Stew_P.EXMODZ"
@@ -371,7 +371,7 @@
       "compatibility": "w61",
       "description": "The Sinotai Extreme Spikewall! Eight times the durability as vanilla spikes.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/ExtremeSpikes/spikes.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/ExtremeSpikes/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/ExtremeSpikes/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/ExtremeSpikes/Dextermod_ExtremeSpikes_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/ExtremeSpikes/Dextermod_ExtremeSpikes_P.EXMODZ"
@@ -384,7 +384,7 @@
       "compatibility": "w61",
       "description": "All workshop arrows now come in packs of 50.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/ArrowPacks/arrows.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/ArrowPacks/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/ArrowPacks/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/ArrowPacks/Dextermod_ArrowPacks_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/ArrowPacks/Dextermod_ArrowPacks_P.EXMODZ"
@@ -397,7 +397,7 @@
       "compatibility": "w61",
       "description": "All three tiers of crop plots are now stackable, up to a stack of 20.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/StackingCropPlots/cropplots.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/StackingCropPlots/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/StackingCropPlots/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/StackingCropPlots/Dextermod_StackingCropPlots_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/StackingCropPlots/Dextermod_StackingCropPlots_P.EXMODZ"
@@ -410,7 +410,7 @@
       "compatibility": "w61",
       "description": "Replaces the Patcher I suit module with a much more versitile, powerful (and expensive) version.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/PantherModule/panther.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/PantherModule/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/PantherModule/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/PantherModule/Dextermod_Panther_SuitMod_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/PantherModule/Dextermod_Panther_SuitMod_P.EXMODZ"
@@ -423,7 +423,7 @@
       "compatibility": "w61",
       "description": "A greatly enhanced version of the Larkwell-Martinez Tactical Backpack.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Backpack/backpack.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Backpack/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Backpack/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Backpack/Dextermod_TacticalBackpack_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Backpack/Dextermod_TacticalBackpack_P.EXMODZ"
@@ -436,7 +436,7 @@
       "compatibility": "w61",
       "description": "Combines the features of both advanced fertilizers. Recipe requires more resources.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/UltimateFertilizer/fertilizer.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/UltimateFertilizer/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/UltimateFertilizer/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/UltimateFertilizer/Dextermod_UltimateFertilizer_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/UltimateFertilizer/Dextermod_UltimateFertilizer_P.EXMODZ"
@@ -449,7 +449,7 @@
       "compatibility": "w61",
       "description": "All foods which you can cook in the campfire/fireplace/firepit, you can also cook in all the higher tier stoves (potbelly, biofuel, and electric).",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/CookItAll/stove.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CookItAll/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CookItAll/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/CookItAll/Dextermod_CookItAll_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/CookItAll/Dextermod_CookItAll_P.EXMODZ"
@@ -461,7 +461,7 @@
       "version": "1.2",
       "compatibility": "w61",
       "description": "Made by modder Unaffected, this enables both riding on a saddle and pulling a cart.",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/BuffalosRideCarry/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/BuffalosRideCarry/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/BuffalosRideCarry/Mount_RideCarry_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/BuffalosRideCarry/Mount_RideCarry_P.EXMODZ"
@@ -473,7 +473,7 @@
       "version": "1.2",
       "compatibility": "w61",
       "description": "Made by JimK & laanp, this removes all storms from the game. No weather events at all.",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/NoWeather/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/NoWeather/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/NoWeather/NoWeather_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/NoWeather/NoWeather_P.EXMODZ"
@@ -485,7 +485,7 @@
       "version": "1.2",
       "compatibility": "w61",
       "description": "A revised version of the Elevator mod by JimK, requires T2 and T3 materials to craft.",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/T3Elevator/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/T3Elevator/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/T3Elevator/T3Elevators_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/T3Elevator/T3Elevators_P.EXMODZ"
