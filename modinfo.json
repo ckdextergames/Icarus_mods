@@ -456,6 +456,19 @@
       }
     },
 	{
+      "name": "Dextermod: T5 Armor",
+      "author": "CK_Dexterhaven",
+      "version": "1.2",
+      "compatibility": "w61",
+      "description": "Exotic-infused upgrade to your existing Composite armor.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/T5Armor/armor.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/T5Armor/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/T5Armor/Dextermod_T5Armor_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/T5Armor/Dextermod_T5Armor.EXMODZ"
+      }
+    },
+	{
       "name": "Buffalo Mounts - Ride & Carry",
       "author": "CK_Dexterhaven",
       "version": "1.2",
