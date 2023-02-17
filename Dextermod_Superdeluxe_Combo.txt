@@ -2,5 +2,10 @@ Includes the following mods:
 CritFail_WasteNot_ALL_UPGRADED
 Custom_Puck_Lights_V2
 Camera_Distance
-WZG_Mod_V330_WK60TWK
 CritFail_Blessing_Of_Tartarus
+Dextermod_EnzymePowerSmoothies
+Dextermod_StackingCropPlots
+Dextermod_Panther_SuitMod
+Dextermod_UltimateFertilizer
+Dextermod_CookItAll
+WZG_Mod_V350_WK62TWK
