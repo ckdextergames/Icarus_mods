@@ -482,6 +482,19 @@
       }
     },
 	{
+      "name": "Dextermod: Surface Workshop",
+      "author": "CK_Dexterhaven",
+      "version": "1.5",
+      "compatibility": "w64",
+      "description": "Allows the prospector to craft 11 essential orbital workshop items on the surface, in the Fabricator.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/SurfaceWorkshop/workshop.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/SurfaceWorkshop/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/SurfaceWorkshop/Dextermod_SurfaceWorkshop_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/SurfaceWorkshop/Dextermod_SurfaceWorkshop.EXMODZ"
+      }
+    },
+	{
       "name": "Buffalo Mounts - Ride & Carry",
       "author": "CK_Dexterhaven",
       "version": "1.5",
