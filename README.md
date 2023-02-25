@@ -23,6 +23,7 @@ With this mod, prospectors can now craft these essential orbital workshop items 
 - IC-001 Extractor
 - IC-001 Radar
 - IC-001 Prototype Power Source
+- Meta Repair Kits
 
 ---
 
