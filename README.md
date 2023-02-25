@@ -398,7 +398,7 @@ Two new varieties of MXC Furnace. These replace low-level MXC tools in the Works
 
 ---
 
-23. <a name="22">__Surface Workshop__</a> (Direct link: https://bit.ly/CKDworkshop)
+23. <a name="23">__Surface Workshop__</a> (Direct link: https://bit.ly/CKDworkshop)
 
 Allows the prospector to craft 11 essential orbital workshop items on the surface, in the Fabricator.
 
