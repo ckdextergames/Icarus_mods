@@ -495,6 +495,19 @@
       }
     },
 	{
+      "name": "Dextermod: Stormfront",
+      "author": "CK_Dexterhaven",
+      "version": "1.5",
+      "compatibility": "w64",
+      "description": "With this mod, prospectors will experience occasional short breaks of clear skies, but otherwise constant extreme storms in every biome..",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/StormFront/stormfront.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/StormFront/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/StormFront/Dextermod_StormFront_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/StormFront/Dextermod_StormFront.EXMODZ"
+      }
+    },
+	{
       "name": "Buffalo Mounts - Ride & Carry",
       "author": "CK_Dexterhaven",
       "version": "1.5",
