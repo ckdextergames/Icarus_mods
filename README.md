@@ -31,11 +31,12 @@
 22. [Workshop Furnaces](#22)
 23. [Surface Workshop](#23)
 24. [StormFront](#24)
-25. [Buffalo Mounts - Ride & Carry](#25)
-26. [No Weather](#26)
-27. [T3 Elevator](#27)
+25. [EZHorde](25)
+26. [Buffalo Mounts - Ride & Carry](#26)
+27. [No Weather](#27)
+28. [T3 Elevator](#28)
 
-* [Deprecated mods - no longer in use](#28)
+* [Deprecated mods - no longer in use](#29)
 
 * [Installation instructions & caution](#install)
 
@@ -419,7 +420,17 @@ With this mod, prospectors will experience occasional short breaks of clear skie
 
 ---
 
-25. <a name="25">__Buffalo Mount mod - Ride & Carry__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/BuffalosRideCarry)
+25. <a name="25">__EZHorde__</a> (Direct link: https://bit.ly/CKDhorde)
+
+Only one horde round before the enzyme round and much greater exotics and enzyme rewards.
+
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Horde" & "D_ItemRewards"; or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+26. <a name="26">__Buffalo Mount mod - Ride & Carry__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/BuffalosRideCarry)
 
 This mod, made by Unaffected, allows prospectors to equip tamed buffalos with ***both*** a saddle for riding ***and*** a cart. Note that when viewed by the character, you won't see the saddle (until you're riding) but you'll be able to equip both the saddle and the cart when accessing the mount's menu.
 
@@ -429,7 +440,7 @@ This mod, made by Unaffected, allows prospectors to equip tamed buffalos with **
 
 ---
 
-26. <a name="26">__No Weather__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/NoWeather)
+27. <a name="27">__No Weather__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/NoWeather)
 
 Thanks to JimK72, laanp, Durzo (and h/t to Crystal), this mod **removes all weather events** from the game. No wind, rain, snow, sand, etc. No storms of any kind.
 
@@ -439,7 +450,7 @@ Thanks to JimK72, laanp, Durzo (and h/t to Crystal), this mod **removes all weat
 
 ---
 
-27. <a name="27">__T3 Elevator__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/T3Elevator)
+28. <a name="28">__T3 Elevator__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/T3Elevator)
 
 This is a revised version of the Elevator mod made by JimK72. Instead of being crafted on the character, this is crafted at the Machining Bench, and requires steel, rope, Carbon Fiber, and an aluminum floor piece.
 
@@ -449,7 +460,7 @@ This is a revised version of the Elevator mod made by JimK72. Instead of being c
 
 ---
 
-<a name="28">__Deprecated mods:__</a>
+<a name="29">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
 * Toughest Hedgehogs (I recommend instead using the [Sinotai Extreme Spikewall](#14) mod)

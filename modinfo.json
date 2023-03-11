@@ -508,6 +508,19 @@
       }
     },
 	{
+      "name": "Dextermod: EZHorde",
+      "author": "CK_Dexterhaven",
+      "version": "1.6",
+      "compatibility": "w66",
+      "description": "Only one horde round before the enzyme round, and higher rewards of exotics and enzymes.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/EZHorde/smoothies.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/EZHorde/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/EZHorde/Dextermod_EZHorde_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/EZHorde/Dextermod_EZHorde.EXMODZ"
+      }
+    },
+	{
       "name": "Buffalo Mounts - Ride & Carry",
       "author": "CK_Dexterhaven",
       "version": "1.6",
