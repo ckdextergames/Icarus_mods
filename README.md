@@ -31,7 +31,7 @@
 22. [Workshop Furnaces](#22)
 23. [Surface Workshop](#23)
 24. [StormFront](#24)
-25. [EZHorde](25)
+25. [EZHorde](#25)
 26. [Buffalo Mounts - Ride & Carry](#26)
 27. [No Weather](#27)
 28. [T3 Elevator](#28)
