@@ -3,15 +3,14 @@
 
 README:
 
-__CrazyCrafter__
-
-
 * [Mod info](#mod)
 * [Shout-outs and donating](#shouts)
 * [Disclaimers/warnings](#warnings)
 * [Installation instructions & caution](#install)
 
 ---
+
+Compatible with Icarus Week 67 update:
 
 <a name="mod">__CrazyCrafter__</a>
 
