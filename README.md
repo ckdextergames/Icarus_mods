@@ -1,14 +1,14 @@
 # Icarus_mods
 *__Welcome to Dextermods__*: Mods for Icarus by CK_Dexterhaven
 
-__EPS: Enzyme Power Smoothies__
-
 * [Mod info](#mod)
 * [Shout-outs and donating](#shouts)
 * [Disclaimers/warnings](#warnings)
 * [Installation instructions & caution](#install)
 
 ---
+
+Compatible with Icarus Week 67 update:
 
 <a name="mod">__EPS: Enzyme Power Smoothies__</a>
 
