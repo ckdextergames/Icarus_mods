@@ -7,6 +7,8 @@ Mod by JimK72, revised by CK_Dexterhaven:
 
 ---
 
+Compatible with Icarus Week 67 update:
+
 <a name="mod">__The T3 Elevator__</a>
 
 This is a revised version of the **Elevator** mod made by JimK72. Instead of being crafted on the character, this is crafted at the Machining Bench, and requires steel, rope, Carbon Fiber, and an aluminum floor piece.
