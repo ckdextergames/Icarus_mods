@@ -1,14 +1,14 @@
 # Icarus_mods
 *__Dextermods__*: mods for Icarus by CK_Dexterhaven
 
-__Super Suit Modules__
-
 * [Mod info](#mod)
 * [Shout-outs and donating](#shouts)
 * [Disclaimers/warnings](#warnings)
 * [Installation instructions & caution](#install)
 
 ---
+
+Compatible with Icarus Week 67 update:
 
 <a name="mod">__Super Suit Modules__</a>
 
