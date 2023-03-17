@@ -1,7 +1,6 @@
 # Icarus_mods
 *__Dextermods__*: mods for Icarus by CK_Dexterhaven
 
-
 * [Mod info](#mod)
 * [Shout-outs and donating](#shouts)
 * [Disclaimers/warnings](#warnings)
@@ -9,10 +8,11 @@
 
 ---
 
+Compatible with Icarus Week 67 update:
+
 <a name="mod">__StormFront__</a>
 
-
-With this mod, prospectors will experience occasional short breaks of clear skies, but otherwise constant extreme storms in every biome.
+Up for a challenge? With this mod, prospectors will experience occasional short breaks of clear skies, but otherwise constant extreme storms in every biome.
 
 ---
 
