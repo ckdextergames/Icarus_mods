@@ -10,6 +10,8 @@ __The Bifrost Titanium Crossbow__
 
 ---
 
+Compatible with Icarus Week 67 update:
+
 <a name="mod">__The Bifrost Titanium Crossbow__</a>
 
 The Bifrost is truly a weapon of unparalled power and speed. While it requires more resources to craft, it hits harder and has a much higher ammo capacity. (This mod replaces the vanilla Titanium Crossbow, crafted in the Fabricator, with this more expensive and powerful version.)
