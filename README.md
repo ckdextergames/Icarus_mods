@@ -6,6 +6,8 @@
 
 ---
 
+Compatible with Icarus Week 67 update:
+
 <a name="mod">__No Weather__</a>
 
 Thanks to JimK72, laanp, Durzo (and h/t to Crystal), this mod ***removes*** all weather events from the game. No wind, rain, snow, sand, etc. No storms of any kind.
