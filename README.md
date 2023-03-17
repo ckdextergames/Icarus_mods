@@ -1,8 +1,6 @@
 # Icarus_mods
 *__Welcome to Dextermods__*: Mods for Icarus by CK_Dexterhaven
 
-__Dextermod_BetterCarts__
-
 ---
 
 
@@ -12,6 +10,8 @@ __Dextermod_BetterCarts__
 * [Installation instructions & caution](#install)
 
 ---
+
+Compatible with Icarus Week 67 update:
 
 <a name="mod">__Dextermod_BetterCarts__</a>
 
