@@ -1,14 +1,14 @@
 # Icarus_mods
 *__Dextermods__*: mods for Icarus by CK_Dexterhaven
 
-__Revised Icarus Statues__
-
 * [Mod info](#mod)
 * [Shout-outs and donating](#shouts)
 * [Disclaimers/warnings](#warnings)
 * [Installation instructions & caution](#install)
 
 ---
+
+Compatible with Icarus Week 67 update:
 
 <a name="mod">Revised Icarus Statues</a>
 
