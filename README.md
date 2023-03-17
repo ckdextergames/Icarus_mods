@@ -9,6 +9,8 @@
 
 ---
 
+Compatible with Icarus Week 67 update:
+
 <a name="mod">__Arrow Packs__</a>
 
 All arrow packs purchased in the orbital workshop now come in packs of 50. To use, right-click when on the surface to "consume" and open the package.
