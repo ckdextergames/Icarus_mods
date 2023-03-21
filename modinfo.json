@@ -299,6 +299,19 @@
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL3.EXMODZ"
       }
 	},
+    {
+      "name": "Dextermod: Creature_Chaos_Level_4",
+      "author": "CK_Dexterhaven",
+      "version": "1.7",
+      "compatibility": "w67",
+      "description": "Increases the count of aggressive animals. Please see the full details before use.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/CreatureChaos/creaturechaos.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CreatureChaos/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL4_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL4.EXMODZ"
+      }
+	},
 	{
       "name": "Dextermod: BetterCarts_Mastiff",
       "author": "CK_Dexterhaven",

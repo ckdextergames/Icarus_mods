@@ -211,25 +211,9 @@ The Bifrost is a weapon of unparalled power and speed. While it requires more re
 
 10. <a name="10">__Creature Chaos!__</a> (Direct link: https://bit.ly/CKDcritters)
 
-Expanding on CriticalFail's original "Moar_Bearz" mod, I'm moving beyond my "So_Many_Bearz" mod to encompass all the different carnivorous varmints throughout both Olympus and Styx. This mod comes in three flavors, of increasing intensity (labeled LVL 1, 2, and 3).
+Expanding on CriticalFail's original "Moar_Bearz" mod, I'm moving beyond my "So_Many_Bearz" mod to encompass all the different carnivorous varmints throughout both Olympus and Styx. This mod comes in four flavors, of increasing intensity.
 
-Level 1 just marginally ups the count of aggressive critters all around so you'll notice, but not be overwhelved.
-
-Level 2 provides some real challenges in dealing with the increased spawning in each biome you enter.
-
-Level 3? Ha! You can't handle level 3... Seriously, be prepared. There can be TONS of crazed quadrupeds ready to attack at every turn. Ya been warned.
-
-__Notes__:
-
-A. This mod only impacts Hard Mode prospects and open world. If there's a lot of popular demand, I could consider making different versions for medium or super hard, but for now, it's just for Hard. I don't recommend using this mod for playing any other level.
-
-B. This mod doesn't specifically alter Horde Mode waves. For that, I'd suggest Semac's mods or other's mods designed to alter Horde Mode.
-
-C. Increased spawns may not appear right away. You may need to move around until you come across them.
-
-D. Yes, especially for level 3, there may be some bears spawning in trees or walking in air. Enjoy.
-
-Good hunting!
+This mod increases the count and intensity of aggressive animals. Please see the full details before use!
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_AISpawnRules", "D_AISpawnZones", and "D_AIAutonomousSpawns". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
