@@ -12,7 +12,7 @@ __One_Hit_Wonder__
 
 ---
 
-Compatible with Icarus Week 67 update:
+Compatible with Icarus Week 69 update:
 
 <a name="mod">__One_Hit_Wonder__</a>
 
