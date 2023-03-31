@@ -8,7 +8,7 @@
 
 ---
 
-Compatible with Icarus Week 67 update:
+Compatible with Icarus Week 69 update:
 
 <a name="mod">__Hearty Meat & Veggie Stew__</a>
 
