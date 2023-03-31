@@ -7,7 +7,7 @@ Mod by Unaffected:
 
 ---
 
-Compatible with Icarus Week 67 update:
+Compatible with Icarus Week 69 update:
 
 <a name="mod">__Buffalo Ride & Cart__</a>
 
