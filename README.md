@@ -10,7 +10,7 @@ __The Bifrost Titanium Crossbow__
 
 ---
 
-Compatible with Icarus Week 67 update:
+Compatible with Icarus Week 69 update:
 
 <a name="mod">__The Bifrost Titanium Crossbow__</a>
 
