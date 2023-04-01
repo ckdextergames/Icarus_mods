@@ -534,6 +534,19 @@
       }
     },
 	{
+      "name": "Dextermod: EZHorde",
+      "author": "CK_Dexterhaven",
+      "version": "1.8",
+      "compatibility": "w69",
+      "description": "This mod greatly increases the range of both the Heavy Heater and the Heavy Air Conditioner.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Stronger_HVAC/hvac.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Stronger_HVAC/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Stronger_HVAC/Dextermod_StrongerHVAC_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Stronger_HVAC/Dextermod_StrongerHVAC.EXMODZ"
+      }
+    },
+	{
       "name": "Buffalo Mounts - Ride & Carry",
       "author": "CK_Dexterhaven",
       "version": "1.8",
