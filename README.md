@@ -17,10 +17,11 @@ This mod does __not__ change spawn rates, only the strength and badassery of ani
 Complete details for each level can be found in the "details" file in my GitHub repository for this mod.
 
 Summary:
-Level 1: Noticeably, but not signifigantly more challenging
-Level 2: Moderately more challenging
-Level 3: Significantly more challenging
-Level 4: Extremely challenging
+
+- Level 1: Noticeably, but not signifigantly more challenging
+- Level 2: Moderately more challenging
+- Level 3: Significantly more challenging
+- Level 4: Extremely challenging
 
 ---
 
