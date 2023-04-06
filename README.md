@@ -434,10 +434,10 @@ This mod does __not__ change spawn rates, only the strength and badassery of ani
 Complete details for each level can be found in the "details" file in my GitHub repository for this mod.
 
 Summary:
-Level 1: Noticeably, but not signifigantly more challenging
-Level 2: Moderately more challenging
-Level 3: Significantly more challenging
-Level 4: Extremely challenging
+- Level 1: Noticeably, but not signifigantly more challenging
+- Level 2: Moderately more challenging
+- Level 3: Significantly more challenging
+- Level 4: Extremely challenging
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_AISpawnZones", and "D_ProspectStats", and "D_EpicCreatures". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
