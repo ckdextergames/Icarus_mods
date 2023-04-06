@@ -1,0 +1,129 @@
+Details for each level of Tuff Critters mod:
+
+Level 1: (Noticeably but not signifigantly more challenging)
+
+[In D_ProspectStats]
+- Max health increased from 30% to 60%
+- Movement speed increased from 10% to 30%
+- Agressive perception radius increased from 30% to 50%
+- Melee attack increased from 30% to 50%
+[In D_AISpawnZones]
+- "Oly Conifer Hard" creatures ranged level 60-80, now level 70-90
+- "Conifer extermination" creatures ranged level 15-30, now level 25-40
+- "Styx Conifer Hard" creatures ranged level 60-80, now level 70-90
+- "PRO Conifer Hard" creatures ranged level 60-80, now level 70-90
+- "Arctic Hard" creatures ranged level 60-100, now level 75-115
+- "Arctic Transition Hard" creatures ranged level 20-60, now level 35-70
+- "Arctic Bear Hard" creatures ranged level 60-120, now level 70-130
+- "Oly Desert Hard" creatures ranged level 50-80, now level 60-90
+- "Styx Desert Hard" creatures ranged level 50-80, now level 60-90
+- "PRO Arctic Hard" creatures ranged level 40-80, now level 50-90
+[In D_EpicCreatures]
+- Epic Creature "Scorpion Armored" base max health +500%, now +550%
+- Epic Creature "Scorpion Armored" base movement speed +50%, now +75%
+- Epic Creature "Roaming Bear" base max health +300%, now +325%
+- Epic Creature "Roaming Bear" base melee damage +25%, now +40%
+- Epic Creature "Roaming Black Wolf" base max health +300%, now +325%
+- Epic Creature "Roaming Black Wolf" base melee damage +25%, now +40%
+- Epic Creature "Roaming Polar Bear" base max health +100%, now +125%
+- Epic Creature "Roaming Polar Bear" base melee damage +25%, now +40%
+- Epic Creature "Roaming Scorpion" base max health +100%, now +125%
+- Epic Creature "Roaming Scorpion" base melee damage +25%, now +40%
+- Epic Creature "Roaming Jaguar" base max health +100%, now +125%
+- Epic Creature "Roaming Jaguar" base melee damage +25%, now +40%
+
+Level 2: (Moderately more challenging)
+
+[In D_ProspectStats]
+- Max health increased from 30% to 80%
+- Movement speed increased from 10% to 50%
+- Agressive perception radius increased from 30% to 65%
+- Melee attack increased from 30% to 70%
+[In D_AISpawnZones]
+- "Oly Conifer Hard" creatures ranged level 60-80, now level 80-105
+- "Conifer extermination" creatures ranged level 15-30, now level 35-55
+- "Styx Conifer Hard" creatures ranged level 60-80, now level 80-105
+- "PRO Conifer Hard" creatures ranged level 60-80, now level 80-105
+- "Arctic Hard" creatures ranged level 60-100, now level 80-130
+- "Arctic Transition Hard" creatures ranged level 20-60, now level 40-85
+- "Arctic Bear Hard" creatures ranged level 60-120, now level 80-145
+- "Oly Desert Hard" creatures ranged level 50-80, now level 70-100
+- "Styx Desert Hard" creatures ranged level 50-80, now level 70-100
+- "PRO Arctic Hard" creatures ranged level 40-80, now level 60-100
+[In D_EpicCreatures]
+- Epic Creature "Scorpion Armored" Base max health +500%, now +600%
+- Epic Creature "Scorpion Armored" Base movement speed +50%, now +100%
+- Epic Creature "Roaming Bear" base max health +300%, now +375%
+- Epic Creature "Roaming Bear" base melee damage +25%, now +65%
+- Epic Creature "Roaming Black Wolf" base max health +300%, now +375%
+- Epic Creature "Roaming Black Wolf" base melee damage +25%, now +65%
+- Epic Creature "Roaming Polar Bear" base max health +100%, now +175%
+- Epic Creature "Roaming Polar Bear" base melee damage +25%, now +65%
+- Epic Creature "Roaming Scorpion" base max health +100%, now +175%
+- Epic Creature "Roaming Scorpion" base melee damage +25%, now +65%
+- Epic Creature "Roaming Jaguar" base max health +100%, now +175%
+- Epic Creature "Roaming Jaguar" base melee damage +25%, now +65%
+
+Level 3: (Significantly more challenging)
+
+[In D_ProspectStats]
+- Max health increased from 30% to 115%
+- Movement speed increased from 10% to 70%
+- Agressive perception radius increased from 30% to 75%
+- Melee attack increased from 30% to 85%
+[In D_AISpawnZones]
+- "Oly Conifer Hard" creatures ranged level 60-80, now level 90-120
+- "Conifer extermination" creatures ranged level 15-30, now level 45-70
+- "Styx Conifer Hard" creatures ranged level 60-80, now level 90-120
+- "PRO Conifer Hard" creatures ranged level 60-80, now level 90-120
+- "Arctic Hard" creatures ranged level 60-100, now level 95-155
+- "Arctic Transition Hard" creatures ranged level 20-60, now level 55-105
+- "Arctic Bear Hard" creatures ranged level 60-120, now level 95-160
+- "Oly Desert Hard" creatures ranged level 50-80, now level 85-120
+- "Styx Desert Hard" creatures ranged level 50-80, now level 85-120
+- "PRO Arctic Hard" creatures ranged level 40-80, now level 75-120
+[In D_EpicCreatures]
+- Epic Creature "Scorpion Armored" Base max health +500%, now +675%
+- Epic Creature "Scorpion Armored" Base movement speed +50%, now +150%
+- Epic Creature "Roaming Bear" base max health +300%, now +450%
+- Epic Creature "Roaming Bear" base melee damage +25%, now +105%
+- Epic Creature "Roaming Black Wolf" base max health +300%, now +450%
+- Epic Creature "Roaming Black Wolf" base melee damage +25%, now +105%
+- Epic Creature "Roaming Polar Bear" base max health +100%, now +250%
+- Epic Creature "Roaming Polar Bear" base melee damage +25%, now +105%
+- Epic Creature "Roaming Scorpion" base max health +100%, now +250%
+- Epic Creature "Roaming Scorpion" base melee damage +25%, now +105%
+- Epic Creature "Roaming Jaguar" base max health +100%, now +250%
+- Epic Creature "Roaming Jaguar" base melee damage +25%, now +105%
+
+Level 4: (Extremely challenging)
+
+[In D_ProspectStats]
+- Max health increased from 30% to 160%
+- Movement speed increased from 10% to 100%
+- Agressive perception radius increased from 30% to 125%
+- Melee attack increased from 30% to 125%
+[In D_AISpawnZones]
+- "Oly Conifer Hard" creatures ranged level 60-80, now level 110-150
+- "Conifer extermination" creatures ranged level 15-30, now level 65-100
+- "Styx Conifer Hard" creatures ranged level 60-80, now level 110-150
+- "PRO Conifer Hard" creatures ranged level 60-80, now level 105-145
+- "Arctic Hard" creatures ranged level 60-100, now level 115-175
+- "Arctic Transition Hard" creatures ranged level 20-60, now level 70-140
+- "Arctic Bear Hard" creatures ranged level 60-120, now level 105-180
+- "Oly Desert Hard" creatures ranged level 50-80, now level 100-160
+- "Styx Desert Hard" creatures ranged level 50-80, now level 100-160
+- "PRO Arctic Hard" creatures ranged level 40-80, now level 95-160
+[In D_EpicCreatures]
+- Epic Creature "Scorpion Armored" Base max health +500%, now +775%
+- Epic Creature "Scorpion Armored" Base movement speed +50%, now +250%
+- Epic Creature "Roaming Bear" base max health +300%, now +550%
+- Epic Creature "Roaming Bear" base melee damage +25%, now +155%
+- Epic Creature "Roaming Black Wolf" base max health +300%, now +550%
+- Epic Creature "Roaming Black Wolf" base melee damage +25%, now +155%
+- Epic Creature "Roaming Polar Bear" base max health +100%, now +350%
+- Epic Creature "Roaming Polar Bear" base melee damage +25%, now +155%
+- Epic Creature "Roaming Scorpion" base max health +100%, now +350%
+- Epic Creature "Roaming Scorpion" base melee damage +25%, now +155%
+- Epic Creature "Roaming Jaguar" base max health +100%, now +350%
+- Epic Creature "Roaming Jaguar" base melee damage +25%, now +155%
