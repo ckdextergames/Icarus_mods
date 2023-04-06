@@ -33,11 +33,13 @@
 24. [StormFront](#24)
 25. [EZHorde](#25)
 26. [Stronger HVAC](#26)
-27. [Buffalo Mounts - Ride & Carry](#27)
-28. [No Weather](#28)
-29. [T3 Elevator](#29)
+27. [Tuff Critters](#27)
+28. [Animal Madness](#28)
+29. [Buffalo Mounts - Ride & Carry](#29)
+30. [No Weather](#30)
+31. [T3 Elevator](#31)
 
-* [Deprecated mods - no longer in use](#30)
+* [Deprecated mods - no longer in use](#32)
 
 * [Installation instructions & caution](#install)
 
@@ -425,7 +427,37 @@ This mod greatly increases the range of both the Heavy Heater and the Heavy Air 
 
 ---
 
-26. <a name="27">__Buffalo Mount mod - Ride & Carry__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/BuffalosRideCarry)
+27. <a name="27">__Tuff Critters__</a> (Direct link: https://bit.ly/CKDtuffcritters)
+
+This mod does __not__ change spawn rates, only the strength and badassery of animals. Only impacts Hard level missions and Open World.
+
+Complete details for each level can be found in the "details" file in my GitHub repository for this mod.
+
+Summary:
+Level 1: Noticeably, but not signifigantly more challenging
+Level 2: Moderately more challenging
+Level 3: Significantly more challenging
+Level 4: Extremely challenging
+
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_AISpawnZones", and "D_ProspectStats", and "D_EpicCreatures". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+28. <a name="28">__Animal Madness__</a> (Direct link: https://bit.ly/CKDmadness)
+
+This mod combines the increased spawning rates and higher stats found in the *Creature Chaos Level 4* mod with the extreme health and other increases found in the *Tuff Critters Level 4* mod.
+
+HAVE FUN, TRY NOT TO DIE! :)
+
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_AISpawnRules", "D_AISpawnZones", "D_AIAutonomousSpawns", "D_ProspectStats", and "D_EpicCreatures". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+29. <a name="29">__Buffalo Mount mod - Ride & Carry__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/BuffalosRideCarry)
 
 This mod, made by Unaffected, allows prospectors to equip tamed buffalos with ***both*** a saddle for riding ***and*** a cart. Note that when viewed by the character, you won't see the saddle (until you're riding) but you'll be able to equip both the saddle and the cart when accessing the mount's menu.
 
@@ -435,7 +467,7 @@ This mod, made by Unaffected, allows prospectors to equip tamed buffalos with **
 
 ---
 
-27. <a name="28">__No Weather__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/NoWeather)
+30. <a name="30">__No Weather__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/NoWeather)
 
 Thanks to JimK72, laanp, Durzo (and h/t to Crystal), this mod **removes all weather events** from the game. No wind, rain, snow, sand, etc. No storms of any kind.
 
@@ -445,7 +477,7 @@ Thanks to JimK72, laanp, Durzo (and h/t to Crystal), this mod **removes all weat
 
 ---
 
-28. <a name="29">__T3 Elevator__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/T3Elevator)
+31. <a name="31">__T3 Elevator__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/T3Elevator)
 
 This is a revised version of the Elevator mod made by JimK72. Instead of being crafted on the character, this is crafted at the Machining Bench, and requires steel, rope, Carbon Fiber, and an aluminum floor piece.
 
@@ -455,7 +487,7 @@ This is a revised version of the Elevator mod made by JimK72. Instead of being c
 
 ---
 
-<a name="30">__Deprecated mods:__</a>
+<a name="32">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
 * Toughest Hedgehogs (I recommend instead using the [Sinotai Extreme Spikewall](#14) mod)

@@ -534,7 +534,7 @@
       }
     },
 	{
-      "name": "Dextermod: EZHorde",
+      "name": "Dextermod: Stronger HVAC",
       "author": "CK_Dexterhaven",
       "version": "1.8",
       "compatibility": "w69",
@@ -544,6 +544,71 @@
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Stronger_HVAC/Dextermod_StrongerHVAC_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Stronger_HVAC/Dextermod_StrongerHVAC.EXMODZ"
+      }
+    },
+	{
+      "name": "Dextermod: TuffCritters Level 1",
+      "author": "CK_Dexterhaven",
+      "version": "1.8",
+      "compatibility": "w69",
+      "description": "This mod does NOT change spawn rates, only the strength and badassery of animals.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/TuffCritters/creaturechaos.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/TuffCritters/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL1_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL1.EXMODZ"
+      }
+    },
+	{
+      "name": "Dextermod: TuffCritters Level 2",
+      "author": "CK_Dexterhaven",
+      "version": "1.8",
+      "compatibility": "w69",
+      "description": "This mod does NOT change spawn rates, only the strength and badassery of animals.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/TuffCritters/creaturechaos.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/TuffCritters/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL2_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL2.EXMODZ"
+      }
+    },
+	{
+      "name": "Dextermod: TuffCritters Level 3",
+      "author": "CK_Dexterhaven",
+      "version": "1.8",
+      "compatibility": "w69",
+      "description": "This mod does NOT change spawn rates, only the strength and badassery of animals.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/TuffCritters/creaturechaos.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/TuffCritters/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL3_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL3.EXMODZ"
+      }
+    },
+	{
+      "name": "Dextermod: TuffCritters Level 4",
+      "author": "CK_Dexterhaven",
+      "version": "1.8",
+      "compatibility": "w69",
+      "description": "This mod does NOT change spawn rates, only the strength and badassery of animals.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/TuffCritters/creaturechaos.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/TuffCritters/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL4_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL4.EXMODZ"
+      }
+    },
+	{
+      "name": "Dextermod: Animal Madness",
+      "author": "CK_Dexterhaven",
+      "version": "1.8",
+      "compatibility": "w69",
+      "description": "This mod combines the increased spawning rates and higher stats found in the *Creature Chaos Level 4* mod with the extreme health and other increases found in the *Tuff Critters Level 4* mod.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/AnimalMadness/creaturechaos.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/AnimalMadness/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/AnimalMadness/Dextermod_AnimalMadness_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/AnimalMadness/Dextermod_AnimalMadness.EXMODZ"
       }
     },
 	{
