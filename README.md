@@ -17,10 +17,9 @@ This all-in-one package integrates the following:
 * The expansive WZG Icarus-balance-overhaul mod, tweaked thusly:
    * Rope from fiber can be crafted on the Character in addition to the Crafting Bench
    * Workshop repair kits can be crafted in the Fabricator
-   * The Larkwell Beta bakcpack has higher stats (more slots, reduced carry weights, increased ammo capacity and reload speed for rifles, etc) 
-   * Much higher chances to mine a voxel in one swing and harvest a tree with one chop
+   * The Workshop repair kit pack includes 10 repair kits plus an assortment of T4 goodies, and costs quite a bit more to research and buy
    * More food buff slots
-   * The MXC furnace smelts like an electric furnace
+   * The MXC furnace smelts like an electric furnace (and costs more)
    * The Larkwell arrow and crossbow bolt bundles contain 50, not 25 per pack
    * Crumbed Fish is a "powerfood," giving 200 max health and stamina, and 30% stamina regeneration. Slightly increased recipe requirements. 
 * JimK72's Custom_Puck_Lights and Camera_Distance mods (as-is)
