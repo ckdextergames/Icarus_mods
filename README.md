@@ -8,7 +8,7 @@
 
 ---
 
-Compatible with Icarus Week 69 update:
+Compatible with Icarus Week 71 update:
 
 <a name="mod">__MaxiStax__</a>
 
@@ -63,6 +63,10 @@ __Stack size changes:__
 * Fatty T-bone 20 >> 100
 * Cooked Fatty T-bone 20 >> 100
 * Cooked Giant Steak 20 >> 100
+* Fruit Muffin 10 >> 50
+* Savory Roll 10 >> 50
+* Vegetable Roll 10 >> 50
+* Shepherds Roll 10 >> 50
 
 ---
 
