@@ -11,23 +11,26 @@
 
 ---
 
-Compatible with Icarus Week 69 update:
+Compatible with Icarus Week 71 update:
 
 <a name="mod">__Dextermod_BetterCarts__</a>
 
-Three new versions of the buffalo cart -- all are rideable:
+Three new versions of the buffalo cart -- all make cargo saddles rideable:
 
 The "Terrier":
-* Weight capacity increased from 1000 to 3000 and no speed loss
-* Same recipie, but slightly increased crafting cost
+- Weight capacity increased from 1000 to 3000 and no speed loss
+- Heavy cargo slots increased from 5 to 8
+- Same recipie, but slightly increased crafting cost
   
 The "Ridgeback":
-* Weight capacity increased from 1000 to 5000 and slight speed gain
-* Increased crafting cost, also requires steel screws instead of iron nails
+-  Weight capacity increased from 1000 to 5000 and slight speed gain
+- Heavy cargo slots increased from 5 to 10
+- Increased crafting cost, also requires steel screws instead of iron nails
   
 The "Mastiff":
-* Weight capacity increased from 1000 to 8000 and speed bumped by 40%
-* Increased crafting cost, requires steel screws, steel rebar, and carbon fiber 
+- Weight capacity increased from 1000 to 8000 and speed bumped by 40%
+- Heavy cargo slots increased from 5 to 12
+- Increased crafting cost, requires steel screws, steel rebar, and carbon fiber 
 
 (Obviously, these are mutually exclusive mods. Choose one variety.)
 
