@@ -9,7 +9,7 @@
 
 ---
 
-Compatible with Icarus Week 69 update:
+Compatible with Icarus Week 71 update:
 
 <a name="mod">__Stronger HVAC__</a>
 
