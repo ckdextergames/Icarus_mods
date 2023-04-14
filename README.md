@@ -5,7 +5,7 @@
 
 * [Important Warnings - Please Read](#warnings)
 
-<a name="modlist">All mods updated for Icarus week 69:</a>
+<a name="modlist">All mods updated for Icarus week 71:</a>
 
 1. [Super Suit Modules](#1)
 2. [SpeedyCrafter and CrazyCrafter](#2)
@@ -226,19 +226,7 @@ This mod increases the count and intensity of aggressive animals. Please see the
 
 11. <a name="11">__Better Carts__</a> (Direct link: https://bit.ly/CKDbettercarts)
 
-Three new versions of the buffalo cart:
-
-The "Terrier":
-* Weight capacity increased from 1000 to 3000 and no speed loss
-* Same recipie, but slightly increased crafting cost
-  
-The "Ridgeback":
-* Weight capacity increased from 1000 to 5000 and slight speed gain
-* Increased crafting cost, also requires steel screws instead of iron nails
-  
-The "Mastiff":
-* Weight capacity increased from 1000 to 8000 and speed bumped by 40%
-* Increased crafting cost, requires steel screws, steel rebar, and carbon fiber 
+Three new versions of the buffalo cart! See mod page for full details.
 
 (Obviously, these are mutually exclusive mods. Choose one variety.)
 
