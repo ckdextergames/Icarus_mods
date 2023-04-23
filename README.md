@@ -16,7 +16,7 @@ Brought to you by DexterHaven Outfitters LTD, these Icarus Starter Packs contain
 
 Inspired by "care package" mods from begginfokillz and CrypticXenon, this opens a whole new world of granular, customized packages with all the essentials. Please be sure to read [the full description](https://github.com/ckdextergames/Icarus_mods/blob/StarterPacks/DETAILS.md) for important information, and good hunting!
  
-Starter packs come in 9 levels of increasing benefits and increasing cost. They replace all of the workshop's seed packs, but each level includes a sta◘ck of the corresponding food, and successive higher levels include all the previous level's food items as well (plus, the highest levels include extra foods for which there are no seed packs). To use: Simply research (if needed), purchase, and "consume" while on the surface.
+Starter packs come in 9 levels of increasing benefits and increasing cost. They replace all of the workshop's seed packs, but each level includes a stack of the corresponding food, and successive higher levels include all the previous level's food items as well (plus, the highest levels include extra foods for which there are no seed packs). To use: Simply research (if needed), purchase, and "consume" while on the surface.
 
 **IMPORTANT WARNING**: Make certain you have enough slots in your personal inventory to accomodate all the items in the pack you're buying! All items expand into your personal inventory when you select "Consume". So --especially for higher level Starter Packs-- you'll likely need suit modules and a high-capacity backpack, and/or be using modded versions to get the number of inventory slots required. The level 1 pack has 16 items, and the level 9 pack has *64 items*, so plan accordingly!
 
