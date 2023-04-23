@@ -26,7 +26,7 @@ Research cost: 750/250 — Craft cost: 600/200
 - crafting bench
 - bedroll
 
--- [*__Return to list__*](#list)
+-- [**Return to list**](#list)
 ---
 <a name="2">**Level 2 Starter Pack**</a> (replaces carrot seed pack)
 
@@ -45,7 +45,7 @@ Research cost: 1250/750 — Craft cost: 1000/600
 - water wheel
 - bedroll
 
--- [*__Return to list__*](#list)
+-- [**Return to list**](#list)
 ---
 <a name="3">**Level 3 Starter Pack**</a> (replaces pumpkin seed pack)
 
@@ -77,7 +77,7 @@ Research cost: 1750/1250 — Craft cost: 1400/1000
 - Blood Thinning Paste
 - waterskin
 
--- [*__Return to list__*](#list)
+-- [**Return to list**](#list)
 ---
 <a name="4">**Level 4 Starter Pack**</a> (replaces squash seed pack)
 
@@ -117,7 +117,7 @@ Research cost: 2250/1750 — Craft cost: 1800/1400
 - oxygen bladder
 - oxidizer
 
--- [*__Return to list__*](#list)
+-- [**Return to list**](#list)
 ---
 <a name="5">**Level 5 Starter Pack**</a> (replaces berry seed pack)
 
@@ -164,7 +164,7 @@ Research cost: 2750/2250 — Craft cost: 2200/1800
 - oxygen bladder
 - oxygen dissolver
 
--- [*__Return to list__*](#list)
+-- [**Return to list**](#list)
 ---
 <a name="6">**Level 6 Starter Pack**</a> (replaces wheat seed pack)
 
@@ -213,7 +213,7 @@ Research cost: 3250/2750 — Craft cost: 2600/2200
 - oxygen tank
 - oxygen dissolver
 
--- [*__Return to list__*](#list)
+-- [**Return to list**](#list)
 ---
 <a name="7">**Level 7 Starter Pack**</a> (replaces watermelon seed pack)
 
@@ -275,7 +275,7 @@ Research cost: 4000/3750 — Craft cost: 3200/2800
 - oxygen tank X2
 - oxygen dissolver
 
--- [*__Return to list__*](#list)
+-- [**Return to list**](#list)
 ---
 <a name="8">**Level 8 Starter Pack**</a> (replaces soy seed pack)
 
@@ -335,7 +335,7 @@ Research cost: 5000/4500 — Craft cost: 4000/3600
 - oxygen dissolver
 - thumper
 
--- [*__Return to list__*](#list)
+-- [**Return to list**](#list)
 ---
 <a name="9">**Level 9 Starter Pack**</a> (replaces mushroom seed pack)
 
