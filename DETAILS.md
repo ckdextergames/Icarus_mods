@@ -26,7 +26,7 @@ Research cost: 750/250 — Craft cost: 600/200
 - crafting bench
 - bedroll
 
--- [**Return to list**](#list)
+[**Return to list**](#list)
 ---
 <a name="2">**Level 2 Starter Pack**</a> (replaces carrot seed pack)
 
