@@ -612,6 +612,19 @@
       }
     },
 	{
+      "name": "Dextermod: Starter Packs",
+      "author": "CK_Dexterhaven",
+      "version": "2.0",
+      "compatibility": "w72",
+      "description": "Starter kits with everything the prospector needs, in 9 varieties of increasing benefits and increasing cost. Replaces all the Workshop seed packs (but provides all those same food items as well). Please read the full description on the mod page and the detailed Pack listing for more info.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/StarterPacks/ITEM_STARTERPAK9.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/StarterPacks/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/StarterPacks/Dextermod_StarterKits_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/StarterPacks/Dextermod_StarterKits.EXMODZ"
+      }
+    },
+	{
       "name": "Buffalo Mounts - Ride & Carry",
       "author": "CK_Dexterhaven",
       "version": "1.9",

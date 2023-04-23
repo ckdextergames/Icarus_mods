@@ -35,11 +35,12 @@
 26. [Stronger HVAC](#26)
 27. [Tuff Critters](#27)
 28. [Animal Madness](#28)
-29. [Buffalo Mounts - Ride & Carry](#29)
-30. [No Weather](#30)
-31. [T3 Elevator](#31)
+29. [Starter Packs](#29)
+30. [Buffalo Mounts - Ride & Carry](#30)
+31. [No Weather](#31)
+32. [T3 Elevator](#32)
 
-* [Deprecated mods - no longer in use](#32)
+* [Deprecated mods - no longer in use](#33)
 
 * [Installation instructions & caution](#install)
 
@@ -444,8 +445,17 @@ HAVE FUN, TRY NOT TO DIE! :)
 -- [*__Return to mod list__*](#modlist)
 
 ---
+29. <a name="29">__Starter Packs__</a> (Direct link: https://bit.ly/CKDstarterpacks)
 
-29. <a name="29">__Buffalo Mount mod - Ride & Carry__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/BuffalosRideCarry)
+Starter kits with everything the prospector needs, in 9 varieties of increasing benefits and increasing cost. Replaces all the Workshop seed packs (but provides all those same food items as well). Please read the full description on the mod page and the detailed Pack listing for more info.
+
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemTemplate", "D_ItemStatic", "D_WorkshopItems", "D_Consumable", and "D_Itemable"; or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+30. <a name="30">__Buffalo Mount mod - Ride & Carry__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/BuffalosRideCarry)
 
 This mod, made by Unaffected, allows prospectors to equip tamed buffalos with ***both*** a saddle for riding ***and*** a cart. Note that when viewed by the character, you won't see the saddle (until you're riding) but you'll be able to equip both the saddle and the cart when accessing the mount's menu.
 
@@ -455,7 +465,7 @@ This mod, made by Unaffected, allows prospectors to equip tamed buffalos with **
 
 ---
 
-30. <a name="30">__No Weather__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/NoWeather)
+30. <a name="31">__No Weather__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/NoWeather)
 
 Thanks to JimK72, laanp, Durzo (and h/t to Crystal), this mod **removes all weather events** from the game. No wind, rain, snow, sand, etc. No storms of any kind.
 
@@ -465,7 +475,7 @@ Thanks to JimK72, laanp, Durzo (and h/t to Crystal), this mod **removes all weat
 
 ---
 
-31. <a name="31">__T3 Elevator__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/T3Elevator)
+31. <a name="32">__T3 Elevator__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/T3Elevator)
 
 This is a revised version of the Elevator mod made by JimK72. Instead of being crafted on the character, this is crafted at the Machining Bench, and requires steel, rope, Carbon Fiber, and an aluminum floor piece.
 
@@ -475,11 +485,11 @@ This is a revised version of the Elevator mod made by JimK72. Instead of being c
 
 ---
 
-<a name="32">__Deprecated mods:__</a>
+<a name="33">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
 * Toughest Hedgehogs (I recommend instead using the [Sinotai Extreme Spikewall](#14) mod)
-* So_Many_Bearz (I recommend instead using the [Creature Chaos](#10) mods) 
+* So_Many_Bearz (I recommend instead using the [Creature Chaos](#10), [Tuff Critters](#27), or [Animal Madness](#28) mods) 
 
 ---
 
