@@ -14,7 +14,7 @@ Compatible with Icarus Week 72 update:
 
 Brought to you by DexterHaven Outfitters LTD, these Icarus Starter Packs contain everything a prospector needs to get started on the surface. From the bare-bones, *"I just need a bit of help"* excursion to those preparing a sprawling, highest-tier, long-term basecamp, we've got you covered.
 
-Inspired by "care package" mods from begginfokillz and CrypticXenon, this opens a whole new world of granular, customized packages with all the essentials. Please be sure to read the full description for important information, and good hunting!
+Inspired by "care package" mods from begginfokillz and CrypticXenon, this opens a whole new world of granular, customized packages with all the essentials. Please be sure to read [the full description](https://github.com/ckdextergames/Icarus_mods/blob/StarterPacks/DETAILS.md) for important information, and good hunting!
  
 Starter packs come in 9 levels of increasing benefits and increasing cost. They replace all of the workshop's seed packs, but each level includes a sta◘ck of the corresponding food, and successive higher levels include all the previous level's food items as well (plus, the highest levels include extra foods for which there are no seed packs). To use: Simply research (if needed), purchase, and "consume" while on the surface.
 

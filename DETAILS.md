@@ -1,9 +1,21 @@
 **DexterHaven Starter Packs -- Detailed pack listing:**
 
-**Level 1 Starter Pack** (replaces corn seed pack)
+Note: Workshop prices listed below are as {Ren / Exotics}. All packs require both Ren and exotics to research and craft.
 
-Research cost: 750/250
-Craft cost: 600/200
+<a name="list">Jump to...</a>
+[Pack 1](#1)
+[Pack 2](#2)
+[Pack 3](#3)
+[Pack 4](#4)
+[Pack 5](#5)
+[Pack 6](#6)
+[Pack 7](#7)
+[Pack 8](#8)
+[Pack 9](#9)
+
+<a name="1>**Level 1 Starter Pack**</a> (replaces corn seed pack)
+
+Research cost: 750/250 — Craft cost: 600/200
 
 - corn X10
 - iron pickaxe
@@ -13,10 +25,12 @@ Craft cost: 600/200
 - iron sickle
 - crafting bench
 - bedroll
+
+-- [*__Return to list__*](#list)
 ---
-**Level 2 Starter Pack** (replaces carrot seed pack)
-Research cost: 1250/750
-Craft cost: 1000/600
+<a name="2>**Level 2 Starter Pack**</a> (replaces carrot seed pack)
+
+Research cost: 1250/750 — Craft cost: 1000/600
 
 - corn X10
 - carrot X10
@@ -30,10 +44,12 @@ Craft cost: 1000/600
 - mortar & pestle
 - water wheel
 - bedroll
---- 
-**Level 3 Starter Pack** (replaces pumpkin seed pack)
-Research cost: 1750/1250
-Craft cost: 1400/1000
+
+-- [*__Return to list__*](#list)
+---
+<a name="3>**Level 3 Starter Pack**</a> (replaces pumpkin seed pack)
+
+Research cost: 1750/1250 — Craft cost: 1400/1000
 
 - corn X10
 - carrot X10
@@ -60,10 +76,12 @@ Craft cost: 1400/1000
 - Antibiotic Paste
 - Blood Thinning Paste
 - waterskin
+
+-- [*__Return to list__*](#list)
 ---
-**Level 4 Starter Pack** (replaces squash seed pack)
-Research cost: 2250/1750
-Craft cost: 1800/1400
+<a name="4>**Level 4 Starter Pack**</a> (replaces squash seed pack)
+
+Research cost: 2250/1750 — Craft cost: 1800/1400
 
 - corn X10
 - carrot X10
@@ -98,10 +116,12 @@ Craft cost: 1800/1400
 - waterskin
 - oxygen bladder
 - oxidizer
+
+-- [*__Return to list__*](#list)
 ---
-**Level 5 Starter Pack** (replaces berry seed pack)
-Research cost: 2750/2250
-Craft cost: 2200/1800
+<a name="5>**Level 5 Starter Pack**</a> (replaces berry seed pack)
+
+Research cost: 2750/2250 — Craft cost: 2200/1800
 
 - corn X10
 - carrot X10
@@ -143,10 +163,12 @@ Craft cost: 2200/1800
 - waterskin
 - oxygen bladder
 - oxygen dissolver
+
+-- [*__Return to list__*](#list)
 ---
-**Level 6 Starter Pack** (replaces wheat seed pack)
-Research cost: 3250/2750
-Craft cost: 2600/2200
+<a name="6>**Level 6 Starter Pack**</a> (replaces wheat seed pack)
+
+Research cost: 3250/2750 — Craft cost: 2600/2200
 
 - corn X10
 - carrot X10
@@ -190,10 +212,12 @@ Craft cost: 2600/2200
 - canteen
 - oxygen tank
 - oxygen dissolver
---- 
-**Level 7 Starter Pack** (replaces watermelon seed pack)
-Research cost: 4000/3750
-Craft cost: 3200/2800
+
+-- [*__Return to list__*](#list)
+---
+<a name="7>**Level 7 Starter Pack**</a> (replaces watermelon seed pack)
+
+Research cost: 4000/3750 — Craft cost: 3200/2800
 
 - corn X10
 - carrot X10
@@ -250,10 +274,12 @@ Craft cost: 3200/2800
 - canteen X2
 - oxygen tank X2
 - oxygen dissolver
---- 
-**Level 8 Starter Pack** (replaces soy seed pack)
-Research cost: 5000/4500
-Craft cost: 4000/3600
+
+-- [*__Return to list__*](#list)
+---
+<a name="8>**Level 8 Starter Pack**</a> (replaces soy seed pack)
+
+Research cost: 5000/4500 — Craft cost: 4000/3600
 
 - corn X10
 - carrot X10
@@ -308,10 +334,12 @@ Craft cost: 4000/3600
 - oxygen tank X2 
 - oxygen dissolver
 - thumper
---- 
-**Level 9 Starter Pack** (replaces mushroom seed pack)
-Research cost: 7500/6500
-Craft cost: 5750/5000
+
+-- [*__Return to list__*](#list)
+---
+<a name="9>**Level 9 Starter Pack**</a> (replaces mushroom seed pack)
+
+Research cost: 7500/6500 — Craft cost: 5750/5000
 
 - corn X10
 - carrot X10
