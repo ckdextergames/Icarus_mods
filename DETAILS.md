@@ -1,7 +1,7 @@
-◘# Icarus_mods
 **DexterHaven Starter Packs -- Detailed pack listing:**
 
 **Level 1 Starter Pack** (replaces corn seed pack)
+
 Research cost: 750/250
 Craft cost: 600/200
 
