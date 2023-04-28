@@ -8,7 +8,7 @@
 
 ---
 
-Compatible with Icarus Week 71 update:
+Compatible with Icarus Week 73 update:
 
 <a name="mod">__MaxiStax__</a>
 
@@ -20,53 +20,56 @@ This mod was designed to help move a large base a short distance without having 
 
 __Stack size changes:__
 
-* Cooked Meat 20 >> 100
-* Fiber 200 >> 1000
-* Stone 100 >> 400
-* Wood 100 >> 800
-* Stick 100 >> 1000
-* Sulfur 50 >> 400
-* Berries 100 >> 400
-* Iron ore 50 >> 500
-* Iron ingot 20 >> 400
-* Copper ore 50 >> 500
-* Copper ingot 50 >> 400
-* Gold ore 50 >> 500
-* Gold ingot 20 >> 400
-* Aluminum ore (Bauxite) 100 >> 400
 * Aluminum 20 >> 600
-* Silica 50 >> 500
-* Glass 20 >> 400
-* Tree sap 100 >> 600
-* Leather 100 >> 600
-* Bone 100 >> 400
-* Fur 100 >> 400
-* Oxite 50 >> 400
-* Rope 100 >> 500
-* Epoxy 100 >> 400
-* Exotics 20 >> 400
-* Soybeans 100 >> 400
-* Flour 100 >> 400
-* Wheat 100 >> 800
-* Raw fish 20 >> 200
-* Yeast 100 >> 400
-* Medium wood hedgehog 20 >> 100
-* Titanium ingot 20 >> 200
-* Platinum ingot 20 >> 200
-* Steel ingot 20 >> 200
-* Steel rebar 50 >> 200
-* Fish curry 10 >> 50
-* Roast vegetables 10 >> 50
+* Aluminum ore (Bauxite) 100 >> 400
 * Animal fat 10 >> 200
-* Pastry 10 >> 60
-* Meat Pie 10 >> 50
-* Fatty T-bone 20 >> 100
+* Berries 100 >> 400
+* Bone 100 >> 400
+* Composites 20 >> 100
 * Cooked Fatty T-bone 20 >> 100
 * Cooked Giant Steak 20 >> 100
+* Cooked Meat 20 >> 100
+* Copper ingot 50 >> 400
+* Copper ore 50 >> 500
+* Epoxy 100 >> 400
+* Exotics 20 >> 400
+* Fatty T-bone 20 >> 100
+* Fiber 200 >> 1000
+* Fish curry 10 >> 50
+* Flour 100 >> 400
 * Fruit Muffin 10 >> 50
+* Fur 100 >> 400
+* Glass 20 >> 400
+* Gold ingot 20 >> 400
+* Gold ore 50 >> 500
+* Iron ingot 20 >> 400
+* Iron ore 50 >> 500
+* Leather 100 >> 600
+* Meat Pie 10 >> 50
+* Medium wood hedgehog 20 >> 100
+* Oxite 50 >> 400
+* Pastry 10 >> 60
+* Platinum ingot 20 >> 200
+* Pumpkin 20 >> 100
+* Raw fish 20 >> 200
+* Roast vegetables 10 >> 50
+* Rope 100 >> 500
 * Savory Roll 10 >> 50
-* Vegetable Roll 10 >> 50
 * Shepherds Roll 10 >> 50
+* Silica 50 >> 500
+* Soybeans 100 >> 400
+* Steel ingot 20 >> 200
+* Steel rebar 50 >> 200
+* Stick 100 >> 1000
+* Stone 100 >> 400
+* Sulfur 50 >> 400
+* Titanium ingot 20 >> 200
+* Tree sap 100 >> 600
+* Vegetable Roll 10 >> 50
+* Watermelon 20 >> 100
+* Wheat 100 >> 800
+* Wood 100 >> 800
+* Yeast 100 >> 400
 
 ---
 
