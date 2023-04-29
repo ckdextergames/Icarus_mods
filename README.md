@@ -23,10 +23,9 @@ Starter packs come in 9 levels of increasing benefits and increasing cost. They 
 **Notes**:
 
 1. There are some types of items that are not included in these starter packs. These are items that are either very much subject to personal taste, or they can be crafted with much greater benefits/capacities by a player with corresponding talents for that item. They include:
-- Building pieces (including glass, which must be crafted with an active water connection to be reinforced)
+- Building pieces
 - Armor
 - Firearms, ammo, & arrows
-- Crop plots
 - Food items
 - Storage crates
 2. If you already had some seed packs in your orbital or planetry inventory, those will now be the corresponding Starter Pack, but they will revert to the seed pack if the mod is no longer installed.
