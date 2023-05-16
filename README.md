@@ -8,7 +8,7 @@
 
 ---
 
-Compatible with Icarus Week 73 update:
+Compatible with Icarus Week 75 update:
 
 <a name="mod">__Surface Workshop__</a>
 
@@ -25,6 +25,9 @@ With this mod, prospectors can now craft these essential orbital workshop items 
 - IC-001 Radar
 - IC-001 Prototype Power Source
 - Meta Repair Kits
+- Dev Thor Hammer (by JimK72)
+- Teleporter Kit (by JimK72)
+- Lighting Crate - Custom Puck Lights (by JimK72)
 
 ---
 
