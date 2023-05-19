@@ -8,7 +8,7 @@
 
 ---
 
-Compatible with Icarus Week 75 update:
+Compatible with Icarus Week 76 update:
 
 <a name="mod">__Surface Workshop__</a>
 
