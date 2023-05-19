@@ -5,7 +5,7 @@
 
 * [Important Warnings - Please Read](#warnings)
 
-<a name="modlist">All mods updated for Icarus week 73:</a>
+<a name="modlist">All mods updated for Icarus week 76:</a>
 
 1. [Super Suit Modules](#1)
 2. [SpeedyCrafter and CrazyCrafter](#2)
@@ -378,7 +378,7 @@ Two new varieties of MXC Furnace. These replace low-level MXC tools in the Works
 
 23. <a name="23">__Surface Workshop__</a> (Direct link: https://bit.ly/CKDworkshop)
 
-Allows the prospector to craft 11 essential orbital workshop items on the surface, in the Fabricator.
+Allows the prospector to craft 14 essential orbital workshop items on the surface, in the Fabricator.
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes"; or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
