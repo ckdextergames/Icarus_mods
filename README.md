@@ -5,7 +5,7 @@
 
 * [Important Warnings - Please Read](#warnings)
 
-<a name="modlist">All mods updated for Icarus week 76:</a>
+<a name="modlist">All mods updated for Icarus week 77:</a>
 
 1. [Super Suit Modules](#1)
 2. [SpeedyCrafter and CrazyCrafter](#2)
