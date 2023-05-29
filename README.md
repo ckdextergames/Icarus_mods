@@ -46,7 +46,6 @@
 
 =======
 * [Disclaimers/warnings](#warnings)
->>>>>>> 2811bd4abcc708a4fb87f53ff7f3ac23a852be7c
 * [Installation instructions & caution](#install)
 
 ---
@@ -73,7 +72,6 @@ These mods are free to use of course, but if you'd like to make a small donation
 * Instead of placing mods in your mod folder, using [Mod Manager](https://github.com/Jimk72/Icarus_Software) is highly recommended!
 * Playing with others who aren't using the the exact same mod file(s), or any mods, could cause errors, crashes, and/or inventory loss.
 
-<<<<<<< HEAD
 -- [*__Return to mod list__*](#modlist)
 
 ---
