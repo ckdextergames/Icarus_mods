@@ -649,6 +649,19 @@
       }
     },
 	{
+      "name": "Mini Refrigerator",
+      "author": "CK_Dexterhaven",
+      "version": "2.3",
+      "compatibility": "w77",
+      "description": "Made by JimK72 & CK_Dexterhaven, an additional option for refrigeration - the stackable mini-fridge.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/MiniFridge/minifridge.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/MiniFridge/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/MiniFridge/Mini_Fridge_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/MiniFridge/Mini_Fridge.EXMODZ"
+      }
+    },
+	{
       "name": "T3 Elevator",
       "author": "CK_Dexterhaven",
       "version": "2.3",

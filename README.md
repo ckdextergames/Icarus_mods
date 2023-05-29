@@ -39,8 +39,9 @@
 30. [Buffalo Mounts - Ride & Carry](#30)
 31. [No Weather](#31)
 32. [T3 Elevator](#32)
+33. [Mini Refrigerator](#33)
 
-* [Deprecated mods - no longer in use](#33)
+* [Deprecated mods - no longer in use](#34)
 
 * [Installation instructions & caution](#install)
 
@@ -475,7 +476,7 @@ Thanks to JimK72, laanp, Durzo (and h/t to Crystal), this mod **removes all weat
 
 ---
 
-31. <a name="32">__T3 Elevator__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/T3Elevator)
+32. <a name="32">__T3 Elevator__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/T3Elevator)
 
 This is a revised version of the Elevator mod made by JimK72. Instead of being crafted on the character, this is crafted at the Machining Bench, and requires steel, rope, Carbon Fiber, and an aluminum floor piece.
 
@@ -485,7 +486,19 @@ This is a revised version of the Elevator mod made by JimK72. Instead of being c
 
 ---
 
-<a name="33">__Deprecated mods:__</a>
+33. <a name="33">__MiniFridge__</a> (Direct link: https://bit.ly/CKDminifridge)
+
+Brought to you by JimK72 & CK_Dexterhaven, the Mini Refrigerator! Crafted as an additional option in the Fabricator, this fridge requires a bit less than half the materials as the regular fridge, and holds somewhat less. Otherwise, functions just the same. Enjoy!
+
+*"Perfect for any Icarus dorm or workshop"*
+
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+<a name="34">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
 * Toughest Hedgehogs (I recommend instead using the [Sinotai Extreme Spikewall](#14) mod)
