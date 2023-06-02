@@ -105,19 +105,6 @@
       }
   	},
     {
-      "name": "Dextermod: All_The_Poison_Fish",
-      "author": "CK_Dexterhaven",
-      "version": "2.3",
-      "compatibility": "w77",
-      "description": "All the fish are the aggressive ones, and there's 3X as many. Please see full details before use.",
-      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/AllPoisonFish/poisonfish.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/AllPoisonFish/README.md",
-      "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/AllPoisonFish/Dextermod_AllPoisonFish_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/AllPoisonFish/Dextermod_AllPoisonFish.EXMODZ"
-      }
-    },
-    {
       "name": "Dextermod: MaxiStax",
       "author": "CK_Dexterhaven",
       "version": "2.3",

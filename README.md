@@ -50,16 +50,6 @@
 
 ---
 
-Compatible with Icarus Week 77 update:
-
-<a name="mod">__MiniFridge__</a>
-
-Brought to you by JimK72 & CK_Dexterhaven, the Mini Refrigerator! Crafted as an additional option in the Fabricator, this fridge requires a bit less than half the materials as the regular fridge, and holds somewhat less. Otherwise, functions just the same. Enjoy!
-
-*"Perfect for any Icarus dorm or workshop"*
-
----
-
 <a name="shouts">*Huge shout-outs</a> to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Donovan, Waldo, Semac, R3ap3r, Nic, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
 
 These mods are free to use of course, but if you'd like to make a small donation you can do so at [BuyMeaCoffee](https://www.buymeacoffee.com/ckdexterhaven) or at [Ko-Fi](https://ko-fi.com/ckdexterhaven)
@@ -520,6 +510,7 @@ Brought to you by JimK72 & CK_Dexterhaven, the Mini Refrigerator! Crafted as an 
 <a name="34">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
+* As of the Galileo update, until further notice, the All Poison Fish mod will not be in use or downloadable.
 * Toughest Hedgehogs (I recommend instead using the [Sinotai Extreme Spikewall](#14) mod)
 * So_Many_Bearz (I recommend instead using the [Creature Chaos](#10), [Tuff Critters](#27), or [Animal Madness](#28) mods) 
 
