@@ -8,7 +8,7 @@
 
 ---
 
-Compatible with Icarus Week 77 update:
+Compatible with Icarus Week 78 update:
 
 <a name="mod">__SuperDeluxe Combo__</a>
 
@@ -21,7 +21,7 @@ This all-in-one package integrates the following:
    * More food buff slots
    * The MXC furnace smelts like an electric furnace (and costs more)
    * The Larkwell arrow and crossbow bolt bundles contain 50, not 25 per pack
-   * Crumbed Fish is a "powerfood," giving 200 max health and stamina, and 30% stamina regeneration. Slightly increased recipe requirements. 
+   * The Crumbed Saltwater Fish Filet is a "powerfood," giving 200 max health and stamina, and 30% stamina regeneration. Slightly increased recipe requirements. 
 * JimK72's Custom_Puck_Lights and Camera_Distance mods (as-is)
 * Critfail's "Blessing of Tartarus" mod (as-is)
 * An enhanced versions of CritFail's WasteNot_All (giving you a higher chance for more exotics)
