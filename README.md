@@ -9,7 +9,9 @@
 
 ---
 
-Compatible with Icarus Week 77 update:
+***Attention - As of the Galileo update, until further notice, this mod is no longer in use or downloadable.***
+
+Historical info:
 
 <a name="mod">__All The Poison Fish!__</a>
 
