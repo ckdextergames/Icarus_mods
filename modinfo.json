@@ -649,6 +649,19 @@
       }
     },
 	{
+      "name": "Something Fishy!",
+      "author": "CK_Dexterhaven",
+      "version": "2.4",
+      "compatibility": "w78",
+      "description": "Designed to dramatically improve fishing. Craftable in the Fishing Bench: a new rod, lure, and trap with greater recipe requirements, but improved buffs.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/SomethingFishy/somethingfishy.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/SomethingFishy/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/SomethingFishy/Dextermod_SomethingFishy_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/SomethingFishy/Dextermod_SomethingFishy.EXMODZ"
+      }
+    },
+	{
       "name": "T3 Elevator",
       "author": "CK_Dexterhaven",
       "version": "2.4",

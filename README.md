@@ -41,8 +41,9 @@
 31. [No Weather](#31)
 32. [T3 Elevator](#32)
 33. [Mini Refrigerator](#33)
+34. [Something Fishy](#34)
 
-* [Deprecated mods - no longer in use](#34)
+* [Deprecated mods - no longer in use](#35)
 
 =======
 * [Disclaimers/warnings](#warnings)
@@ -497,7 +498,17 @@ Brought to you by JimK72 & CK_Dexterhaven, the Mini Refrigerator! Crafted as an 
 
 ---
 
-<a name="34">__Deprecated mods:__</a>
+34. <a name="34">__Something Fishy__</a> (Direct link: https://bit.ly/CKDfishy)
+
+A suite of highy advanced fishing gear designed to dramatically improve your fishing adventures. Craftable in the Fishing Bench you'll find a new rod, lure, and trap which all have greater recipe requirements, but provide vastly improved buffs.
+
+*__CAUTION__*: This mod changes many files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+<a name="35">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
 * As of the Galileo update, until further notice, the All Poison Fish mod will not be in use or downloadable.
