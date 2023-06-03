@@ -12,7 +12,7 @@ Compatible with Icarus Week 78 update:
 
 <a name="mod">__Something Fishy!__</a>
 
-A suite of highy advanced fishing gear designed to dramatically improve your fishing adventures. Craftable in the Fishing Bench you'll find a new rod, lure, trap, and tackle box which all have considerably greater recipe ingredients, but provide vastly improved buffs.
+A suite of highy advanced fishing gear designed to dramatically improve your fishing adventures. Craftable in the Fishing Bench you'll find a new rod, lure, and trap which all have greater recipe requirements, but provide vastly improved buffs.
 
 ---
 
