@@ -22,7 +22,7 @@ __Stack size changes:__
 
 * Aluminum 20 >> 600
 * Aluminum ore (Bauxite) 100 >> 400
-* Animal fat 10 >> 200
+* Animal fat 10 >> 500
 * Berries 100 >> 400
 * Bone 100 >> 400
 * Composites 20 >> 100
@@ -41,6 +41,7 @@ __Stack size changes:__
 * Flour 100 >> 400
 * Freshwater Filet Curry 10 >> 50
 * Fruit Muffin 10 >> 50
+* Fish chunks 10 >> 100
 * Fur 100 >> 400
 * Glass 20 >> 400
 * Gold ingot 20 >> 400
@@ -62,7 +63,7 @@ __Stack size changes:__
 * Silica 50 >> 500
 * Soybeans 100 >> 400
 * Steel ingot 20 >> 200
-* Steel rebar 50 >> 200
+* Steel rebar 50 >> 1000
 * Stick 100 >> 1000
 * Stone 100 >> 400
 * Sulfur 50 >> 400
