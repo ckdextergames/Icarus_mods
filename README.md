@@ -8,7 +8,7 @@
 
 ---
 
-Compatible with Icarus Week 78 update:
+Compatible with Icarus Week 78 update: (If this is not the current week's game build, use Icarus Mod Manager to update, see below for more information.)
 
 <a name="mod">__MaxiStax__</a>
 
@@ -31,12 +31,15 @@ __Stack size changes:__
 * Cooked Meat 20 >> 100
 * Copper ingot 50 >> 400
 * Copper ore 50 >> 500
+* Crumbed Saltwater Filet 10 >> 50
 * Epoxy 100 >> 400
 * Exotics 20 >> 400
 * Fatty T-bone 20 >> 100
 * Fiber 200 >> 1000
 * Fish curry 10 >> 50
+* Fish pie 10 >> 50
 * Flour 100 >> 400
+* Freshwater Filet Curry 10 >> 50
 * Fruit Muffin 10 >> 50
 * Fur 100 >> 400
 * Glass 20 >> 400
@@ -75,7 +78,7 @@ __Stack size changes:__
 
 <a name="shouts">*Huge shout-outs</a> to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Donovan, Waldo, Semac, R3ap3r, Nic, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
 
-These mods are free to use of course, but if you'd like to make a small donation you can do so at [BuyMeaCoffee](https://www.buymeacoffee.com/ckdexterhaven) or at [Ko-Fi](https://ko-fi.com/ckdexterhaven)
+These mods are free to use of course, but if you'd like to make a small donation you can do so at [BuyMeaCoffee](https://www.buymeacoffee.com/ckdexterhaven) or [Ko-Fi](https://ko-fi.com/ckdexterhaven) or [PayPal](https://paypal.me/ckdexterhavengames).
 
 ---
 
