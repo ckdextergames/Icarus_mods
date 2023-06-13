@@ -662,6 +662,19 @@
       }
     },
 	{
+      "name": "Turbo WaterWorks",
+      "author": "CK_Dexterhaven",
+      "version": "2.4",
+      "compatibility": "w78",
+      "description": "Upgrades the WaterWheel Generator and the Water Pump to Turbo versions on the Fabricator.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/TurboWaterWorks/turbo.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/TurboWaterWorks/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/TurboWaterWorks/Dextermod_WaterWorksTurbo_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/TurboWaterWorks/Dextermod_WaterWorksTurbo.EXMODZ"
+      }
+    },
+	{
       "name": "T3 Elevator",
       "author": "CK_Dexterhaven",
       "version": "2.4",

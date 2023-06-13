@@ -42,8 +42,9 @@
 32. [T3 Elevator](#32)
 33. [Mini Refrigerator](#33)
 34. [Something Fishy](#34)
+35. [Turbo WaterWorks](#35)
 
-* [Deprecated mods - no longer in use](#35)
+* [Deprecated mods - no longer in use](#36)
 
 =======
 * [Disclaimers/warnings](#warnings)
@@ -53,7 +54,7 @@
 
 <a name="shouts">*Huge shout-outs</a> to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Donovan, Waldo, Semac, R3ap3r, Nic, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
 
-These mods are free to use of course, but if you'd like to make a small donation you can do so at [BuyMeaCoffee](https://www.buymeacoffee.com/ckdexterhaven) or at [Ko-Fi](https://ko-fi.com/ckdexterhaven)
+These mods are free to use of course, but if you'd like to make a small donation you can do so at [BuyMeaCoffee](https://www.buymeacoffee.com/ckdexterhaven) or [Ko-Fi](https://ko-fi.com/ckdexterhaven) or [PayPal](https://paypal.me/ckdexterhavengames).
 
 ---
 
@@ -508,7 +509,18 @@ A suite of highy advanced fishing gear designed to dramatically improve your fis
 
 ---
 
-<a name="35">__Deprecated mods:__</a>
+35. <a name="35">__Turbo WaterWorks__</a> (Direct link: https://bit.ly/CKDturbo)
+
+This mod enables adding some key ingredients to the WaterWheel Generator and the Water Pump to craft upgraded "Turbo" versions on the Fabricator. These new versions give the prospector much higher power transfer from the WaterWheel, and much greater water throughput from the pump.
+
+Special thanks to J_Phix for inspiration and hours of sleepless troubleshooting!
+
+*__CAUTION__*: This mod changes many files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+<a name="36">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
 * As of the Galileo update, until further notice, the All Poison Fish mod will not be in use or downloadable.
