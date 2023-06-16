@@ -6,7 +6,7 @@
 
 ---
 
-Compatible with Icarus Week 78 update:
+*Compatible with Icarus Week 78 update, or the current later game build if updated with Icarus Mod Manager.
 
 <a name="mod">__No Weather__</a>
 
