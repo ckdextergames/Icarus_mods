@@ -7,7 +7,7 @@ Mod by JimK72, revised by CK_Dexterhaven:
 
 ---
 
-Compatible with Icarus Week 77 update:
+*Compatible with Icarus Week 78 update, or the current later game build if updated with Icarus Mod Manager.
 
 <a name="mod">__The T3 Elevator__</a>
 
