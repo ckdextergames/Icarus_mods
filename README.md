@@ -8,7 +8,7 @@
 
 ---
 
-Compatible with Icarus Week 78 update:
+*Compatible with Icarus Week 78 update, or the current later game build if updated with Icarus Mod Manager.
 
 <a name="mod">__MiniFridge__</a>
 
@@ -20,7 +20,7 @@ Brought to you by JimK72 & CK_Dexterhaven, the Mini Refrigerator! Crafted as an 
 
 <a name="shouts">*Huge shout-outs</a> to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Donovan, Waldo, Semac, R3ap3r, Nic, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
 
-These mods are free to use of course, but if you'd like to make a small donation you can do so at [JimK's PayPal](https://www.paypal.com/paypalme/JKnutson72), or Dex's [BuyMeaCoffee](https://www.buymeacoffee.com/ckdexterhaven) or [Ko-Fi](https://ko-fi.com/ckdexterhaven)
+These mods are free to use of course, but if you'd like to make a small donation you can do so at [JimK's PayPal](https://www.paypal.com/paypalme/JKnutson72), or Dex's [BuyMeaCoffee](https://www.buymeacoffee.com/ckdexterhaven) or [Ko-Fi](https://ko-fi.com/ckdexterhaven) or [PayPal](https://paypal.me/ckdexterhavengames).
 
 ---
 
