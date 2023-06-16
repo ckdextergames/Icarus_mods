@@ -8,7 +8,7 @@
 
 ---
 
-Compatible with Icarus Week 78 update: (If this is not the current week's game build, use Icarus Mod Manager to update, see below for more information.)
+*Compatible with Icarus Week 78 update, or the current later game build if updated with Icarus Mod Manager.
 
 <a name="mod">__Surface Workshop__</a>
 
