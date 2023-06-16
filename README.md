@@ -9,7 +9,7 @@
 
 ---
 
-***Attention - As of the Galileo update, until further notice, this mod is no longer in use or downloadable.***
+***Attention - As of the Galileo update on week 78, and until further notice, this mod is no longer in use or downloadable.***
 
 Historical info:
 
