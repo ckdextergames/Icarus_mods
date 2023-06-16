@@ -9,13 +9,13 @@
 
 ---
 
-Compatible with Icarus Week 78 update:
+*Compatible with Icarus Week 78 update, or the current later game build if updated with Icarus Mod Manager.
 
 <a name="mod">__Enhanced Tactical Backpack__</a>
 
 This enhanced version of the Larkwell-Martinez Tactical Backpack has many powerful features. That power? It's gonna cost ya 5X the regular price. Still, given these stats, that's a bargain!
 
-* Prospectors can see buildings on the map
+* Prospectors can see buildings on the map {removed for now, may add this feature back in the future}
 * Adds 36 suit inventory slots
 * Adds 60% stamina regeneration during storms
 * Increases reload speed of bows, crossbows, and rifles by 85%
@@ -31,7 +31,7 @@ This enhanced version of the Larkwell-Martinez Tactical Backpack has many powerf
 
 <a name="shouts">*Huge shout-outs</a> to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Donovan, Waldo, Semac, R3ap3r, Nic, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
 
-These mods are free to use of course, but if you'd like to make a small donation you can do so at [BuyMeaCoffee](https://www.buymeacoffee.com/ckdexterhaven) or at [Ko-Fi](https://ko-fi.com/ckdexterhaven)
+These mods are free to use of course, but if you'd like to make a small donation you can do so at [BuyMeaCoffee](https://www.buymeacoffee.com/ckdexterhaven) or [Ko-Fi](https://ko-fi.com/ckdexterhaven) or [PayPal](https://paypal.me/ckdexterhavengames).
 
 ---
 
