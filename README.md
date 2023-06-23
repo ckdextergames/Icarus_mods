@@ -8,8 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 78 update, or the current later game build if updated with Icarus Mod Manager.
-
+*Compatible with Icarus Week 81 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__SuperDeluxe Combo__</a>
 
 This all-in-one package integrates the following:
