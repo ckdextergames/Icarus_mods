@@ -11,8 +11,7 @@
 
 ---
 
-*Compatible with Icarus Week 78 update, or the current later game build if updated with Icarus Mod Manager.
-
+*Compatible with Icarus Week 81 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__Dextermod_BetterCarts__</a>
 
 Three new versions of the buffalo cart -- all make cargo saddles rideable:
