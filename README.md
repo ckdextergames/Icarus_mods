@@ -9,8 +9,7 @@
 
 ---
 
-*Compatible with Icarus Week 78 update, or the current later game build if updated with Icarus Mod Manager.
-
+*Compatible with Icarus Week 81 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__Stronger HVAC__</a>
 
 This mod greatly increases the range of both the Heavy Heater and the Heavy Air Conditioner.
