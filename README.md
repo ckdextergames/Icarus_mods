@@ -6,7 +6,9 @@
 
 * [Important Warnings - Please Read](#warnings)
 
-<a name="modlist">All mods updated for Icarus Week 78:</a>
+<a name="modlist">All mods:</a>
+
+*Compatible with Icarus Week 81 update, or the current later game build if updated with Icarus Mod Manager.*
 
 1. [Super Suit Modules](#1)
 2. [SpeedyCrafter and CrazyCrafter](#2)
