@@ -8,8 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 78 update, or the current later game build if updated with Icarus Mod Manager.
-
+*Compatible with Icarus Week 81 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__SpeedyCrafter__</a>
 
 Everything that already crafts fast in vanilla stays that fast. But all the longer crafting times are reduced to be slightly less than the "default" speed (the same speed as iron ingots or gunpowder).
