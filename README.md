@@ -8,8 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 78 update, or the current later game build if updated with Icarus Mod Manager.
-
+*Compatible with Icarus Week 81 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__Creature Chaos!__</a>
 
 Expanding on CriticalFail's original "Moar_Bearz" mod, I'm moving beyond my "So_Many_Bearz" mod to encompass all the different carnivorous varmints throughout both Olympus and Styx. This mod comes in four flavors, of increasing intensity.
