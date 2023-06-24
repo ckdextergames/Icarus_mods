@@ -9,6 +9,7 @@
 ---
 
 *Compatible with Icarus Week 81 update, or the current later game build if updated with Icarus Mod Manager.*
+
 <a name="mod">__Ultimate Fertilizer__</a>
 
 This high-yield **and** high-speed fertilizer requires a bag of each of the other single-feature types, plus some other key ingredients. The recipe gives you two bags of rich soil supplement which increases both growth speed and yield by 75%.
