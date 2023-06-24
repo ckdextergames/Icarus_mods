@@ -9,6 +9,7 @@
 ---
 
 *Compatible with Icarus Week 81 update, or the current later game build if updated with Icarus Mod Manager.*
+
 <a name="mod">__SuperDeluxe Combo__</a>
 
 This all-in-one package integrates the following:
@@ -19,7 +20,6 @@ This all-in-one package integrates the following:
    * The Workshop repair kit pack includes 10 repair kits plus an assortment of T4 goodies, and costs quite a bit more to research and buy
    * More food buff slots
    * The MXC furnace smelts like an electric furnace (and costs more)
-   * The Larkwell arrow and crossbow bolt bundles contain 50, not 25 per pack
    * The Crumbed Saltwater Fish Filet is a "powerfood," giving 200 max health and stamina, and 30% stamina regeneration. Slightly increased recipe requirements. 
 * JimK72's Custom_Puck_Lights and Camera_Distance mods (as-is)
 * Critfail's "Blessing of Tartarus" mod (as-is)
