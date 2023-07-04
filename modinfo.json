@@ -675,6 +675,19 @@
       }
     },
 	{
+      "name": "Hit The Ground Running",
+      "author": "CK_Dexterhaven",
+      "version": "2.6",
+      "compatibility": "w82",
+      "description": "Six varieties of starterpacks and prefabs. Dex has you covered. Read the full description!",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/HTGR/StarterPack.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/HTGR/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/HTGR/Dextermod_HTGR_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/HTGR/Dextermod_HTGR.EXMODZ"
+      }
+    },
+	{
       "name": "T3 Elevator",
       "author": "CK_Dexterhaven",
       "version": "2.5",

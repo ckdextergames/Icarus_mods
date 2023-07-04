@@ -17,7 +17,7 @@
 5. All Poison Fish
 6. [MaxiStax](#6)
 7. [One Hit Wonder](#7)
-8. [Prefab base kits](#8)
+8. Prefab base kits
 9. [Bifrost Crossbow](#9)
 10. [Creature Chaos](#10)
 11. [Better Carts](#11)
@@ -38,15 +38,16 @@
 26. [Stronger HVAC](#26)
 27. [Tuff Critters](#27)
 28. [Animal Madness](#28)
-29. [Starter Packs](#29)
+29. Starter Packs
 30. [Buffalo Mounts - Ride & Carry](#30)
 31. [No Weather](#31)
 32. [T3 Elevator](#32)
 33. [Mini Refrigerator](#33)
 34. [Something Fishy](#34)
 35. [Turbo WaterWorks](#35)
+36. [HTGR - Hit the Ground Running](#36)
 
-* [Deprecated mods - no longer in use](#36)
+* [Deprecated mods - no longer in use](#37)
 
 =======
 * [Disclaimers/warnings](#warnings)
@@ -185,21 +186,9 @@ Wishing that the __"Peerless Lumberjack"__ and __"Lucky Strike"__ talents gave y
 
 ---
 
-8. <a name="8">__Prefab_Base_Kit__</a> (Direct link: http://bit.ly/CKDprefabs)
+8. __Prefab_Base_Kits__
 
-Adapting and updating Pr0f23ss0r's original Base Kits mod, here's two new versions (choose one, they aren't compatible with each other). They replace the berry seed pack and cost more. Cuz, my friend, you can just go pick some berries. LOL. To use: just research, buy, and "consume" when on the surface. Then voila, you have all the needed items in your inventory. They come in five varieties:
-
-A. Concrete Prefab base kit: Everything needed for a strudy, bare-bones, storm-defying concrete 2X6.
-
-B. Cozy Cabin Prefab kit: Everything needed for a small but functional 2X3 stone hunting cabin (including a front porch for watching the sunset and growing a few essential crops).
-
-C. The Big Concrete Prefab kit: Everything needed for a larger concrete base. Somewhat pricer, but still just the building materials.
-
-D. The Big Stone Prefab kit: A more expensive package, this contains everything needed for larger stone hunting cabin (including a front porch for watching the sunset and growing a few essential crops).
-
-E. The Team Basecamp Prefab kit: A **much** more expensive package, this contains everything needed for a much larger 2-story concrete base, with an adjacent 2X2 greenhouse. **NOTE**: The glass pieces of this greenhouse will take storm damage. They will need to be repaired, and ideally replaced with pieces you craft yourself using the "Reinforced Glass" buff, by crafting in the Glassworking Bench with an active water connection.
-
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_ItemStatic", "D_ItemTemplate", "D_WorkshopItems", "D_Consumable", and "D_Itemable". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+THIS MOD IS NO LONGER IN USE. I suggest instead using [Hit the Ground Running](#36)
 
 -- [*__Return to mod list__*](#modlist)
 
@@ -449,11 +438,9 @@ HAVE FUN, TRY NOT TO DIE! :)
 -- [*__Return to mod list__*](#modlist)
 
 ---
-29. <a name="29">__Starter Packs__</a> (Direct link: https://bit.ly/CKDstarterpacks)
+29. __Starter Packs__
 
-Starter kits with everything the prospector needs, in 9 varieties of increasing benefits and increasing cost. Replaces all the Workshop seed packs (but provides all those same food items as well). Please read the full description on the mod page and the detailed Pack listing for more info.
-
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemTemplate", "D_ItemStatic", "D_WorkshopItems", "D_Consumable", and "D_Itemable"; or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+THIS MOD IS NO LONGER IN USE. I suggest instead using [Hit the Ground Running](#36)
 
 -- [*__Return to mod list__*](#modlist)
 
@@ -522,12 +509,24 @@ Special thanks to J_Phix for inspiration and hours of sleepless troubleshooting!
 -- [*__Return to mod list__*](#modlist)
 
 ---
-<a name="36">__Deprecated mods:__</a>
+
+36. <a name="36">__Hit the Ground Running__</a> (Direct link: https://bit.ly/CKDhtgr)
+
+HTGR: Brought to you by DexterHaven Outfitters LTD, these Icarus Starter Packs and Prefabs contain everything a prospector needs to get started on the surface. Please be sure to read the full description for important information, and good hunting!
+
+*__CAUTION__*: This mod changes many files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+<a name="37">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
 * As of the Galileo update, until further notice, the All Poison Fish mod will not be in use or downloadable.
-* Toughest Hedgehogs (I recommend instead using the [Sinotai Extreme Spikewall](#14) mod)
-* So_Many_Bearz (I recommend instead using the [Creature Chaos](#10), [Tuff Critters](#27), or [Animal Madness](#28) mods) 
+* Toughest Hedgehogs (I suggest instead using the [Sinotai Extreme Spikewall](#14) mod)
+* So_Many_Bearz (I suggest instead using the [Creature Chaos](#10), [Tuff Critters](#27), or [Animal Madness](#28) mods)
+* Starter Packs and Prefabs (I suggest instead using [Hit the Ground Running]
 
 ---
 
