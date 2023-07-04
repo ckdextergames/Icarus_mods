@@ -170,19 +170,6 @@
       }
     },
     {
-      "name": "Dextermod: Prefab_Base_Kits_Concrete",
-      "author": "CK_Dexterhaven",
-      "version": "2.5",
-      "compatibility": "w81",
-      "description": "Concrete prefab base kit: Everything needed for a strudy, bare-bones, storm-defying concrete 2X6.",
-      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Prefabs/prefabs.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Prefabs/README.md",
-      "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_ConcreteBareBones_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_ConcreteBareBones.EXMODZ"
-      }
-    },
-    {
       "name": "Dextermod: Prefab_Base_Cozy_Cabin",
       "author": "CK_Dexterhaven",
       "version": "2.5",
@@ -596,19 +583,6 @@
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/AnimalMadness/Dextermod_AnimalMadness_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/AnimalMadness/Dextermod_AnimalMadness.EXMODZ"
-      }
-    },
-	{
-      "name": "Dextermod: Starter Packs",
-      "author": "CK_Dexterhaven",
-      "version": "2.5",
-      "compatibility": "w81",
-      "description": "Starter kits with everything the prospector needs, in 9 varieties of increasing benefits and increasing cost. Replaces all the Workshop seed packs (but provides all those same food items as well). Please read the full description on the mod page and the detailed Pack listing for more info.",
-      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/StarterPacks/ITEM_STARTERPAK9.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/StarterPacks/README.md",
-      "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/StarterPacks/Dextermod_StarterKits_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/StarterPacks/Dextermod_StarterKits.EXMODZ"
       }
     },
 	{
