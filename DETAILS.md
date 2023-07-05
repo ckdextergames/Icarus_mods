@@ -85,7 +85,6 @@ Research cost: 2500/900 — Craft cost: 1800/650
 - 1 reinforced door
 - 13 stone roof/ramp/stairs
 - 7 interior railings
-- 4 heavy glass windows
 - rustic sitting bench
 
 **Basic 2X3 Greenhouse Kit**
@@ -200,7 +199,6 @@ Research cost: 6750/3000 — Craft cost: 3500/1750
 - 20 concrete roof/ramp/stairs
 - 10 interior railings
 - 8 concrete angled walls
-- 6 heavy glass windows
 - 2 rustic sitting benches
 
 **Advanced 3X5 Greenhouse Kit**
