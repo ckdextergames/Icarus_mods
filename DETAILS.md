@@ -62,7 +62,6 @@ Research cost: 2500/900 — Craft cost: 1800/650
 - electricity tool
 - water pipe tool
 - interior wood cupboard
-- pumpkin stack
 
 **Basic Kitchen Pack**
 
