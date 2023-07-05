@@ -75,17 +75,17 @@ Research cost: 2500/900 — Craft cost: 1800/650
 
 **Basic Building Pack**
 
-- stone building pieces & windows for a 3X4 base with front porch
-12 stone frames
-3 stone floors
-4 stone beams
-12 interior wood floors
-16 stone walls
-6 stone angled walls
-1 reinforced door
-13 stone roof/ramp/stairs
-7 interior railings
-4 heavy glass windows
+- stone building pieces & windows for a 3X4 base with front porch:
+- 12 stone frames
+- 3 stone floors
+- 4 stone beams
+- 12 interior wood floors
+- 16 stone walls
+- 6 stone angled walls
+- 1 reinforced door
+- 13 stone roof/ramp/stairs
+- 7 interior railings
+- 4 heavy glass windows
 - rustic sitting bench
 
 **Basic 2X3 Greenhouse Kit**
@@ -190,18 +190,18 @@ Research cost: 6750/3000 — Craft cost: 3500/1750
 
 **Advanced Building Pack**
 
-- concrete building pieces & windows for a 4X6 base with front porch
-24 concrete frames
-6 concrete floors
-5 concrete beams
-24 interior wood floors
-24 concrete walls
-2 reinforced doors
-20 concrete roof/ramp/stairs
-10 interior railings
-8 concrete angled walls
-6 heavy glass windows
-2 rustic sitting benches
+- concrete building pieces & windows for a 4X6 base with front porch:
+- 24 concrete frames
+- 6 concrete floors
+- 5 concrete beams
+- 24 interior wood floors
+- 24 concrete walls
+- 2 reinforced doors
+- 20 concrete roof/ramp/stairs
+- 10 interior railings
+- 8 concrete angled walls
+- 6 heavy glass windows
+- 2 rustic sitting benches
 
 **Advanced 3X5 Greenhouse Kit**
 
@@ -281,6 +281,7 @@ Research cost: 6750/3000 — Craft cost: 3500/1750
 Research cost: 12500/10000 — Craft cost: 10000/8750
 
 **Advanced Essentials Pack:**
+
 Plus:
 - extra iron cupboard
 - two extra wooden beds
