@@ -8,7 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 81 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 83 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__StormFront__</a>
 
 Up for a challenge? With this mod, prospectors will experience occasional short breaks of clear skies, but otherwise constant extreme storms in every biome.
