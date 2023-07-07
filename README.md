@@ -8,7 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 81 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 83 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__The Sinotai Extreme Spikewall!__</a>
 
 Replacing the vanilla Spike Fortifications, these new Spikes require much higher-tier materials to craft (refined wood, steel ingots and screws, carbon fiber, exotics, and rope). However, they have __8 times__ the durability of vanilla spikes.
