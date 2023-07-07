@@ -170,58 +170,6 @@
       }
     },
     {
-      "name": "Dextermod: Prefab_Base_Cozy_Cabin",
-      "author": "CK_Dexterhaven",
-      "version": "2.6",
-      "compatibility": "w83",
-      "description": "Everything needed for a small but functional 2X3 stone hunting cabin (including a front porch for watching the sunset and growing a few essential crops).",
-      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Prefabs/prefabs.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Prefabs/README.md",
-      "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_CozyCabin_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_CozyCabin.EXMODZ"
-      }
-    },
-    {
-      "name": "Dextermod: Prefab_Base_BigConcrete",
-      "author": "CK_Dexterhaven",
-      "version": "2.6",
-      "compatibility": "w83",
-      "description": "Everything needed for a larger concrete base. Somewhat pricer, but still just the building materials.",
-      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Prefabs/prefabs.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Prefabs/README.md",
-      "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_BigConcrete_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_BigConcrete.EXMODZ"
-      }
-	},
-    {
-      "name": "Dextermod: Prefab_Base_BigStone",
-      "author": "CK_Dexterhaven",
-      "version": "2.6",
-      "compatibility": "w83",
-      "description": "A more expensive package, this contains everything needed for larger stone hunting cabin -- including a front porch for watching the sunset and growing a few essential crops.",
-      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Prefabs/prefabs.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Prefabs/README.md",
-      "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_BigStone_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_Bigstone.EXMODZ"
-      }
-	},
-    {
-      "name": "Dextermod: Prefab_Team_Basecamp",
-      "author": "CK_Dexterhaven",
-      "version": "2.6",
-      "compatibility": "w83",
-      "description": "A much more expensive package with lots more to use.",
-      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Prefabs/prefabs.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Prefabs/README.md",
-      "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_TeamBasecamp_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/Prefabs/Dextermod_Prefab_TeamBasecamp.EXMODZ"
-      }
-	},
-    {
       "name": "Dextermod: Bifrost_Titanium_Crossbow",
       "author": "CK_Dexterhaven",
       "version": "2.6",
