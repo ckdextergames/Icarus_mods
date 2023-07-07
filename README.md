@@ -8,7 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 81 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 83 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__MaxiStax__</a>
 
 *Per galactic law, beer and wine come in twelve packs. No way I'm messing with that s**t"* -- CK Dexterhaven
