@@ -12,7 +12,7 @@ __One_Hit_Wonder__
 
 ---
 
-*Compatible with Icarus Week 81 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 83 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__One_Hit_Wonder__</a>
 
 Wishing that the __"Peerless Lumberjack"__ and __"Lucky Strike"__ talents gave you a much higher chance of chopping that tree or mining that voxel in just one hit? Wish no more, dear prospector. The One_Hit_Wonder mod is available in 10%, 25%, 50%, and 65% flavors. Your chances of mining or chopping in one just hit increase by that much -- so 10% is just a nice surprise now and then, while 65% feels like pretty much most of the time you're getting them in one smack.
