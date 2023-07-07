@@ -8,7 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 81 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 83 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__Hearty Meat & Veggie Stew__</a>
 
 To fight the cold and be prepared for the hunt, prepare this apex dish! Adapted for Icarus from an old family recipe, this chunky stew boosts health and stamina, regeneration, and more. While it's harder to prepare, doing so is worth its many benefits.
