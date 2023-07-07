@@ -9,7 +9,7 @@
 
 ---
 
-*Compatible with Icarus Week 81 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 83 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__Enhanced Tactical Backpack__</a>
 
 This enhanced version of the Larkwell-Martinez Tactical Backpack has many powerful features. That power? It's gonna cost ya 5X the regular price. Still, given these stats, that's a bargain!
