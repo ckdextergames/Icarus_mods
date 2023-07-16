@@ -534,18 +534,6 @@
       }
     },
 	{
-      "name": "Buffalo Mounts - Ride & Carry",
-      "author": "CK_Dexterhaven",
-      "version": "2.6",
-      "compatibility": "w83",
-      "description": "Made by modder Unaffected, this enables both riding on a saddle and pulling a cart.",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/BuffalosRideCarry/README.md",
-      "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/BuffalosRideCarry/Mount_RideCarry_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/BuffalosRideCarry/Mount_RideCarry.EXMODZ"
-      }
-    },
-	{
       "name": "No Weather",
       "author": "CK_Dexterhaven",
       "version": "2.6",
