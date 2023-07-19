@@ -546,6 +546,30 @@
       }
     },
 	{
+      "name": "Finally_No_FckingForestFires",
+      "author": "CK_Dexterhaven",
+      "version": "1.0",
+      "compatibility": "w84",
+      "description": "Made by Lesley64, this removes all forest fires from the game. No trees will catch fire from any source.",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/NoFires/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/NoFires/Finally_No_FckingForestFires_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/NoFires/Finally_No_FckingForestFires.EXMODZ"
+      }
+    },
+	{
+      "name": "BigBoxStack",
+      "author": "CK_Dexterhaven",
+      "version": "1.0",
+      "compatibility": "w84",
+      "description": "With this mod, you can now stack either your MXC Crates or your Deep Freeze up to 3 high.",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/BigBoxStack/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/BigBoxStack/Dextermod_BigBoxStack_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/BigBoxStack/Dextermod_BigBoxStack.EXMODZ"
+      }
+    },
+	{
       "name": "Mini Refrigerator",
       "author": "CK_Dexterhaven",
       "version": "2.6",

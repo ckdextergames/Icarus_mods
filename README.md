@@ -46,8 +46,10 @@
 34. [Something Fishy](#34)
 35. [Turbo WaterWorks](#35)
 36. [HTGR - Hit the Ground Running](#36)
+37. [BigBoxStack](#37)
+38. [Finally No FckingForestFires](#38)
 
-* [Deprecated mods - no longer in use](#37)
+* [Deprecated mods - no longer in use](#39)
 
 =======
 * [Disclaimers/warnings](#warnings)
@@ -520,7 +522,27 @@ HTGR: Brought to you by DexterHaven Outfitters LTD, these Icarus Starter Packs a
 
 ---
 
-<a name="37">__Deprecated mods:__</a>
+37. <a name="37">__Big Box Stack__</a> (Direct link: https://bit.ly/CKDbigbox)
+
+With this mod, you can now stack either your MXC Crates or your Deep Freeze up to 3 high.
+
+*__CAUTION__*: This mod changes many files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+38. <a name="38">__Finally No FckingForestFires__</a> (Direct link: https://bit.ly/CKDnofires)
+
+Even with the most intense storms, you can now keep all those trees. With this mod written by Lesley64 installed, you'll enjoy no more forest fires. Neither fire arrows, torches, nor lightning storms will cause trees to burn.
+
+*__CAUTION__*: This mod changes many files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+<a name="39">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
 * As of the Galileo update, until further notice, the All Poison Fish mod will not be in use or downloadable.
