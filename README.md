@@ -8,7 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 83 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 85 update, or the current later game build if updated with Icarus Mod Manager.*
 
 <a name="mod">__Animal Madness__</a>
 
