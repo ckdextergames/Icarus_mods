@@ -8,7 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 83 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 85 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__Something Fishy!__</a>
 
 A suite of highy advanced fishing gear designed to dramatically improve your fishing adventures. Craftable in the Fishing Bench you'll find a new rod, lure, and trap which all have greater recipe requirements, but provide vastly improved buffs.
