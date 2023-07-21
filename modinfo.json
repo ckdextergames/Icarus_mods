@@ -276,7 +276,7 @@
 	{
       "name": "Dextermod: Enzyme Power Smoothies",
       "author": "CK_Dexterhaven",
-      "version": "2.6",
+      "version": "2.7",
       "compatibility": "w83",
       "description": "Blended in the Kitchen Bench or Advanced Kitchen Bench in one of 5 varieties, these elixirs pack a punch.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/EnzymePowerSmoothies/smoothies.png",
@@ -315,7 +315,7 @@
 	{
       "name": "Dextermod: Arrow Packs",
       "author": "CK_Dexterhaven",
-      "version": "2.6",
+      "version": "2.7",
       "compatibility": "w83",
       "description": "All workshop arrows now come in packs of 50.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/ArrowPacks/arrows.png",
@@ -367,7 +367,7 @@
 	{
       "name": "Dextermod: Ultimate Fertilizer",
       "author": "CK_Dexterhaven",
-      "version": "2.6",
+      "version": "2.7",
       "compatibility": "w83",
       "description": "Combines the features of both advanced fertilizers. Recipe requires more resources.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/UltimateFertilizer/fertilizer.png",
@@ -419,7 +419,7 @@
 	{
       "name": "Dextermod: Surface Workshop",
       "author": "CK_Dexterhaven",
-      "version": "2.6",
+      "version": "2.7",
       "compatibility": "w83",
       "description": "Allows the prospector to craft 14 essential orbital workshop items on the surface, in the Fabricator.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/SurfaceWorkshop/workshop.png",
@@ -534,18 +534,6 @@
       }
     },
 	{
-      "name": "No Weather",
-      "author": "CK_Dexterhaven",
-      "version": "2.6",
-      "compatibility": "w83",
-      "description": "Made by JimK & laanp, this removes all storms from the game. No weather events at all.",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/NoWeather/README.md",
-      "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/NoWeather/NoWeather_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/NoWeather/NoWeather.EXMODZ"
-      }
-    },
-	{
       "name": "Finally_No_FckingForestFires",
       "author": "CK_Dexterhaven",
       "version": "1.0",
@@ -611,7 +599,7 @@
 	{
       "name": "Hit The Ground Running",
       "author": "CK_Dexterhaven",
-      "version": "2.6",
+      "version": "2.7",
       "compatibility": "w83",
       "description": "Six varieties of starterpacks and prefabs. Dex has you covered. Read the full description!",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/HTGR/StarterPack.png",

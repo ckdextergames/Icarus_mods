@@ -8,7 +8,7 @@
 
 <a name="modlist">All mods:</a>
 
-*Compatible with Icarus Week 83 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 85 update, or the current later game build if updated with Icarus Mod Manager.*
 
 1. [Super Suit Modules](#1)
 2. [SpeedyCrafter and CrazyCrafter](#2)
@@ -39,8 +39,8 @@
 27. [Tuff Critters](#27)
 28. [Animal Madness](#28)
 29. Starter Packs
-30. [Buffalo Mounts - Ride & Carry](#30)
-31. [No Weather](#31)
+30. Buffalo Mounts - Ride & Carry
+31. No Weather
 32. [T3 Elevator](#32)
 33. [Mini Refrigerator](#33)
 34. [Something Fishy](#34)
@@ -448,21 +448,17 @@ THIS MOD IS NO LONGER IN USE. I suggest instead using [Hit the Ground Running](#
 
 ---
 
-30. <a name="30">__Buffalo Mount mod - Ride & Carry__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/BuffalosRideCarry)
+30. __Buffalo Mount mod - Ride & Carry__
 
-This mod, made by Unaffected, allows prospectors to equip tamed buffalos with ***both*** a saddle for riding ***and*** a cart. Note that when viewed by the character, you won't see the saddle (until you're riding) but you'll be able to equip both the saddle and the cart when accessing the mount's menu.
-
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_InventoryID", "D_InventoryInfo", and "D_Equippable"; Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+I no longer host this mod, made by Unaffected. I suggest instead using one of the versions of [Better Carts](#11)
 
 -- [*__Return to mod list__*](#modlist)
 
 ---
 
-30. <a name="31">__No Weather__</a> [GitHub link](https://github.com/ckdextergames/Icarus_mods/tree/NoWeather)
+30. __No Weather__
 
-Thanks to JimK72, laanp, Durzo (and h/t to Crystal), this mod **removes all weather events** from the game. No wind, rain, snow, sand, etc. No storms of any kind.
-
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_WeatherEvents" and "D_ProspectForecast"; or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+This mod is now hosted by its author, laanp. See: https://github.com/laanp/Icarus_Mods_Separated
 
 -- [*__Return to mod list__*](#modlist)
 
@@ -546,9 +542,9 @@ Even with the most intense storms, you can now keep all those trees. With this m
 
 These mods are no longer in use, and I won't be updating them:
 * As of the Galileo update, until further notice, the All Poison Fish mod will not be in use or downloadable.
-* Toughest Hedgehogs (I suggest instead using the [Sinotai Extreme Spikewall](#14) mod)
-* So_Many_Bearz (I suggest instead using the [Creature Chaos](#10), [Tuff Critters](#27), or [Animal Madness](#28) mods)
-* Starter Packs and Prefabs (I suggest instead using [Hit the Ground Running]
+* Toughest Hedgehogs -- I suggest instead using the [Sinotai Extreme Spikewall](#14) mod
+* So_Many_Bearz -- I suggest instead using the [Creature Chaos](#10), [Tuff Critters](#27), or [Animal Madness](#28) mods
+* Starter Packs and Prefabs I suggest instead using [Hit the Ground Running](#36)
 
 ---
 
