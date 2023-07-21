@@ -1,3 +1,5 @@
 Includes the following mods:
+Dextermod_SurfaceWorkshop_RECIPES
+Jimk_Teleporter
+ThorHammer
 Custom_Puck_Lights_V2
-Dextermod_SurfaceWorkshop2
