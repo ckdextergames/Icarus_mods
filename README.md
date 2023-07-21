@@ -9,7 +9,7 @@ Mod by Unaffected:
 
 As of week 83, I won't be keeping this mod updated, sorry.
 
-*Compatible with Icarus Week 83 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 85 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__Buffalo Ride & Cart__</a>
 
 This mod, made by Unaffected, allows prospectors to equip tamed buffalos with ***both*** a saddle for riding ***and*** a cart. Note that when viewed by the character, you won't see the saddle (until you're riding) but you'll be able to equip both the saddle and the cart when accessing the mount's menu.
