@@ -9,7 +9,7 @@
 
 ---
 
-*Compatible with Icarus Week 83 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 85 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__Cook All the Things!__</a>
 
 Yes, prospector. All foods which you can cook in the campfire/fireplace/firepit, you can also cook in all the higher tier stoves (potbelly, biofuel, and electric).
