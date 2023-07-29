@@ -8,7 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 85 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 86 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__Surface Workshop__</a>
 
 With this mod, prospectors can now craft these essential orbital workshop items on Icarus, in the Fabricator:
@@ -28,6 +28,7 @@ With this mod, prospectors can now craft these essential orbital workshop items 
 - Teleporter Kit (by JimK72)
 - Lighting Crate - Custom Puck Lights (by JimK72)
 - F.I.S.H. Handheld fish-finder
+- Mission Prototype Preservation Crate
 
 ---
 
