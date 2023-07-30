@@ -419,14 +419,26 @@
 	{
       "name": "Dextermod: Surface Workshop",
       "author": "CK_Dexterhaven",
-      "version": "2.7",
-      "compatibility": "w83",
+      "version": "2.8",
+      "compatibility": "w86",
       "description": "Allows the prospector to craft 14 essential orbital workshop items on the surface, in the Fabricator.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/SurfaceWorkshop/workshop.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/SurfaceWorkshop/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/SurfaceWorkshop/Dextermod_SurfaceWorkshop_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/SurfaceWorkshop/Dextermod_SurfaceWorkshop.EXMODZ"
+      }
+    },
+	{
+      "name": "Dextermod: Preservation Crate",
+      "author": "CK_Dexterhaven",
+      "version": "1.0",
+      "compatibility": "w86",
+      "description": "Prototype Preservation Crate replaces the MXC Spear in the Orbital Workshop.",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/PreservationCrate/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/PreservationCrate/Dextermod_PreservationCrate_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/PreservationCrate/Dextermod_PreservationCrate.EXMODZ"
       }
     },
 	{

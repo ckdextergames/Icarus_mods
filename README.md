@@ -48,8 +48,9 @@
 36. [HTGR - Hit the Ground Running](#36)
 37. [BigBoxStack](#37)
 38. [Finally No FckingForestFires](#38)
+39. [Prototype Preservation Crate](#39)
 
-* [Deprecated mods - no longer in use](#39)
+* [Deprecated mods - no longer in use](#40)
 
 =======
 * [Disclaimers/warnings](#warnings)
@@ -456,7 +457,7 @@ I no longer host this mod, made by Unaffected. I suggest instead using one of th
 
 ---
 
-30. __No Weather__
+31. __No Weather__
 
 This mod is now hosted by its author, laanp. See: https://github.com/laanp/Icarus_Mods_Separated
 
@@ -538,7 +539,16 @@ Even with the most intense storms, you can now keep all those trees. With this m
 
 ---
 
-<a name="39">__Deprecated mods:__</a>
+39. <a name="39">__Prototype Preservation Crate__</a> (Direct link: https://bit.ly/CKDcrate)
+
+With this mod installed, the internally-powered Prototype Preservation Crate (from the Oasis: Angler mission) is now available for research and purchase in the Orbital Workshop. It replaces the MXC Spear, and costs more.
+
+*__CAUTION__*: This mod changes multiple files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+
+<a name="40">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
 * As of the Galileo update, until further notice, the All Poison Fish mod will not be in use or downloadable.
