@@ -611,8 +611,8 @@
 	{
       "name": "Hit The Ground Running",
       "author": "CK_Dexterhaven",
-      "version": "2.7",
-      "compatibility": "w83",
+      "version": "2.8",
+      "compatibility": "w86",
       "description": "Six varieties of starterpacks and prefabs. Dex has you covered. Read the full description!",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/HTGR/StarterPack.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/HTGR/README.md",
