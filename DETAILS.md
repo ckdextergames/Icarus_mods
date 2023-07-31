@@ -244,6 +244,8 @@ Research cost: 6750/3000 — Craft cost: 3500/1750
 - water pump
 - water wheel
 - wooden beds (2)
+- MXC cot
+- prototype preservation crate
 
 **Advanced Fishing Pack**
 
