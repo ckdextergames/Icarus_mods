@@ -457,8 +457,8 @@
 	{
       "name": "Dextermod: EZHorde",
       "author": "CK_Dexterhaven",
-      "version": "2.6",
-      "compatibility": "w83",
+      "version": "2.7",
+      "compatibility": "w87",
       "description": "Only one horde round before the enzyme round, and higher rewards of exotics and enzymes.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/EZHorde/smoothies.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/EZHorde/README.md",
