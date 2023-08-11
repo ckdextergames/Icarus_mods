@@ -273,7 +273,7 @@ Replacing the vanilla Spike Fortifications, these new Spikes require much higher
 
 15. <a name="15">__Stacking Crop Plots__</a> (Direct link: https://bit.ly/CKDplots)
 
-All three tiers of crop plots are now stackable, up to a stack of 20.
+All four tiers of crop plots (including workshop plots) are now stackable, up to a stack of 20.
 
 *__CAUTION__:* * This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_DeployableSetup.json" & "D_Itemable"; or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
