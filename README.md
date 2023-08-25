@@ -6,7 +6,8 @@
 
 ---
 
-*Compatible with Icarus Week 84 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 90 update, or the current later game build if updated with Icarus Mod Manager.*
+
 <a name="mod">__Finally No Fckn Forest Fires__</a>
 
 Thanks to Lesley64, this mod ***removes*** forset fire from the game. Storms, fire arrows, torches? Nope. Trees don't catch fire anymore.
