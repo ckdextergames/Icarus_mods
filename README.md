@@ -10,7 +10,8 @@ __Big Box Stack__
 
 ---
 
-*Compatible with Icarus Week 84 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 90 update, or the current later game build if updated with Icarus Mod Manager.*
+
 <a name="mod">__Big Box Stack__</a>
 
 With this mod, you can now stack either your MXC Crates or your Deep Freeze up to 3 high.
