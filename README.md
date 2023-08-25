@@ -8,7 +8,8 @@
 
 ---
 
-*Compatible with Icarus Week 85 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 90 update, or the current later game build if updated with Icarus Mod Manager.*
+
 <a name="mod">__EPS: Enzyme Power Smoothies__</a>
 
 Blended in the Kitchen Bench or Advanced Kitchen Bench in one these 5 "delicious" varieties, these elixirs pack a punch:
