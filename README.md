@@ -14,7 +14,7 @@
 
 Dexterhaven Labs introduces a custom tab to the Orbital Workshop, containing many useful items.
 
-(This mod replaces other mods which had the items in separate places, replacing existing Workshop items.) 
+(This mod replaces other mods which had the items in separate places, replacing existing Workshop items. These items now no longer replace any other items but are available in their own section.) 
 
 Included:
 
