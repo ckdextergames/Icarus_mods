@@ -8,10 +8,9 @@
 
 ---
 
-*Compatible with Icarus Week 85 update, or the current later game build if updated with Icarus Mod Manager.*
-<a name="mod">__MaxiStax__</a>
+*Compatible with Icarus Week 90 update, or the current later game build if updated with Icarus Mod Manager.*
 
-*Per galactic law, beer and wine come in twelve packs. No way I'm messing with that s**t"* -- CK Dexterhaven
+<a name="mod">__MaxiStax__</a>
 
 This mod was designed to help move a large base a short distance without having to fuss with lots of individual stacks. Mods like WZG and others increase stack sizes for __many__ different items, and in some cases by a lot. With this mod, I wanted to take that a step further. By merging this mod with one like WZG I can take advantage of those larger stack sizes already there, and then bump up some key ones by a lot more, thus making a move a bunch easier. Complete details of stack size changes are below.
 
