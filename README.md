@@ -8,7 +8,8 @@
 
 ---
 
-*Compatible with Icarus Week 86 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 90 update, or the current later game build if updated with Icarus Mod Manager.*
+
 <a name="mod">__Surface Workshop__</a>
 
 With this mod, prospectors can now craft these essential orbital workshop items on Icarus, in the Fabricator:
