@@ -8,7 +8,8 @@
 
 ---
 
-*Compatible with Icarus Week 85 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 90 update, or the current later game build if updated with Icarus Mod Manager.*
+
 <a name="mod">__T5 "Artemis" Armor__</a>
 
 Highest-tier armor which combines or improves on features of most other armor sets. Upgrades your already-crafted HDP Composite armor with exotics and platinum weave for the strongest, most versitle protection available. Note that the Artemis helmet requires microcontrollers for diagnostics and dynamic stabilization of the exotic field.
