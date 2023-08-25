@@ -8,7 +8,8 @@
 
 ---
 
-*Compatible with Icarus Week 85 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 90 update, or the current later game build if updated with Icarus Mod Manager.*
+
 <a name="mod">__EZ Horde__</a>
 
 - Only one horde round before the enzyme round, not three
