@@ -8,7 +8,8 @@
 
 ---
 
-*Compatible with Icarus Week 85 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 90 update, or the current later game build if updated with Icarus Mod Manager.*
+
 <a name="mod">__Super Suit Modules__</a>
 
 Each version below alters the listed suit module accordingly.
