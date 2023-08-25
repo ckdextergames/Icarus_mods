@@ -49,8 +49,9 @@
 37. [BigBoxStack](#37)
 38. [Finally No FckingForestFires](#38)
 39. [Prototype Preservation Crate](#39)
+40. [Dexterhaven Labs](#40)
 
-* [Deprecated mods - no longer in use](#40)
+* [Deprecated mods - no longer in use](#41)
 
 =======
 * [Disclaimers/warnings](#warnings)
@@ -293,6 +294,8 @@ With this mod, all arrow packs purchased in the orbital workshop come in packs o
 
 17. <a name="17">__Enhanced Suit Module: "The Panther"__</a> (Direct link: https://bit.ly/CKDpanthermod)
 
+*__Note:__ This mod is available for download, but will no longer be updated. Suggest instead using <a name="40">Dexterhaven Labs</a>, since its content is included in that mod.*
+
 Costing quite a bit more to research and purchase, this powerful suit module replaces the "Patcher I" and combines characteristics of multiple modules:
 
 * Increases speed by 60%
@@ -363,6 +366,8 @@ Highest-tier armor which combines or improves on features of most other armor se
 ---
 
 22. <a name="22">__Workshop Furnaces__</a> (Direct link: https://bit.ly/CKDfurnace)
+
+*__Note:__ This mod is available for download, but will no longer be updated. Suggest instead using <a name="40">Dexterhaven Labs</a>, since its content is included in that mod.*
 
 Two new varieties of MXC Furnace. These replace low-level MXC tools in the Workshop, and one smelts like a Concrete Stove, the other like Electric. They cost more as well.
 
@@ -511,6 +516,8 @@ Special thanks to J_Phix for inspiration and hours of sleepless troubleshooting!
 
 36. <a name="36">__Hit the Ground Running__</a> (Direct link: https://bit.ly/CKDhtgr)
 
+*__Note:__ This mod is available for download, but will no longer be updated. Suggest instead using <a name="40">Dexterhaven Labs</a>, since its content is included in that mod.*
+
 HTGR: Brought to you by DexterHaven Outfitters LTD, these Icarus Starter Packs and Prefabs contain everything a prospector needs to get started on the surface. Please be sure to read the full description for important information, and good hunting!
 
 *__CAUTION__*: This mod changes many files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
@@ -541,14 +548,27 @@ Even with the most intense storms, you can now keep all those trees. With this m
 
 39. <a name="39">__Prototype Preservation Crate__</a> (Direct link: https://bit.ly/CKDcrate)
 
+*__Note:__ This mod is available for download, but will no longer be updated. Suggest instead using <a name="40">Dexterhaven Labs</a>, since its content is included in that mod.*
+
 With this mod installed, the internally-powered Prototype Preservation Crate (from the Oasis: Angler mission) is now available for research and purchase in the Orbital Workshop. It replaces the MXC Spear, and costs more.
 
 *__CAUTION__*: This mod changes multiple files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
 -- [*__Return to mod list__*](#modlist)
 
+---
 
-<a name="40">__Deprecated mods:__</a>
+40. <a name="40">__Dexterhaven Labs__</a> (Direct link: https://bit.ly/CKDlabs)
+
+Dexterhaven Labs introduces a custom tab to the Orbital Workshop, containing many useful items (including the HTGR Starter Packs, the Preservation Crate, the "Panther" Suit Module, Workshop Furnaces and more).
+
+*__CAUTION__*: This mod changes multiple files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+<a name="41">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
 * As of the Galileo update, until further notice, the All Poison Fish mod will not be in use or downloadable.
