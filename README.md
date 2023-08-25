@@ -8,7 +8,8 @@
 
 ---
 
-*Compatible with Icarus Week 88 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 90 update, or the current later game build if updated with Icarus Mod Manager.*
+
 <a name="mod">__Stacking Crop Plots__</a>
 
 All four tiers of Crop Plots (including Workshop plots) are now stackable, and you can stack up to 20 at a time.
