@@ -4,8 +4,7 @@ Camera_Distance
 CritFail_Blessing_Of_Tartarus
 Dextermod_EnzymePowerSmoothies
 Dextermod_StackingCropPlots
-Dextermod_Panther_SuitMod
 Dextermod_UltimateFertilizer
 Dextermod_CookItAll
 CritFail_WasteNot_UPGRADED
-WZG_Mod_W85TWK
+WZG_Mod_W90TWK
