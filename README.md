@@ -50,7 +50,7 @@
 38. [Finally No FckingForestFires](#38)
 39. [Prototype Preservation Crate](#39)
 40. [Dexterhaven Labs](#40)
-41. [4x Reds](41)
+41. [4x Reds](#41)
 
 * [Deprecated mods - no longer in use](#42)
 
