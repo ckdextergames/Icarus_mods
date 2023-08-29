@@ -50,8 +50,9 @@
 38. [Finally No FckingForestFires](#38)
 39. [Prototype Preservation Crate](#39)
 40. [Dexterhaven Labs](#40)
+41. [4x Reds](41)
 
-* [Deprecated mods - no longer in use](#41)
+* [Deprecated mods - no longer in use](#42)
 
 =======
 * [Disclaimers/warnings](#warnings)
@@ -379,6 +380,8 @@ Two new varieties of MXC Furnace. These replace low-level MXC tools in the Works
 
 23. <a name="23">__Surface Workshop__</a> (Direct link: https://bit.ly/CKDworkshop)
 
+*__Note:__ This mod is available for download, but will no longer be updated since players may now access the workshop from Icarus as of week 90's update.*
+
 Allows the prospector to craft 14 essential orbital workshop items on the surface, in the Fabricator.
 
 *__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes"; or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
@@ -567,6 +570,15 @@ Dexterhaven Labs introduces a custom tab to the Orbital Workshop, containing man
 -- [*__Return to mod list__*](#modlist)
 
 ---
+
+41. <a name="41">__4x Reds__</a> (Direct link: https://bit.ly/CKD4xreds)
+
+Higher chance of more red exotic spawn points and a higher yield from each red exotic site. See the description for more detail.
+
+*__CAUTION__*: This mod changes multiple files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
 
 <a name="41">__Deprecated mods:__</a>
 

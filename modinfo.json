@@ -42,7 +42,7 @@
     {
       "name": "Dextermod: Speedy_Crafter",
       "author": "CK_Dexterhaven",
-      "version": "2.7",
+      "version": "2.9",
       "compatibility": "w90",
       "description": "Speeds up crafting times.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/SpeedyCrafter/crazyspeedy.png",
@@ -55,7 +55,7 @@
     {
       "name": "Dextermod: Crazy_Crafter",
       "author": "CK_Dexterhaven",
-      "version": "2.7",
+      "version": "2.8",
       "compatibility": "w90",
       "description": "Speeds up crafting times. A lot.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/SpeedyCrafter/crazyspeedy.png",
@@ -107,7 +107,7 @@
     {
       "name": "Dextermod: MaxiStax",
       "author": "CK_Dexterhaven",
-      "version": "2.7",
+      "version": "2.8",
       "compatibility": "w90",
       "description": "Increases stack sizes of many items dramatically.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/MaxiStax/maxistax.png",
@@ -631,6 +631,18 @@
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/DexterhavenLabs/DexterhavenLabs_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/DexterhavenLabs/DexterhavenLabs.EXMODZ"
+      }
+    },
+	{
+      "name": "4x Reds",
+      "author": "CK_Dexterhaven",
+      "version": "1.0",
+      "compatibility": "w90",
+      "description": "Higher chance of more red exotic spawn points and a higher yield from each red exotic site. See the description for more detail.",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/4xReds/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/4xReds/Dextermod_4xReds_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/4xReds/Dextermod_4xReds.EXMODZ"
       }
     },
 	{
