@@ -560,9 +560,9 @@
 	{
       "name": "BigBoxStack",
       "author": "CK_Dexterhaven",
-      "version": "1.1",
+      "version": "1.2",
       "compatibility": "w90",
-      "description": "With this mod, you can now stack either your MXC Crates or your Deep Freeze up to 3 high.",
+      "description": "With this mod, you can now stack your MXC Crate, Preservation Crate, or your Deep Freeze up to 3 high.",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/BigBoxStack/README.md",
       "files": {
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/BigBoxStack/Dextermod_BigBoxStack_P.pak",

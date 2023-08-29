@@ -528,7 +528,7 @@ HTGR: Brought to you by DexterHaven Outfitters LTD, these Icarus Starter Packs a
 
 37. <a name="37">__Big Box Stack__</a> (Direct link: https://bit.ly/CKDbigbox)
 
-With this mod, you can now stack either your MXC Crates or your Deep Freeze up to 3 high.
+With this mod, you can now stack your MXC Crate, Preservation crate, or Deep Freeze up to 3 high.
 
 *__CAUTION__*: This mod changes many files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
