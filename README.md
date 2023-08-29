@@ -14,7 +14,7 @@ __Big Box Stack__
 
 <a name="mod">__Big Box Stack__</a>
 
-With this mod, you can now stack either your MXC Crates or your Deep Freeze up to 3 high.
+With this mod, you can now stack your MXC Crate, Preservation Crate, or Deep Freeze up to 3 high.
 
 ---
 
