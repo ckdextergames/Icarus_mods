@@ -21,6 +21,7 @@ __Stack size changes:__
 * Aluminum 20 >> 600
 * Aluminum ore (Bauxite) 100 >> 400
 * Animal fat 10 >> 500
+* Beer 12 >> 50
 * Berries 100 >> 400
 * Bone 100 >> 400
 * Composites 20 >> 100
@@ -54,6 +55,8 @@ __Stack size changes:__
 * Platinum ingot 20 >> 200
 * Pumpkin 20 >> 100
 * Raw fish 20 >> 200
+* Red exotics - raw 10 >> 100
+* Red exotics - stabilized 20 >> 200
 * Roast vegetables 10 >> 50
 * Rope 100 >> 500
 * Savory Roll 10 >> 50
@@ -70,6 +73,7 @@ __Stack size changes:__
 * Vegetable Roll 10 >> 50
 * Watermelon 20 >> 100
 * Wheat 100 >> 800
+* Wine 12 >> 50
 * Wood 100 >> 800
 * Yeast 100 >> 400
 
