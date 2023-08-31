@@ -572,8 +572,8 @@
 	{
       "name": "Mini Refrigerator",
       "author": "CK_Dexterhaven",
-      "version": "2.6",
-      "compatibility": "w83",
+      "version": "2.7",
+      "compatibility": "w90",
       "description": "Made by JimK72 & CK_Dexterhaven, an additional option for refrigeration - the stackable mini-fridge.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/MiniFridge/minifridge.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/MiniFridge/README.md",
