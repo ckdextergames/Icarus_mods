@@ -53,7 +53,7 @@ Pre-printed cot for use as a bed. Cheap and reliable, with better buffs than sle
 
 __The Theseus "Omniburst" Series__
 
-Available for Prometheus only: The knife, spear, arrows, and bolts in this series combine and improve on the attributes of all similar Prometheus-grade workshop items. Much more expensive to research and craft, but well worth the cost.
+Available for New Frontiers only: The knife, spear, arrows, and bolts in this series combine and improve on the attributes of all similar Prometheus-grade workshop items. Much more expensive to research and craft, but well worth the cost.
 
 ---
 
