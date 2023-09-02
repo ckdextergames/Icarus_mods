@@ -8,7 +8,7 @@
 
 <a name="modlist">All mods:</a>
 
-*Compatible with Icarus Week 85 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 90 update, or the current later game build if updated with Icarus Mod Manager.*
 
 1. [Super Suit Modules](#1)
 2. [SpeedyCrafter and CrazyCrafter](#2)
@@ -410,11 +410,11 @@ Only one horde round before the enzyme round and much greater exotics and enzyme
 
 ---
 
-26. <a name="26">__Stonger HVAC__</a> (Direct link: https://bit.ly/CKDhvac)
+26. <a name="26">__Stronger HVAC__</a> (Direct link: https://bit.ly/CKDhvac)
 
-This mod greatly increases the range of both the Heavy Heater and the Heavy Air Conditioner.
+This mod greatly increases the range of the Heavy Heater, the Heavy Air Conditioner, and the Dehumidifiers.
 
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_Thermal"; or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
 -- [*__Return to mod list__*](#modlist)
 

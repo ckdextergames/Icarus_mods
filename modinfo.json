@@ -470,9 +470,9 @@
 	{
       "name": "Dextermod: Stronger HVAC",
       "author": "CK_Dexterhaven",
-      "version": "2.6",
-      "compatibility": "w90",
-      "description": "This mod greatly increases the range of both the Heavy Heater and the Heavy Air Conditioner.",
+      "version": "2.7",
+      "compatibility": "w91",
+      "description": "This mod greatly increases the range of the Heavy Heater, the Heavy Air Conditioner, and the Dehumidifiers.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Stronger_HVAC/hvac.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Stronger_HVAC/README.md",
       "files": {
