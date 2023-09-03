@@ -646,6 +646,18 @@
       }
     },
 	{
+      "name": "JimK Innovations",
+      "author": "CK_Dexterhaven",
+      "version": "1.0",
+      "compatibility": "w91",
+      "description": "Essential (and amazing!) JimK items in their own dedicated Orbital Workshop section.",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/jimk_innovations/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/jimk_innovations/JimK_Innovations_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/jimk_innovations/JimK_Innovations.EXMODZ"
+      }
+    },
+	{
       "name": "T3 Elevator",
       "author": "CK_Dexterhaven",
       "version": "2.6",

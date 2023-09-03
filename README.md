@@ -51,8 +51,9 @@
 39. [Prototype Preservation Crate](#39)
 40. [Dexterhaven Labs](#40)
 41. [4x Reds](#41)
+42. [JimK Innovations](#42)
 
-* [Deprecated mods - no longer in use](#42)
+* [Deprecated mods - no longer in use](#deprecated)
 
 =======
 * [Disclaimers/warnings](#warnings)
@@ -579,8 +580,19 @@ Higher chance of more red exotic spawn points and a higher yield from each red e
 
 -- [*__Return to mod list__*](#modlist)
 
+---
 
-<a name="41">__Deprecated mods:__</a>
+42. <a name="42">__JimK Innovations__</a> (Direct link: https://bit.ly/CKDjimkworkshop)
+
+Essential (and amazing!) JimK items in their own dedicated Orbital Workshop section.
+
+*__CAUTION__*: This mod changes multiple files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+<a name="deprecated">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
 * As of the Galileo update, until further notice, the All Poison Fish mod will not be in use or downloadable.
