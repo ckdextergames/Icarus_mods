@@ -8,24 +8,17 @@
 
 ---
 
-*Compatible with Icarus Week 90 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 91 update, or the current later game build if updated with Icarus Mod Manager.*
 
 <a name="mod">__Tuff Critters__</a>
 
-This mod does __not__ change spawn rates, only the strength and badassery of animals. Only impacts missions and Open World prospects at the Hard level.
+This mod does __not__ change spawn rates. Increases the strength and badassery (aka "Level") of all animals in all biomes.
 
-Complete details for each level can be found in the "details" file in my GitHub repository for this mod.
-
-Summary:
-
-- Level 1: Noticeably, but not signifigantly more challenging
-- Level 2: Moderately more challenging
-- Level 3: Significantly more challenging
-- Level 4: Extremely challenging
+Comes in two flavors: "LOW" doubles each animal's level, "HI" increases levels by a factor of four.
 
 ---
 
-<a name="shouts">*Huge shout-outs</a> to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Donovan, Waldo, Semac, R3ap3r, Nic, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
+<a name="shouts">*Huge shout-outs</a> to the rock-steady modders: JimK72, TheOrangeFloof, Critical_Fail, Donovan, Waldo, Semac, R3ap3r, Nic, Sara, laanp, & venomtron -- thank you all for the tips, inspiration, and ongoing work to improve Icarus!*
 
 These mods are free to use of course, but if you'd like to make a small donation you can do so at [BuyMeaCoffee](https://www.buymeacoffee.com/ckdexterhaven) or [Ko-Fi](https://ko-fi.com/ckdexterhaven) or [PayPal](https://paypal.me/ckdexterhavengames).
 
