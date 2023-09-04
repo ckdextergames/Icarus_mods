@@ -1,3 +1,0 @@
-Includes the following mods:
-Dextermod_CreatureChaosLVL4
-Dextermod_TuffCritters_LVL4
