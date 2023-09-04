@@ -22,6 +22,8 @@ B. This mod does seem to have some impact on Horde Mode waves, but was not desig
 
 C. Increased spawns may not appear right away. You may need to move around and wait a bit until you come across them.
 
+D. Choose one variety: "LOW" or "HI". Each is compatible with both varieties of "Tuff Critters"
+
 Good hunting!
 
 ---
