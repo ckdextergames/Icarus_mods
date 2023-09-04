@@ -14,7 +14,7 @@
 
 This mod does __not__ change spawn rates. Increases the strength and badassery (aka "Level") of all animals in all biomes.
 
-Comes in two flavors: "LOW" doubles each animal's level, "HI" increases levels by a factor of four.
+Comes in two flavors: "LOW" doubles each animal's level, "HI" increases levels by a factor of four. Choose one variety: "LOW" or "HI". Each is compatible with both varieties of "Creature Chaos".
 
 ---
 
