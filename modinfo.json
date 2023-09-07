@@ -183,55 +183,29 @@
       }
     },
     {
-      "name": "Dextermod: Creature_Chaos_Level_1",
+      "name": "Dextermod: Creature_Chaos_LOW",
       "author": "CK_Dexterhaven",
-      "version": "2.7",
-      "compatibility": "w90",
+      "version": "1.0",
+      "compatibility": "w91",
       "description": "Increases the count of aggressive animals. Please see the full details before use.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/CreatureChaos/creaturechaos.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CreatureChaos/README.md",
       "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL1_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL1.EXMODZ"
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaos_LOW_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaos_LOW.EXMODZ"
       }
     },
     {
-      "name": "Dextermod: Creature_Chaos_Level_2",
+      "name": "Dextermod: Creature_Chaos_HI",
       "author": "CK_Dexterhaven",
-      "version": "2.7",
-      "compatibility": "w90",
+      "version": "1.0",
+      "compatibility": "w91",
       "description": "Increases the count of aggressive animals. Please see the full details before use.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/CreatureChaos/creaturechaos.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CreatureChaos/README.md",
       "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL2_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL2.EXMODZ"
-      }
-	},
-    {
-      "name": "Dextermod: Creature_Chaos_Level_3",
-      "author": "CK_Dexterhaven",
-      "version": "2.7",
-      "compatibility": "w90",
-      "description": "Increases the count of aggressive animals. Please see the full details before use.",
-      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/CreatureChaos/creaturechaos.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CreatureChaos/README.md",
-      "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL3_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL3.EXMODZ"
-      }
-	},
-    {
-      "name": "Dextermod: Creature_Chaos_Level_4",
-      "author": "CK_Dexterhaven",
-      "version": "2.7",
-      "compatibility": "w90",
-      "description": "Increases the count of aggressive animals. Please see the full details before use.",
-      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/CreatureChaos/creaturechaos.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/CreatureChaos/README.md",
-      "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL4_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaosLVL4.EXMODZ"
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaos_HI_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/CreatureChaos/Dextermod_CreatureChaos_HI.EXMODZ"
       }
 	},
 	{
@@ -481,68 +455,55 @@
       }
     },
 	{
-      "name": "Dextermod: TuffCritters Level 1",
+      "name": "Dextermod: TuffCritters LOW",
       "author": "CK_Dexterhaven",
-      "version": "2.7",
-      "compatibility": "w90",
+      "version": "1.0",
+      "compatibility": "w91",
       "description": "This mod does NOT change spawn rates, only the strength and badassery of animals.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/TuffCritters/creaturechaos.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/TuffCritters/README.md",
       "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL1_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL1.EXMODZ"
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LOW_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LOW.EXMODZ"
       }
     },
 	{
-      "name": "Dextermod: TuffCritters Level 2",
+      "name": "Dextermod: TuffCritters HI",
       "author": "CK_Dexterhaven",
-      "version": "2.7",
-      "compatibility": "w90",
+      "version": "1.0",
+      "compatibility": "w91",
       "description": "This mod does NOT change spawn rates, only the strength and badassery of animals.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/TuffCritters/creaturechaos.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/TuffCritters/README.md",
       "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL2_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL2.EXMODZ"
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_HI_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_HI.EXMODZ"
       }
     },
 	{
-      "name": "Dextermod: TuffCritters Level 3",
+      "name": "Dextermod: Animal Madness LOW",
       "author": "CK_Dexterhaven",
-      "version": "2.7",
-      "compatibility": "w90",
-      "description": "This mod does NOT change spawn rates, only the strength and badassery of animals.",
-      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/TuffCritters/creaturechaos.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/TuffCritters/README.md",
-      "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL3_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL3.EXMODZ"
-      }
-    },
-	{
-      "name": "Dextermod: TuffCritters Level 4",
-      "author": "CK_Dexterhaven",
-      "version": "2.7",
-      "compatibility": "w90",
-      "description": "This mod does NOT change spawn rates, only the strength and badassery of animals.",
-      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/TuffCritters/creaturechaos.png",
-	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/TuffCritters/README.md",
-      "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL4_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/TuffCritters/Dextermod_TuffCritters_LVL4.EXMODZ"
-      }
-    },
-	{
-      "name": "Dextermod: Animal Madness",
-      "author": "CK_Dexterhaven",
-      "version": "2.7",
-      "compatibility": "w90",
-      "description": "This mod combines the increased spawning rates and higher stats found in the *Creature Chaos Level 4* mod with the extreme health and other increases found in the *Tuff Critters Level 4* mod.",
+      "version": "1.0",
+      "compatibility": "w91",
+      "description": "__Animal Madness LOW__ is a combination of *Creature Chaos LOW* and *Tuff Critters LOW*",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/AnimalMadness/creaturechaos.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/AnimalMadness/README.md",
       "files": {
-          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/AnimalMadness/Dextermod_AnimalMadness_P.pak",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/AnimalMadness/Dextermod_AnimalMadness.EXMODZ"
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/AnimalMadness/Dextermod_AnimalMadness_LOW_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/AnimalMadness/Dextermod_AnimalMadness_LOW.EXMODZ"
+      }
+    },
+	{
+      "name": "Dextermod: Animal Madness HI",
+      "author": "CK_Dexterhaven",
+      "version": "1.0",
+      "compatibility": "w91",
+      "description": "__Animal Madness HI__ is a combination of *Creature Chaos HI* and *Tuff Critters HI*",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/AnimalMadness/creaturechaos.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/AnimalMadness/README.md",
+      "files": {
+          "pak": "https://github.com/ckdextergames/Icarus_mods/raw/AnimalMadness/Dextermod_AnimalMadness_HI_P.pak",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/AnimalMadness/Dextermod_AnimalMadness_HI.EXMODZ"
       }
     },
 	{
@@ -624,8 +585,8 @@
 	{
       "name": "Dexterhaven Labs",
       "author": "CK_Dexterhaven",
-      "version": "1.3",
-      "compatibility": "w90",
+      "version": "1.4",
+      "compatibility": "w91",
       "description": "The HTGR Starter Packs, Preservation Crate, Workshop Furnaces, and more are all in this special Dexterhaven tab of the Orbital Workshop",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/DexterhavenLabs/README.md",
       "files": {

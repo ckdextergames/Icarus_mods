@@ -214,11 +214,11 @@ The Bifrost is a weapon of unparalled power and speed. While it requires more re
 
 10. <a name="10">__Creature Chaos!__</a> (Direct link: https://bit.ly/CKDcritters)
 
-Expanding on CriticalFail's original "Moar_Bearz" mod, I'm moving beyond my "So_Many_Bearz" mod to encompass all the different carnivorous varmints throughout both Olympus and Styx. This mod comes in four flavors, of increasing intensity.
+Expanding on CriticalFail's original "Moar_Bearz" mod, these mods increase the spawn rates for aggressive creatures (plus a few not super-aggressive ones such as boar and mammoth). This mod comes in two flavors: "LOW" and "HI".
 
-This mod increases the count and intensity of aggressive animals. Please see the full details before use!
+Please see the full details before use!
 
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_AISpawnRules", "D_AISpawnZones", and "D_AIAutonomousSpawns". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_AISpawnRules" and "D_AISpawnZones". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
 -- [*__Return to mod list__*](#modlist)
 
@@ -423,17 +423,9 @@ This mod greatly increases the range of the Heavy Heater, the Heavy Air Conditio
 
 27. <a name="27">__Tuff Critters__</a> (Direct link: https://bit.ly/CKDtuffcritters)
 
-This mod does __not__ change spawn rates, only the strength and badassery of animals. Only impacts Hard level missions and Open World.
+These two mods do __not__ change spawn rates, only the strength and badassery of all animals. See full description for details.
 
-Complete details for each level can be found in the "details" file in my GitHub repository for this mod.
-
-Summary:
-- Level 1: Noticeably, but not signifigantly more challenging
-- Level 2: Moderately more challenging
-- Level 3: Significantly more challenging
-- Level 4: Extremely challenging
-
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_AISpawnZones", and "D_ProspectStats", and "D_EpicCreatures". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
 -- [*__Return to mod list__*](#modlist)
 
@@ -441,11 +433,10 @@ Summary:
 
 28. <a name="28">__Animal Madness__</a> (Direct link: https://bit.ly/CKDmadness)
 
-This mod combines the increased spawning rates and higher stats found in the *Creature Chaos Level 4* mod with the extreme health and other increases found in the *Tuff Critters Level 4* mod.
+- __Animal Madness LOW__ is a combination of *Creature Chaos LOW* and *Tuff Critters LOW*
+- __Animal Madness HI__ is a combination of *Creature Chaos HI* and *Tuff Critters HI*
 
-HAVE FUN, TRY NOT TO DIE! :)
-
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change these json files: "D_AISpawnRules", "D_AISpawnZones", "D_AIAutonomousSpawns", "D_ProspectStats", and "D_EpicCreatures". Or, use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
 -- [*__Return to mod list__*](#modlist)
 
