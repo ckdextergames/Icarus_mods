@@ -10,7 +10,7 @@
 
 ---
 
-*Compatible with Icarus Week 90 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 92 update, or the current later game build if updated with Icarus Mod Manager.*
 
 <a name="mod">__Dextermod_BetterCarts__</a>
 
