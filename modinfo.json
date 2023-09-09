@@ -68,8 +68,8 @@
     {
       "name": "Dextermod: SuperDeluxe_Combo",
       "author": "CK_Dexterhaven",
-      "version": "2.8",
-      "compatibility": "w90",
+      "version": "2.9",
+      "compatibility": "w92",
       "description": "Combo pack of multiple QOL and game-enhancing mods.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Superdeluxe-Combo/superdeluxe.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/Superdeluxe-Combo/README.md",
