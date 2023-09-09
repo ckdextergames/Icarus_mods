@@ -8,7 +8,7 @@
 
 <a name="modlist">All mods:</a>
 
-*Compatible with Icarus Week 90 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 92 update, or the current later game build if updated with Icarus Mod Manager.*
 
 1. [Super Suit Modules](#1)
 2. [SpeedyCrafter and CrazyCrafter](#2)
@@ -127,10 +127,8 @@ This all-in-one package integrates the following:
    * Workshop repair kits can be crafted in the Fabricator
    * The Larkwell Beta bakcpack has higher stats (more slots, reduced carry weights, increased ammo capacity and reload speed for rifles, etc) 
 		-- ***NOTE:*** This enhanced bakcpack has been removed from SuperDeluxe and is now its own mod (see the [Tactical Backpack](#18) mod below)
-   * Much higher chances to mine a voxel in one swing and harvest a tree with one chop
    * More food buff slots
    * The MXC furnace smelts like an electric furnace
-   * The Larkwell arrow and crossbow bolt bundles contain 50, not 25 per pack
    * The Crumbed Saltwater Fish Filet is a "powerfood," giving 200 max health and stamina, and 30% stamina regeneration. Slightly increased recipe requirements. 
 * JimK72's Custom_Puck_Lights and Camera_Distance mods (as-is)
 * Critfail's "Blessing of Tartarus" mod (as-is)
@@ -286,7 +284,7 @@ All four tiers of crop plots (including workshop plots) are now stackable, up to
 
 16. <a name="16">__Arrow Packs__</a> (Direct link: https://bit.ly/CKDarrows)
 
-With this mod, all arrow packs purchased in the orbital workshop come in packs of 50.
+With this mod, all (pre-New Frontiers) arrow packs purchased in the orbital workshop come in packs of 50.
 
 *__CAUTION__:* * This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemTemplate" and "D_Itemable"; or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
