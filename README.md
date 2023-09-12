@@ -12,6 +12,8 @@
 
 <a name="mod">__T5 "Artemis" Armor__</a>
 
+*__Note:__ This mod is available for download, but will no longer be updated. Suggest instead using [Dexterhaven Labs](https://bit.ly/CKDlabs), since its content is included in that mod.*
+
 Highest-tier armor which combines or improves on features of most other armor sets. Upgrades your already-crafted HDP Composite armor with exotics and platinum weave for the strongest, most versitle protection available. Note that the Artemis helmet requires microcontrollers for diagnostics and dynamic stabilization of the exotic field.
 
 ---
