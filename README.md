@@ -8,7 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 91 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 92 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__MiniFridge__</a>
 
 Brought to you by JimK72 & CK_Dexterhaven, the Mini Refrigerator! Crafted as an additional option in the Fabricator, this fridge requires a bit less than half the materials as the regular fridge, and holds somewhat less. Otherwise, functions just the same. Enjoy!
