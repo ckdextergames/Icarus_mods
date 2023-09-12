@@ -11,6 +11,8 @@
 *Compatible with Icarus Week 85 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__Workshop Furnaces__</a>
 
+*__Note:__ This mod is available for download, but will no longer be updated. Suggest instead using [Dexterhaven Labs](https://bit.ly/CKDlabs), since its content is included in that mod.*
+
 Two new varieties of MXC Furnace. These replace low-level MXC tools in the Workshop, and one smelts like a Concrete Stove, the other like Electric. They cost more as well.
 
 ---
