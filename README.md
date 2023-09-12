@@ -12,6 +12,8 @@
 
 <a name="mod">__Hit the Ground Running__</a>
 
+*__Note:__ This mod is available for download, but will no longer be updated. Suggest instead using [Dexterhaven Labs](https://bit.ly/CKDlabs), since its content is included in that mod.*
+
 Brought to you by DexterHaven Outfitters LTD, these Icarus Starter Packs and Prefabs contain everything a prospector needs to get started on the surface. From the bare-bones, *"I just need a bit of help"* excursion to those preparing a sprawling, highest-tier, long-term basecamp, we've got you covered.
 
 Inspired by "care package" mods from begginfokillz and CrypticXenon, this opens a whole new world of granular, customized packages with all the essentials. Please be sure to read [the full description](https://github.com/ckdextergames/Icarus_mods/blob/HTGR/DETAILS.md) for important information, and good hunting!
