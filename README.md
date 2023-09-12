@@ -12,6 +12,8 @@
 
 <a name="mod">__Preservation Crate__</a>
 
+*__Note:__ This mod is available for download, but will no longer be updated. Suggest instead using [Dexterhaven Labs](https://bit.ly/CKDlabs), since its content is included in that mod.*
+
 With this mod installed, the internally-powered Prototype Preservation Crate (from the Oasis: Angler mission) is now available for research and purchase in the Orbital Workshop. It replaces the MXC Spear, and costs more.
 
 ---
