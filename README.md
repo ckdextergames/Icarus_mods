@@ -587,7 +587,7 @@ These mods are no longer in use, and I won't be updating them:
 * As of the Galileo update, until further notice, the All Poison Fish mod will not be in use or downloadable.
 * Toughest Hedgehogs -- I suggest instead using the [Sinotai Extreme Spikewall](#14) mod
 * So_Many_Bearz -- I suggest instead using the [Creature Chaos](#10), [Tuff Critters](#27), or [Animal Madness](#28) mods
-* Starter Packs and Prefabs I suggest instead using [Hit the Ground Running](#36)
+* Starter Packs and Prefabs -- I suggest instead using __Hit the Ground Running__, now inside the [Dexterhaven Labs mod](#40)
 
 ---
 

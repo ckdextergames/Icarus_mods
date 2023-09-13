@@ -341,8 +341,8 @@
 	{
       "name": "Dextermod: Ultimate Fertilizer",
       "author": "CK_Dexterhaven",
-      "version": "2.8",
-      "compatibility": "w90",
+      "version": "2.9",
+      "compatibility": "w92",
       "description": "Combines the features of both advanced fertilizers. Recipe requires more resources.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/UltimateFertilizer/fertilizer.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/UltimateFertilizer/README.md",
