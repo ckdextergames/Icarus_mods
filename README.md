@@ -8,7 +8,6 @@
 
 ---
 
-*Compatible with Icarus Week 85 update, or the current later game build if updated with Icarus Mod Manager.*
 <a name="mod">__Enhanced Combo Suit Module: "The Panther"__</a>
 
 Costing quite a bit more to research and purchase, this powerful suit module replaces the "Patcher I" and combines characteristics of multiple modules:
