@@ -9,7 +9,7 @@
 
 ---
 
-*Compatible with Icarus Week 92 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 93 update, or the current later game build if updated with Icarus Mod Manager.*
 
 <a name="mod">__Stronger HVAC__</a>
 
