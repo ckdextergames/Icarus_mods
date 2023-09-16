@@ -8,7 +8,7 @@
 
 <a name="modlist">All mods:</a>
 
-*Compatible with Icarus Week 92 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 93 update, or the current later game build if updated with Icarus Mod Manager.*
 
 1. [Super Suit Modules](#1)
 2. [SpeedyCrafter and CrazyCrafter](#2)
