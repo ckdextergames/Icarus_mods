@@ -14,11 +14,10 @@ Notes:
 - [Pack 5](#5)
 - [Pack 6](#6)
 
-<a name="1">**Bare Bones Collection: Essentials for Mining and Survival**</a> (replaces the corn seed pack)
+<a name="1">**Bare Bones Collection: Essentials for Mining and Survival**</a>
 
 Research cost: 1800/750 — Craft cost: 1200/600
 
-- stack of 10 corn
 - steel tools: pickaxe, axe, spear, knife, sickle, hammer
 - crafting bench
 - mortar & pestle
@@ -39,7 +38,7 @@ Research cost: 1800/750 — Craft cost: 1200/600
 -- [Return to list](#list)
 ---
 
-<a name="2">**Basic Build & Farm Collection**</a> (replaces the carrot seed pack)
+<a name="2">**Basic Build & Farm Collection**</a>
 
 Research cost: 2500/900 — Craft cost: 1800/650
 
@@ -98,7 +97,7 @@ Research cost: 2500/900 — Craft cost: 1800/650
 -- [**Return to list**](#list)
 ---
 
-<a name="3">**Basic Hunt & Fish Collection**</a> (replaces pumpkin seed pack)
+<a name="3">**Basic Hunt & Fish Collection**</a>
 
 Research cost: 2500/900 — Craft cost: 1800/650
 
@@ -121,7 +120,6 @@ Research cost: 2500/900 — Craft cost: 1800/650
 - electricity tool
 - water pipe tool
 - interior wood cupboard
-- pumpkin stack
 
 **Basic Fishing Pack**
 
@@ -149,7 +147,7 @@ Research cost: 2500/900 — Craft cost: 1800/650
 -- [**Return to list**](#list)
 ---
 
-<a name="4">**Advanced Build & Farm Collection**</a> (replaces squash seed pack)
+<a name="4">**Advanced Build & Farm Collection**</a>
 
 Research cost: 6750/3000 — Craft cost: 3500/1750
 
@@ -214,7 +212,7 @@ Research cost: 6750/3000 — Craft cost: 3500/1750
 -- [**Return to list**](#list)
 ---
 
-<a name="5">**Advanced Hunt & Fish Collection**</a> (replaces berry seed pack)
+<a name="5">**Advanced Hunt & Fish Collection**</a>
 
 Research cost: 6750/3000 — Craft cost: 3500/1750
 
@@ -278,7 +276,7 @@ Research cost: 6750/3000 — Craft cost: 3500/1750
 -- [**Return to list**](#list)
 ---
 
-<a name="6">**All-in-One Premium Basecamp Collection**</a> (replaces wheat seed pack)
+<a name="6">**All-in-One Premium Basecamp Collection**</a>
 
 Research cost: 12500/10000 — Craft cost: 10000/8750
 
