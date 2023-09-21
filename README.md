@@ -39,6 +39,7 @@ __Stack size changes:__
 * Fish pie 10 >> 50
 * Flour 100 >> 400
 * Freshwater Filet Curry 10 >> 50
+* Freshwater Fish Fillet 25 >> 75
 * Fruit Muffin 10 >> 50
 * Fish chunks 10 >> 100
 * Fur 100 >> 400
@@ -59,7 +60,10 @@ __Stack size changes:__
 * Red exotics - stabilized 20 >> 200
 * Roast vegetables 10 >> 50
 * Rope 100 >> 500
+* Saltwater Fillet Sashimi 10 >> 50
+* Saltwater Fish Fillet 25 >> 75
 * Savory Roll 10 >> 50
+* Shepherds Pie 10 >> 50
 * Shepherds Roll 10 >> 50
 * Silica 50 >> 500
 * Soybeans 100 >> 400
