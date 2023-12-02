@@ -8,7 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 93 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 104 update, or the current later game build if updated with Icarus Mod Manager.*
 
 <a name="mod">__MaxiStax__</a>
 
@@ -24,6 +24,7 @@ __Stack size changes:__
 * Beer 12 >> 50
 * Berries 100 >> 400
 * Bone 100 >> 400
+* Clay 100 >> 400
 * Composites 20 >> 100
 * Cooked Fatty T-bone 20 >> 100
 * Cooked Giant Steak 20 >> 100
@@ -51,6 +52,7 @@ __Stack size changes:__
 * Leather 100 >> 600
 * Meat Pie 10 >> 50
 * Medium wood hedgehog 20 >> 100
+* Obsidian 100 >> 400
 * Oxite 50 >> 400
 * Pastry 10 >> 60
 * Platinum ingot 20 >> 200
@@ -63,6 +65,7 @@ __Stack size changes:__
 * Saltwater Fillet Sashimi 10 >> 50
 * Saltwater Fish Fillet 25 >> 75
 * Savory Roll 10 >> 50
+* Scoria 100 >> 400
 * Shepherds Pie 10 >> 50
 * Shepherds Roll 10 >> 50
 * Silica 50 >> 500
