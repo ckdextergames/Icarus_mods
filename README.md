@@ -8,7 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 93 update, or the current later game build if updated with Icarus Mod Manager.*
+***Since the Artemis T5 Armor pieces are now all part of Dexterhaven Labs, this mod will no longer be updated.***
 
 <a name="mod">__T5 "Artemis" Armor__</a>
 
