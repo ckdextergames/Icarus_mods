@@ -8,7 +8,7 @@
 
 <a name="modlist">All mods:</a>
 
-*Compatible with Icarus Week 93 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 104 update, or the current later game build if updated with Icarus Mod Manager.*
 
 1. [Super Suit Modules](#1)
 2. [SpeedyCrafter and CrazyCrafter](#2)
@@ -192,7 +192,7 @@ Wishing that the __"Peerless Lumberjack"__ and __"Lucky Strike"__ talents gave y
 
 8. __Prefab_Base_Kits__
 
-THIS MOD IS NO LONGER IN USE. I suggest instead using [Hit the Ground Running](#36)
+THIS MOD IS NO LONGER IN USE. I suggest instead using [Dexterhaven Labs](#40)
 
 -- [*__Return to mod list__*](#modlist)
 
@@ -334,6 +334,8 @@ This enhanced version of the Larkwell-Martinez Tactical Backpack has many powerf
 ---
 
 19. <a name="19">__Ultimate Fertilizer__</a> (Direct link: https://bit.ly/CKDultimate)
+
+***Game changes broke this mod, it is no longer being updated***
 
 This high-yield and high-speed fertilizer requires a bag of each of the other single-feature types, plus some other key ingredients. The recipe gives you two bags of rich soil supplement which increases both growth speed and yield by 75%.
 
