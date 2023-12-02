@@ -8,7 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 97 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 104 update, or the current later game build if updated with Icarus Mod Manager.*
 
 <a name="mod">__SuperDeluxe Combo__</a>
 
