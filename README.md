@@ -8,7 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 101 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 104 update, or the current later game build if updated with Icarus Mod Manager.*
 
 <a name="mod">__Dexterhaven Labs__</a>
 
