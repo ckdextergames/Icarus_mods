@@ -8,7 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 93 update, or the current later game build if updated with Icarus Mod Manager.*
+***Due to changes made to the game files, this mod no longer functions. I will leave it here in case someone wants to try to get it working, but it will no longer be updated.***
 
 <a name="mod">__Ultimate Fertilizer__</a>
 
