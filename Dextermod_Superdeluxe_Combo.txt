@@ -1,9 +1,9 @@
 Includes the following mods:
-Custom_Puck_Lights_V2
 Camera_Distance
 CritFail_Blessing_Of_Tartarus
 Dextermod_EnzymePowerSmoothies
 Dextermod_StackingCropPlots
 Dextermod_CookItAll
 CritFail_WasteNot_UPGRADED
-WZG_Mod_W104TWK_P
+WZG_Mod_W108TWK
+Custom_Puck_Lights_V2
