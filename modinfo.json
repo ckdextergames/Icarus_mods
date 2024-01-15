@@ -571,8 +571,8 @@
 	{
       "name": "Dexterhaven Labs",
       "author": "CK_Dexterhaven",
-      "version": "1.9",
-      "compatibility": "w104",
+      "version": "2.0",
+      "compatibility": "w110",
       "description": "The HTGR Starter Packs, Preservation Crate, Workshop Furnaces, and more are all in this special Dexterhaven tab of the Orbital Workshop",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/DexterhavenLabs/README.md",
       "files": {
