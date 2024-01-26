@@ -284,7 +284,7 @@ All four tiers of crop plots (including workshop plots) are now stackable, up to
 
 16. <a name="16">__Arrow Packs__</a> (Direct link: https://bit.ly/CKDarrows)
 
-With this mod, all (pre-New Frontiers) arrow packs purchased in the orbital workshop come in packs of 50.
+With this mod, all arrow and bolt packs purchased in the orbital workshop come in packs of 50.
 
 *__CAUTION__:* * This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ItemTemplate" and "D_Itemable"; or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
