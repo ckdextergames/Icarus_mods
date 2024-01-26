@@ -289,9 +289,9 @@
 	{
       "name": "Dextermod: Arrow Packs",
       "author": "CK_Dexterhaven",
-      "version": "3.0",
-      "compatibility": "w104",
-      "description": "All (pre-New Frontiers) workshop arrows now come in packs of 50.",
+      "version": "3.1",
+      "compatibility": "w112",
+      "description": "All workshop arrows & bolts now come in packs of 50.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/ArrowPacks/arrows.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/ArrowPacks/README.md",
       "files": {
