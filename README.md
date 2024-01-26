@@ -9,11 +9,11 @@
 
 ---
 
-*Compatible with Icarus Week 104 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 112 update, or the current later game build if updated with Icarus Mod Manager.*
 
 <a name="mod">__Arrow Packs__</a>
 
-All (pre-New Frontier) arrow packs purchased in the orbital workshop now come in packs of 50. To use, right-click when on the surface to "consume" and open the package.
+All arrow & bolt packs purchased in the orbital workshop now come in packs of 50. To use, right-click when on the surface to "consume" and open the package.
 
 ---
 
