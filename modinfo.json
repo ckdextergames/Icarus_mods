@@ -302,8 +302,8 @@
 	{
       "name": "Dextermod: Stackable Crop Plots",
       "author": "CK_Dexterhaven",
-      "version": "3.1",
-      "compatibility": "w108",
+      "version": "3.2",
+      "compatibility": "w112",
       "description": "All four tiers of crop plots are now stackable, up to a stack of 20.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/StackingCropPlots/cropplots.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/StackingCropPlots/README.md",
