@@ -8,7 +8,7 @@
 
 ---
 
-*Compatible with Icarus Week 110 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 112 update, or the current later game build if updated with Icarus Mod Manager.*
 
 <a name="mod">__Dexterhaven Labs__</a>
 
@@ -48,6 +48,8 @@ Costing quite a bit more to research and purchase, this powerful suit module com
 *"They say the best things in life are free. This must not be one of them" -- Sol*
 
 __MXC Cot__
+
+***Note: due to changes made by the devs as of week 110, until further notice, the MXC Cot will not be avaialalbe.***
 
 Pre-printed cot for use as a bed. Cheap and reliable, with better buffs than sleeping on the ground.
 
