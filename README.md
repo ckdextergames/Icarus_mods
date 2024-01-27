@@ -6,11 +6,11 @@
 
 ---
 
-*Compatible with Icarus Week 104 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 112 update, or the current later game build if updated with Icarus Mod Manager.*
 
 <a name="mod">__JimK Innovations__</a>
 
-With this mod, you can research and buy severeal essential (and amazing!) JimK items in their own dedicated Orbital Workshop section, "JimK Innovations". This way, they don't replace other existing workshop items, making those still available. The prices are set according to their relative power / utility and require both REN and purple (but no red) exotics.
+With this mod, you can research and buy three essential (and amazing!) JimK items in their own dedicated Orbital Workshop section, "JimK Innovations". This way, they don't replace other existing workshop items, making those still available. The prices are set according to their relative power / utility and require both REN and purple (but no red) exotics.
 
 ---
 
