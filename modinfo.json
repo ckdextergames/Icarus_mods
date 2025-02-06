@@ -128,6 +128,16 @@
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/BigBoxStack/Dextermod_BigBoxStack_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/BigBoxStack/Dextermod_BigBoxStack.EXMODZ"
       }
+	{
+      "name": "Dexterlabs Panther Suit Module",
+      "author": "CK_Dexterhaven",
+      "version": "1.4",
+      "compatibility": "w165",
+      "description": This powerful suit module replaces the "Patcher I" and combines characteristics of multiple modules.",
+	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/PantherModule/README.md",
+      "files": {
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/blob/PantherModule/Dexterlabs_Panther_Suit_Module.EXMODZ"
+      }
     },
 	{
       "name": "Something Fishy!",
