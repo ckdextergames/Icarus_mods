@@ -152,6 +152,20 @@
           "pak": "https://github.com/ckdextergames/Icarus_mods/raw/SomethingFishy/Dextermod_SomethingFishy_P.pak",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/SomethingFishy/Dextermod_SomethingFishy.EXMODZ"
       }
+    },
+	{
+      "name": "Tactical Icebox Backpack",
+      "author": "CK_Dexterhaven",
+      "version": "1.0",
+      "compatibility": "w167",
+      "description": "A very powerful, practical backpack to prevent your food from spoiling on long journeys. Expensive to craft on the Fabricator, but worth it! Recommended to craft two so you can keep one charging up at a Charging Station.",
+      "imageURL": "",
+	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/IceboxBackpack/README.md",
+      "files": {
+          "pak": "",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/SomethingFishy/Dextermod_SomethingFishy.EXMODZ"
+      }
     }
+
 ]
 }
