@@ -1,7 +1,7 @@
 # Icarus_mods
 *__Welcome to Dextermods__*: Mods for Icarus
 
-A quick reminder: Since February 2024, I’ve not been updating any of my mods. So most of them just will not work or not be updatable any more. A couple here and there might keep working in limited ways if updated weekly via IMM, but sadly you can’t count on that. I’ve left them posted in case anyone wants to remake them or make their own versions. Cheers and good hunting!
+A quick reminder: Since February 2024, I stopped updating most of my mods. So many of them just will not work or not be updatable any more. Starting in late January 2025, I've updated several of my most popular ones. All of my mods that are updated and working with the current game version are available in Icarus Mod Manager. I’ve left all the others posted here in case anyone wants to remake them or make their own versions. Cheers and good hunting!
 
 * [Mod info](#modlist)
 * [Shout-outs and donating](#shouts)
