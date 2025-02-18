@@ -1,0 +1,527 @@
+{
+    "name": "Dexterlabs_Panther_Mark_2",
+    "author": "CK Dexterhaven",
+    "version": "1.0",
+    "week": "167",
+    "description": "A more powerful and mutually exlusive version of the Panther suit module, this incorporates the What is This talent (for a chance of exotics when mining metals) and reivies the Gifts of Tartarus from CritFail, removing cave sickness.",
+    "fileName": "Dexterlabs Panther Suit Module",
+    "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/refs/heads/PantherModule2/README.md",
+    "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/PantherModule/panther.png",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "MetaWorkshop-D_WorkshopItems.json",
+            "File_Items": [
+                {
+                    "Name": "Meta_Module_Inventory_Slots_1",
+                    "Item": {
+                        "RowName": "Meta_Module_Inventory_Slots"
+                    },
+                    "ResearchCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 2000
+                        },
+                        {
+                            "Meta": {
+                                "RowName": "Exotic1",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 1400
+                        }
+                    ],
+                    "ReplicationCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 1000
+                        },
+                        {
+                            "Meta": {
+                                "RowName": "Exotic1",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 850
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Equippable.json",
+            "File_Items": [
+                {
+                    "Name": "Module_Slots",
+                    "EquippableModifier": "/Game/BP/Behaviours/Equippable/BP_EquippableModifier.BP_EquippableModifier_C",
+                    "GrantedStats": {
+                        "(Value=\"BaseBackpackSlots_+\")": 36,
+                        "(Value=\"BaseMovementSpeed_+%\")": 30,
+                        "(Value=\"BaseFallDamageResistance_%\")": 100,
+                        "(Value=\"BaseWeightCapacity_+\")": 65
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Itemable.json",
+            "File_Items": [
+                {
+                    "Name": "Item_Module_Inventory_Slots",
+                    "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Module_Inventory_Slots-DisplayName\", \"The Panther Suit Module Mark 2\")",
+                    "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Modules/T_ITEM_MODULE_UTILITY_Inventory1.T_ITEM_MODULE_UTILITY_Inventory1",
+                    "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Module_Inventory_Slots-Description\", \"While much more expensive to research and purchase, this greatly enhanced suit module is a top-tier piece of kit for the experienced prospector.\")",
+                    "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Module_Inventory_Slots-FlavorText\", \"O.P... That stands for Obviously, Panther! Right?\")",
+                    "Weight": 100
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Talents-D_Talents.json",
+            "File_Items": [
+                {
+                    "Name": "Resources_Food_Buff_Slot",
+                    "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Resources_Food_Buff_Slot-DisplayName\", \"Food Pyramid\")",
+                    "Description": "NSLOCTEXT(\"D_Talents\", \"Resources_Food_Buff_Slot-Description\", \"Gives an extra active food buff\")",
+                    "Icon": "/Game/Assets/2DArt/UI/Talents/Cooking/Talent_Cooking_AllFoodGroups.Talent_Cooking_AllFoodGroups",
+                    "TalentTree": {
+                        "RowName": "Survival_Produce"
+                    },
+                    "Position": {
+                        "X": 350,
+                        "Y": 1650
+                    },
+                    "Size": {
+                        "X": 128,
+                        "Y": 128
+                    },
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMaximumStomachFullness_+\")": 2
+                            },
+                            "GrantedFlags": []
+                        }
+                    ],
+                    "RequiredTalents": [
+                        {
+                            "RowName": "Resources_Crop_Decay",
+                            "DataTableName": "D_Talents"
+                        },
+                        {
+                            "RowName": "Produce_Food_Buff_Duration",
+                            "DataTableName": "D_Talents"
+                        }
+                    ],
+                    "RequiredRank": {
+                        "RowName": "Master"
+                    },
+                    "DrawMethodOverride": "YThenX"
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Modifiers-D_ModifierStates.json",
+            "File_Items": [
+                {
+                    "Name": "Underground",
+                    "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_DampenedDebuff.Icon_DampenedDebuff'",
+                    "Type": "Debuff",
+                    "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Underground-ModifierName\", \"Spelunking!\")",
+                    "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Underground-ModifierDescription\", \"You are in a cave, and you have an envirosuit. You will be fine.\")",
+                    "AudioData": {
+                        "RowName": "Generic_Negative_LongCoolDown"
+                    },
+                    "GrantedStats": {
+                        "(Value=\"BaseMaximumStamina_+\")": 25,
+                        "(Value=\"BaseStaminaActionCost_+%\")": -10,
+                        "(Value=\"BaseStaminaRegen_+%\")": 25
+                    },
+                    "bEscalates": true,
+                    "Escalation": {
+                        "RowName": "Underground_Escalation"
+                    },
+                    "EscalationTime": 120,
+                    "ModifierTickRate": 120,
+                    "MergeType": "Replace",
+                    "ModifierAllowedQuery": {
+                        "TagDictionary": [
+                            {
+                                "TagName": "ModifierState.Dehumidified"
+                            },
+                            {
+                                "TagName": "ModifierState.Medicine.Antibiotic.T3"
+                            },
+                            {
+                                "TagName": "ModifierState.Affliction.Pneumonia"
+                            }
+                        ],
+                        "QueryTokenStream": [
+                            0,
+                            1,
+                            3,
+                            3,
+                            0,
+                            1,
+                            2
+                        ],
+                        "AutoDescription": " NONE( ModifierState.Dehumidified, ModifierState.Medicine.Antibiotic.T3, ModifierState.Affliction.Pneumonia )"
+                    },
+                    "bEffectsNPCs": false
+                },
+                {
+                    "Name": "Pneumonia",
+                    "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_PneumoniaDebuff.Icon_PneumoniaDebuff'",
+                    "Type": "Debuff",
+                    "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Pneumonia-ModifierName\", \"Blessing of Tartarus\")",
+                    "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Pneumonia-ModifierDescription\", \"You do not actually have pneumonia. You are just in a cave.\")",
+                    "AudioData": {
+                        "RowName": "Generic_Negative"
+                    },
+                    "GrantedStats": {
+                        "(Value=\"BaseMaximumStamina_+\")": 25,
+                        "(Value=\"BaseStaminaRegen_+%\")": 50,
+                        "(Value=\"BaseMovementSpeed_+\")": 10
+                    },
+                    "ModifierTickRate": 60,
+                    "ModifierLifetimeAffectors": [
+                        {
+                            "Value": "BacterialModifierDuration_+%"
+                        }
+                    ],
+                    "MergeType": "Replace",
+                    "ModifierTags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "ModifierState.Affliction.Bacterial"
+                            }
+                        ]
+                    },
+                    "ModifierAllowedQuery": {
+                        "TagDictionary": [
+                            {
+                                "TagName": "ModifierState.Medicine.Antibiotic.T2"
+                            },
+                            {
+                                "TagName": "ModifierState.Medicine.Antibiotic.T3"
+                            }
+                        ],
+                        "QueryTokenStream": [
+                            0,
+                            1,
+                            3,
+                            2,
+                            0,
+                            1
+                        ],
+                        "AutoDescription": " NONE( ModifierState.Medicine.Antibiotic.T2, ModifierState.Medicine.Antibiotic.T3 )"
+                    },
+                    "EffectsCustomActor": {
+                        "RowName": "Faction_Mission_NPC"
+                    },
+                    "bEffectsNPCs": false
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Talents-D_Talents.json",
+            "File_Items": [
+                {
+                    "Name": "Resources_Secondary_Voxel",
+                    "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Resources_Secondary_Voxel-DisplayName\", \"What is this?\")",
+                    "Description": "NSLOCTEXT(\"D_Talents\", \"Resources_Secondary_Voxel-Description\", \"Metal ores have a chance to yield exotics\")",
+                    "Icon": "/Game/Assets/2DArt/UI/Talents/Resources/Talent_Resources_WasteNot.Talent_Resources_WasteNot",
+                    "TalentTree": {
+                        "RowName": "Survival_Resources"
+                    },
+                    "Position": {
+                        "X": 550,
+                        "Y": 450
+                    },
+                    "Size": {
+                        "X": 128,
+                        "Y": 128
+                    },
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseVoxelChanceToHarvestSecondaryResource_%\")": 10
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseVoxelChanceToHarvestSecondaryResource_%\")": 25
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseVoxelChanceToHarvestSecondaryResource_%\")": 50
+                            },
+                            "GrantedFlags": []
+                        }
+                    ],
+                    "RequiredTalents": [
+                        {
+                            "RowName": "Resources_Increased_Stone",
+                            "DataTableName": "D_Talents"
+                        }
+                    ],
+                    "RequiredRank": {
+                        "RowName": "Apprentice"
+                    },
+                    "DrawMethodOverride": "YThenX"
+                }
+            ]
+        },
+        {
+            "CurrentFile": "World-D_VoxelSetupData.json",
+            "File_Items": [
+                {
+                    "Name": "Gold_Normal",
+                    "ResourceCategory": "Gold",
+                    "ResourceType": {
+                        "RowName": "Gold_Ore"
+                    },
+                    "SecondaryResourceType": {
+                        "RowName": "Meta_Resource"
+                    },
+                    "PyriticCrustResourceType": {
+                        "RowName": "Pyritic_Crust_Gold"
+                    },
+                    "DensityMultiplier": 1.2000000476837158,
+                    "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
+                    "ExperienceForMining": {
+                        "RowName": "MineGold"
+                    },
+                    "RewardStat": {
+                        "Value": "MiningGoldRewards_%"
+                    },
+                    "VoxelTag": {
+                        "TagName": "Harvest.Pickaxe.T1"
+                    }
+                },
+                {
+                    "Name": "Gold_Dense",
+                    "ResourceCategory": "Gold",
+                    "ResourceType": {
+                        "RowName": "Gold_Ore"
+                    },
+                    "SecondaryResourceType": {
+                        "RowName": "Meta_Resource"
+                    },
+                    "PyriticCrustResourceType": {
+                        "RowName": "Pyritic_Crust_Gold"
+                    },
+                    "DensityMultiplier": 2,
+                    "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
+                    "ExperienceForMining": {
+                        "RowName": "MineGold"
+                    },
+                    "RewardStat": {
+                        "Value": "MiningGoldRewards_%"
+                    },
+                    "VoxelTag": {
+                        "TagName": "Harvest.Pickaxe.T1"
+                    }
+                },
+                {
+                    "Name": "Bauxite_Normal",
+                    "ResourceCategory": "Bauxite",
+                    "ResourceType": {
+                        "RowName": "Bauxite"
+                    },
+                    "SecondaryResourceType": {
+                        "RowName": "Meta_Resource"
+                    },
+                    "PyriticCrustResourceType": {
+                        "RowName": "Pyritic_Crust_Bauxite"
+                    },
+                    "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
+                    "ExperienceForMining": {
+                        "RowName": "MineBauxite"
+                    },
+                    "RewardStat": {
+                        "Value": "MiningBauxiteRewards_%"
+                    },
+                    "VoxelTag": {
+                        "TagName": "Harvest.Pickaxe.T2"
+                    }
+                },
+                {
+                    "Name": "Bauxite_Dense",
+                    "ResourceCategory": "Bauxite",
+                    "ResourceType": {
+                        "RowName": "Bauxite"
+                    },
+                    "SecondaryResourceType": {
+                        "RowName": "Meta_Resource"
+                    },
+                    "PyriticCrustResourceType": {
+                        "RowName": "Pyritic_Crust_Bauxite"
+                    },
+                    "DensityMultiplier": 2,
+                    "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
+                    "ExperienceForMining": {
+                        "RowName": "MineBauxite"
+                    },
+                    "RewardStat": {
+                        "Value": "MiningBauxiteRewards_%"
+                    },
+                    "VoxelTag": {
+                        "TagName": "Harvest.Pickaxe.T2"
+                    }
+                },
+                {
+                    "Name": "Metal_Normal",
+                    "ResourceCategory": "Metal",
+                    "ResourceType": {
+                        "RowName": "Metal_Ore"
+                    },
+                    "SecondaryResourceType": {
+                        "RowName": "Meta_Resource"
+                    },
+                    "PyriticCrustResourceType": {
+                        "RowName": "Pyritic_Crust_Iron"
+                    },
+                    "DensityMultiplier": 1.100000023841858,
+                    "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
+                    "ExperienceForMining": {
+                        "RowName": "MineMetal"
+                    },
+                    "RewardStat": {
+                        "Value": "MiningMetalRewards_%"
+                    },
+                    "VoxelTag": {
+                        "TagName": "Harvest.Pickaxe.T1"
+                    }
+                },
+                {
+                    "Name": "Metal_Dense",
+                    "ResourceCategory": "Metal",
+                    "ResourceType": {
+                        "RowName": "Metal_Ore"
+                    },
+                    "SecondaryResourceType": {
+                        "RowName": "Meta_Resource"
+                    },
+                    "PyriticCrustResourceType": {
+                        "RowName": "Pyritic_Crust_Iron"
+                    },
+                    "DensityMultiplier": 2,
+                    "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
+                    "ExperienceForMining": {
+                        "RowName": "MineMetal"
+                    },
+                    "RewardStat": {
+                        "Value": "MiningMetalRewards_%"
+                    },
+                    "VoxelTag": {
+                        "TagName": "Harvest.Pickaxe.T1"
+                    }
+                },
+                {
+                    "Name": "Copper_Normal",
+                    "ResourceCategory": "Copper",
+                    "ResourceType": {
+                        "RowName": "Copper_Ore"
+                    },
+                    "SecondaryResourceType": {
+                        "RowName": "Meta_Resource"
+                    },
+                    "PyriticCrustResourceType": {
+                        "RowName": "Pyritic_Crust_Copper"
+                    },
+                    "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
+                    "ExperienceForMining": {
+                        "RowName": "MineCopper"
+                    },
+                    "RewardStat": {
+                        "Value": "MiningCopperRewards_%"
+                    },
+                    "VoxelTag": {
+                        "TagName": "Harvest.Pickaxe.T1"
+                    }
+                },
+                {
+                    "Name": "Copper_Dense",
+                    "ResourceCategory": "Copper",
+                    "ResourceType": {
+                        "RowName": "Copper_Ore"
+                    },
+                    "SecondaryResourceType": {
+                        "RowName": "Meta_Resource"
+                    },
+                    "PyriticCrustResourceType": {
+                        "RowName": "Pyritic_Crust_Copper"
+                    },
+                    "DensityMultiplier": 2,
+                    "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
+                    "ExperienceForMining": {
+                        "RowName": "MineCopper"
+                    },
+                    "RewardStat": {
+                        "Value": "MiningCopperRewards_%"
+                    },
+                    "VoxelTag": {
+                        "TagName": "Harvest.Pickaxe.T1"
+                    }
+                },
+                {
+                    "Name": "Titanium_Normal",
+                    "ResourceCategory": "Titanium",
+                    "ResourceType": {
+                        "RowName": "Titanium_Ore"
+                    },
+                    "SecondaryResourceType": {
+                        "RowName": "Meta_Resource"
+                    },
+                    "PyriticCrustResourceType": {
+                        "RowName": "Pyritic_Crust_Titanium"
+                    },
+                    "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
+                    "ExperienceForMining": {
+                        "RowName": "MineTitanium"
+                    },
+                    "RewardStat": {
+                        "Value": "MiningTitaniumRewards_%"
+                    },
+                    "VoxelTag": {
+                        "TagName": "Harvest.Pickaxe.T2"
+                    }
+                },
+                {
+                    "Name": "Platinum_Normal",
+                    "ResourceCategory": "Platinum",
+                    "ResourceType": {
+                        "RowName": "Platinum_Ore"
+                    },
+                    "SecondaryResourceType": {
+                        "RowName": "Meta_Resource"
+                    },
+                    "PyriticCrustResourceType": {
+                        "RowName": "Pyritic_Crust_Platinium"
+                    },
+                    "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
+                    "ExperienceForMining": {
+                        "RowName": "MinePlatinum"
+                    },
+                    "RewardStat": {
+                        "Value": "MiningPlatinumRewards_%"
+                    },
+                    "VoxelTag": {
+                        "TagName": "Harvest.Pickaxe.T2"
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
