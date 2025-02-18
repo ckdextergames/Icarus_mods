@@ -165,7 +165,19 @@
           "pak": "",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/refs/heads/IceboxBackpack/Dexterlabs_Tactical_Icebox_Backpack.EXMODZ"
       }
+    },
+	{
+      "name": "Dexterlabs Panther Suit Module Mark2",
+      "author": "CK_Dexterhaven",
+      "version": "1.0",
+      "compatibility": "w167",
+      "description": "A more powerful and mutually exlusive version of the Panther suit module, this incorporates the What is This talent (for a chance of exotics when mining metals) and reivies the Gifts of Tartarus from CritFail, removing cave sickness.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/PantherModule/panther.png",
+	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/IceboxBackpack/README.md",
+      "files": {
+          "pak": "",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/refs/heads/PantherModule2/Dexterlabs_Panther_MK2.EXMOD"
+      }
     }
-
 ]
 }
