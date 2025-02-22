@@ -167,6 +167,19 @@
       }
     },
 	{
+      "name": "Dexterhaven Labs",
+      "author": "CK_Dexterhaven",
+      "version": "2.0",
+      "compatibility": "w168",
+      "description": "Introduces a custom tab to the Orbital Workshop, containing many useful items.",
+      "imageURL": "",
+	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/DexterhavenLabs/README.md",
+      "files": {
+          "pak": "",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/refs/heads/DexterhavenLabs/DexterhavenLabs.EXMODZ"
+      }
+    },
+	  {
       "name": "Dexterlabs Panther Suit Module Mark2",
       "author": "CK_Dexterhaven",
       "version": "1.0",
