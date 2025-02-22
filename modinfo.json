@@ -191,6 +191,19 @@
           "pak": "",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/refs/heads/PantherModule2/Dexterlabs_Panther_MK2.EXMOD"
       }
+    },
+{
+      "name": "Dextermods: Ultimate Fertilizer",
+      "author": "CK_Dexterhaven",
+      "version": "4.0",
+      "compatibility": "w168",
+      "description": "Crafted only on the chemistry bench, these two recipes replace the Recovery and Resistance Fertilizers. While they require more resources to craft, they combine and surpass all features of the other fertilizer varieties",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/UltimateFertilizer/Dextermod_UltimateFertilizer.png",
+	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/UltimateFertilizer/README.md",
+      "files": {
+          "pak": "",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/refs/heads/UltimateFertilizer/Dextermod_UltimateFertilizer.EXMODZ"
+      }
     }
 ]
 }
