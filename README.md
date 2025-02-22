@@ -337,11 +337,9 @@ This enhanced version of the Larkwell-Martinez Tactical Backpack has many powerf
 
 19. <a name="19">__Ultimate Fertilizer__</a> (Direct link: https://bit.ly/CKDultimate)
 
-***Game changes broke this mod, it is no longer being updated***
+Crafted only on the chemistry bench, these two recipes replace the Recovery and Resistance Fertilizers. While they require more resources to craft, they combine and surpass all features of the other fertilizer varieties
 
-This high-yield and high-speed fertilizer requires a bag of each of the other single-feature types, plus some other key ingredients. The recipe gives you two bags of rich soil supplement which increases both growth speed and yield by 75%.
-
-*__CAUTION__*: This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", "D_ItemStatic", "D_Meshable", "D_ItemTemplate" and "D_Itemable"; or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+*__CAUTION__*: This mod may conflict with other mods! [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
 -- [*__Return to mod list__*](#modlist)
 
