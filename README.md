@@ -8,11 +8,9 @@
 
 ---
 
-***Due to changes made to the game files, this mod no longer functions. I will leave it here in case someone wants to try to get it working, but it will no longer be updated.***
-
 <a name="mod">__Ultimate Fertilizer__</a>
 
-This high-yield **and** high-speed fertilizer requires a bag of each of the other single-feature types, plus some other key ingredients. The recipe gives you two bags of rich soil supplement which increases both growth speed and yield by 75%.
+Crafted only on the chemistry bench, these two recipes replace the Recovery and Resistance Fertilizers. While they require more resources to craft, they combine and surpass all features of the other fertilizer varieties
 
 ---
 
@@ -24,7 +22,7 @@ These mods are free to use of course, but if you'd like to make a small donation
 
 <a name="warnings">*__WARNINGS:__*</a>
 
-* This mod may conflict with other mods! Recommended to use alone, or with mods known not to change "D_ProcessorRecipes", "D_ItemStatic", "D_Meshable", "D_ItemTemplate" and "D_Itemable"; or use Mod Manager to choose your desired changes.
+* This mod may conflict with other mods!
 * Instead of placing mods in your mod folder, using [Mod Manager](https://github.com/Jimk72/Icarus_Software) is highly recommended!
 * Playing with others who aren't using the the exact same mod file(s), or any mods, could cause errors, crashes, and/or inventory loss.
 
