@@ -8,13 +8,11 @@
 
 ---
 
-*Compatible with Icarus Week 112 update, or the current later game build if updated with Icarus Mod Manager.*
+*Compatible with Icarus Week 168 update, or the current later game build if updated with Icarus Mod Manager.*
 
 <a name="mod">__Dexterhaven Labs__</a>
 
 Dexterhaven Labs introduces a custom tab to the Orbital Workshop, containing many useful items.
-
-(This mod replaces other mods which had the items in separate places, replacing existing Workshop items. These items now no longer replace any other items but are available in their own section.) 
 
 Included:
 
@@ -35,23 +33,6 @@ The internally-powered Prototype Preservation Crate (from the Oasis: Angler miss
 __Workshop Furnaces__
 
 Two new varieties of MXC Furnace. The Intermediate one smelts like a Concrete Stove, the Advanced like Electric. They cost more also.
-
-__"The Panther" Suit Module__
-
-Costing quite a bit more to research and purchase, this powerful suit module combines characteristics of multiple modules:
-
-* Increases speed by 60%
-* Adds 12 additional inventory slots
-* Provides 100% fall damage resistance
-* Increases weight capacity ten-fold over the vanilla "Adlift" suit module
-
-*"They say the best things in life are free. This must not be one of them" -- Sol*
-
-__MXC Cot__
-
-***Note: due to changes made by the devs as of week 110, until further notice, the MXC Cot will not be avaialalbe.***
-
-Pre-printed cot for use as a bed. Cheap and reliable, with better buffs than sleeping on the ground.
 
 __The Theseus "Omniburst" Series__
 
