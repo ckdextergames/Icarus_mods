@@ -28,7 +28,7 @@ These packages come in six varieties, with increasing benefits and increasing co
 
 __Prototype Preservation Crate__
 
-The internally-powered Prototype Preservation Crate (from the Oasis: Angler mission) is now available for research and purchase in the Orbital Workshop.
+The internally-powered Prototype Preservation Crate (from the Oasis: Angler mission) is now available for research and purchase in the Orbital Workshop. Please note you can only bring down / call down one per prospect. Any others will disappear. If more than one is desired, we recommend instead using JimK's Preservation Crate.
 
 __Workshop Furnaces__
 
