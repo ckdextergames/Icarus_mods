@@ -94,8 +94,8 @@
 	{
       "name": "Dextermod: T5 Armor",
       "author": "CK_Dexterhaven",
-      "version": "2.7",
-      "compatibility": "w90",
+      "version": "2.8",
+      "compatibility": "w172",
       "description": "Exotic-infused upgrade to your existing Composite armor.",
       "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/T5Armor/armor.png",
 	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/T5Armor/README.md",
