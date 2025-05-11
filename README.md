@@ -584,7 +584,7 @@ Essential (and amazing!) JimK items in their own dedicated Orbital Workshop sect
 
 ---
 
-43. <a name="43">__WaldoPak__</a> (Direct link: [https://bit.ly/CKDjimkworkshop](https://bit.ly/CKD-waldopak))
+43. <a name="43">__WaldoPak__</a> (Direct link: [https://bit.ly/CKD-waldopak](https://bit.ly/CKD-waldopak))
 
 Brings back the enhanced Exotics Repair pack from the amazing (and much missed) WZG mod.
 
