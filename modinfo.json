@@ -192,7 +192,20 @@
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/refs/heads/PantherModule2/Dexterlabs_Panther_MK2.EXMOD"
       }
     },
-{
+	  {
+      "name": "Dextermod: WaldoPak",
+      "author": "CK_Dexterhaven",
+      "version": "1.0",
+      "compatibility": "w178",
+      "description": "Brings back the enhanced Exotic repair pack from WZG.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/Backpack/backpack.png",
+	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/WaldoPak/README.md",
+      "files": {
+          "pak": "",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/refs/heads/WaldoPak/Dextermod_WaldoPak_Original.EXMODZ"
+      }
+    },
+	  {
       "name": "Dextermods: Ultimate Fertilizer",
       "author": "CK_Dexterhaven",
       "version": "4.1",
