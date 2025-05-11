@@ -54,6 +54,7 @@ A quick reminder: Since February 2024, I stopped updating most of my mods. So ma
 40. [Dexterhaven Labs](#40)
 41. [4x Reds](#41)
 42. [JimK Innovations](#42)
+43. [WaldoPak](#43)
 
 * [Deprecated mods - no longer in use](#deprecated)
 
@@ -576,6 +577,16 @@ Higher chance of more red exotic spawn points and a higher yield from each red e
 42. <a name="42">__JimK Innovations__</a> (Direct link: https://bit.ly/CKDjimkworkshop)
 
 Essential (and amazing!) JimK items in their own dedicated Orbital Workshop section.
+
+*__CAUTION__*: This mod changes multiple files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+43. <a name="43">__WaldoPak__</a> (Direct link: [https://bit.ly/CKDjimkworkshop](https://bit.ly/CKD-waldopak))
+
+Brings back the enhanced Exotics Repair pack from the amazing (and much missed) WZG mod.
 
 *__CAUTION__*: This mod changes multiple files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
