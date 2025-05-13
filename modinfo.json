@@ -167,6 +167,19 @@
       }
     },
 	{
+      "name": "Tactical Deluxe Backpack",
+      "author": "CK_Dexterhaven",
+      "version": "1.0",
+      "compatibility": "w179",
+      "description": "This very powerful, practical backpack has all the attributes of the Larkwell-Martinez Tactical above, but also prevents your food from spoiling on long journeys. In addition, this enhanced version includes the attributes of all top-tier workshop backpacks. Expensive to craft on the Fabricator, but worth it! Recommended to craft two so you can keep one charging up at a Charging Station.",
+      "imageURL": "",
+	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/DeluxeBackpack/README.md",
+      "files": {
+          "pak": "",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/refs/heads/DeluxeBackpack/Dexterlabs_Tactical_Deluxe_Backpack.EXMODZZ"
+      }
+    },
+	{
       "name": "Dexterhaven Labs",
       "author": "CK_Dexterhaven",
       "version": "2.1",
