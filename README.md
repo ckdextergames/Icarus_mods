@@ -596,6 +596,26 @@ Brings back the enhanced Exotics Repair pack from the amazing (and much missed) 
 
 ---
 
+44. <a name="44">__Tactical Icebox Backpack__</a> (Direct link: [https://bit.ly/CKD-IceboxBackpack](https://bit.ly/CKD-IceboxBackpack)
+
+A very powerful, practical backpack to prevent your food from spoiling on long journeys. Expensive to craft (on the Fabricator), but worth it! Recommended to craft two so you can keep one charging up at a Charging Station.
+
+*__CAUTION__*: This mod changes multiple files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+45. <a name="45">__Tactical Deluxe Backpack__</a> (Direct link: [https://bit.ly/CKD-DeluxeBackpack](https://bit.ly/CKD-DeluxeBackpack)
+
+"While much more difficult to craft, this more powerful version of the Tactical Icebox Backpack also combines the attributes of all six top-tier workshop backpacks. Recommended to craft two so you can swap one out on the charger.
+
+*__CAUTION__*: This mod changes multiple files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
 <a name="deprecated">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
