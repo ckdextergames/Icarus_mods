@@ -608,7 +608,7 @@ A very powerful, practical backpack to prevent your food from spoiling on long j
 
 45. <a name="45">__Tactical Deluxe Backpack__</a> (Direct link: [https://bit.ly/CKD-DeluxeBackpack](https://bit.ly/CKD-DeluxeBackpack)
 
-"While much more difficult to craft, this more powerful version of the Tactical Icebox Backpack also combines the attributes of all six top-tier workshop backpacks. Recommended to craft two so you can swap one out on the charger.
+While much more difficult to craft, this more powerful version of the Tactical Icebox Backpack also combines the attributes of all six top-tier workshop backpacks. Recommended to craft two so you can swap one out on the charger.
 
 *__CAUTION__*: This mod changes multiple files and may conflict with other mods! Recommended to use alone, or use Mod Manager to choose your desired changes. [Mod Manager](https://github.com/Jimk72/Icarus_Software) highly recommended!
 
