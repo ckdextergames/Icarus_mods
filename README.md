@@ -55,6 +55,8 @@ A quick reminder: Since February 2024, I stopped updating most of my mods. So ma
 41. [4x Reds](#41)
 42. [JimK Innovations](#42)
 43. [WaldoPak](#43)
+44. [Tactical Icebox Backpack](#44)
+45. [Deluxe Deluxe Backpack](#45)
 
 * [Deprecated mods - no longer in use](#deprecated)
 
