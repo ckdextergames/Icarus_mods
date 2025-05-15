@@ -215,7 +215,7 @@
 	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/WaldoPak/README.md",
       "files": {
           "pak": "",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/refs/heads/WaldoPak/Dextermod_WaldoPak_Original.EXMODZ"
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/WaldoPak/Dextermod_WaldoPak_Original.EXMODZ"
       }
     },
 	  {
@@ -228,7 +228,7 @@
 	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/UltimateFertilizer/README.md",
       "files": {
           "pak": "",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/refs/heads/UltimateFertilizer/Dextermod_UltimateFertilizer.EXMODZ"
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/UltimateFertilizer/Dextermod_UltimateFertilizer.EXMODZ"
       }
     }
 ]
