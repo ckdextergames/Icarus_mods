@@ -137,7 +137,7 @@
       "description": "This powerful suit module replaces the Patcher I and combines characteristics of multiple modules.",
 	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/PantherModule/README.md",
       "files": {
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/blob/PantherModule/Dexterlabs_Panther_Suit_Module.EXMODZ"
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/PantherModule/Dexterlabs_Panther_Suit_Module.EXMODZ"
       }
     },
 	{
@@ -202,7 +202,7 @@
 	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/IceboxBackpack/README.md",
       "files": {
           "pak": "",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/PantherModule2/Dexterlabs_Panther_MK2.EXMOD"
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/PantherModule2/Dexterlabs_Panther_MK2.EXMODZ"
       }
     },
 	  {
