@@ -182,8 +182,8 @@
 	{
       "name": "Dexterhaven Labs",
       "author": "CK_Dexterhaven",
-      "version": "2.1",
-      "compatibility": "w168",
+      "version": "2.2",
+      "compatibility": "w189",
       "description": "Introduces a custom tab to the Orbital Workshop, containing many useful items.",
       "imageURL": "",
 	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/DexterhavenLabs/README.md",
