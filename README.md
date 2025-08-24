@@ -1,14 +1,14 @@
 # Icarus_mods
 *__Dextermods__*: mods for Icarus by CK_Dexterhaven
 
-* [Mod info](#mod)
+* [Mod info](#mods)
 * [Shout-outs and donating](#shouts)
 * [Disclaimers/warnings](#warnings)
 * [Installation instructions & caution](#install)
 
 ---
 
-<a name="mod">__Enhanced Combo Suit Module: "The Panther"__</a>
+<a name="mods">__Enhanced Combo Suit Module: "The Panther" and "Panther Mark 2"__</a>
 
 Costing quite a bit more to research and purchase, this powerful suit module replaces the "Patcher I" and combines characteristics of multiple modules:
 
@@ -16,6 +16,7 @@ Costing quite a bit more to research and purchase, this powerful suit module rep
 * Adds 12 additional inventory slots
 * Provides 100% fall damage resistance
 * Increases weight capacity ten-fold over the vanilla "Adlift" suit module
+* __Special Note on the Panther Mark 2: A more powerful and mutually exlusive version of the Panther suit module, this incorporates the What is This talent (for a chance of exotics when mining metals) and reivies the Gifts of Tartarus from CritFail, removing cave sickness.__
 
 *"They say the best things in life are free. This must not be one of them" -- Sol*
 
@@ -41,5 +42,6 @@ These mods are free to use of course, but if you'd like to make a small donation
 * Download .pak file from here and put it in the mods folder.
 * See the warning above regarding placing multiple mods in this folder! [Mod Manager](https://github.com/Jimk72/Icarus_Software) is highly recommended! 
 * Relaunch steam and Icarus. Enjoy!
+
 
 -- [*__Return to CK_Dexterhaven's mod list__*](https://github.com/ckdextergames/Icarus_mods)
