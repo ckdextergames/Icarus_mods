@@ -28,7 +28,7 @@ A quick reminder: Since February 2024, I stopped updating most of my mods. So ma
 14. [The Sinotai Extreme Spikewall](#14)
 15. [Stacking Crop Plots](#15)
 16. [Arrow Packs](#16)
-17. [Panther Suit Module](#17)
+17. [Panther Suit Module & Module Mark2](#17)
 18. [Enhanced Tactical Backpack](#18)
 19. [Ultimate Fertilizer](#19)
 20. [Cook All the Things!](#20)
@@ -297,9 +297,7 @@ With this mod, all arrow and bolt packs purchased in the orbital workshop come i
 
 ---
 
-17. <a name="17">__Enhanced Suit Module: "The Panther"__</a> (Direct link: https://bit.ly/CKDpanthermod)
-
-*__Note:__ This mod is available for download, but will no longer be updated. Suggest instead using [Dexterhaven Labs](#40), since its content is included in that mod.*
+17. <a name="17">__Enhanced Suit Module: "The Panther" and "Panther Mk2"__</a> (Direct link: https://bit.ly/CKDpanthermod)
 
 Costing quite a bit more to research and purchase, this powerful suit module replaces the "Patcher I" and combines characteristics of multiple modules:
 
@@ -307,6 +305,7 @@ Costing quite a bit more to research and purchase, this powerful suit module rep
 * Adds 12 additional inventory slots
 * Provides 100% fall damage resistance
 * Increases weight capacity ten-fold over the vanilla "Adlift" suit module
+* __Note on Panther Mark 2: A more powerful and mutually exlusive version of the Panther suit module, this incorporates the What is This talent (for a chance of exotics when mining metals) and reivies the Gifts of Tartarus from CritFail, removing cave sickness.__
 
 *"They say the best things in life are free. This must not be one of them" -- Sol*
 
