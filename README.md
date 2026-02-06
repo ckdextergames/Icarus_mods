@@ -32,7 +32,7 @@ A quick reminder: Since February 2024, I stopped updating most of my mods. So ma
 18. [Enhanced Tactical Backpack](#18)
 19. [Ultimate Fertilizer](#19)
 20. [Cook All the Things!](#20)
-21. [T5 Armor](#21)
+21. T5 Armor
 22. [Workshop Furnaces](#22)
 23. [Surface Workshop](#23)
 24. [StormFront](#24)
@@ -360,6 +360,8 @@ Buen Provecho!
 ---
 
 21. <a name="21">__T5 "Artemis" Armor__</a> (Direct link: https://bit.ly/CKDarmor)
+
+_Note: This is broken due to changes they've made with the armor system. As of week 218, I've removed this from IMM (anyone who wants to try to fix it could still get the code here). Sorry for this, but if you want to still get that armor, it's available in the orbital workshop via my Dexterhaven Labs mod._
 
 Highest-tier armor which combines or improves on features of most other armor sets. Upgrades your already-crafted HDP Composite armor with exotics and platinum weave for the strongest, most versitle protection available. Note that the Artemis helmet requires microcontrollers for diagnostics and dynamic stabilization of the exotic field.
 
