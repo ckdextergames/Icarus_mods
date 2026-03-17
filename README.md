@@ -28,7 +28,7 @@ A quick reminder: Since February 2024, I stopped updating most of my mods. So ma
 14. [The Sinotai Extreme Spikewall](#14)
 15. [Stacking Crop Plots](#15)
 16. [Arrow Packs](#16)
-17. [Panther Suit Module & Module Mark2](#17)
+17. [Panther Suit Module & Modules Mark2 & Mark3](#17)
 18. [Enhanced Tactical Backpack](#18)
 19. [Ultimate Fertilizer](#19)
 20. [Cook All the Things!](#20)
