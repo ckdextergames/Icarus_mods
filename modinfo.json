@@ -167,10 +167,23 @@
       }
     },
 	{
+      "name": "Tactical Elysium Backpack",
+      "author": "CK_Dexterhaven",
+      "version": "1.0",
+      "compatibility": "w223",
+      "description": "This very powerful, practical backpack has all the attributes of the Larkwell-Martinez Tactical above, but also prevents your food from spoiling on long journeys. In addition, this enhanced version includes the attributes of all top-tier workshop backpacks. Expensive to craft on the Fabricator, but worth it! This version replaces the requirement for black wolf tooth with inert uranium, and also offers some radiation resistance. Recommended to craft two so you can keep one charging up at a Charging Station.",
+      "imageURL": "",
+	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/DeluxeBackpack/README.md",
+      "files": {
+          "pak": "",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/DeluxeBackpack/Dexterlabs_Tactical_Elysium_Backpack.EXMODZ"
+      }
+    },
+	{
       "name": "Dexterhaven Labs",
       "author": "CK_Dexterhaven",
-      "version": "2.3",
-      "compatibility": "w217",
+      "version": "2.4",
+      "compatibility": "w223",
       "description": "Introduces a custom tab to the Orbital Workshop, containing many useful items.",
       "imageURL": "",
 	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/DexterhavenLabs/README.md",
@@ -193,6 +206,19 @@
       }
     },
 	  {
+      "name": "Dexterlabs Panther Suit Module Mark3",
+      "author": "CK_Dexterhaven",
+      "version": "1.0",
+      "compatibility": "w223",
+      "description": "A more powerful and mutually exlusive version of the Panther suit module, this incorporates the What is This talent (for a chance of exotics when mining metals) and reivies the Gifts of Tartarus from CritFail, removing cave sickness. The Mark 3 version adds some buffs, including radiation resistance, and costs more, including Uranium currency.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/PantherModule/panther.png",
+	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/PantherModule/README.md",
+      "files": {
+          "pak": "",
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/PantherModule/Dexterlabs-Panther-Module-Mark-3.EXMODZ"
+      }
+    },
+	  {
       "name": "Dextermod: WaldoPak",
       "author": "CK_Dexterhaven",
       "version": "1.0",
@@ -203,19 +229,6 @@
       "files": {
           "pak": "",
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/WaldoPak/Dextermod_WaldoPak_Original.EXMODZ"
-      }
-    },
-	  {
-      "name": "Dextermods: Ultimate Fertilizer",
-      "author": "CK_Dexterhaven",
-      "version": "4.1",
-      "compatibility": "w168",
-      "description": "Crafted only on the chemistry bench, these two recipes replace the Recovery and Resistance Fertilizers. While they require more resources to craft, they combine and surpass all features of the other fertilizer varieties",
-      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/UltimateFertilizer/Dextermod_UltimateFertilizer.png",
-	  "readmeURL": "https://github.com/ckdextergames/Icarus_mods/blob/UltimateFertilizer/README.md",
-      "files": {
-          "pak": "",
-          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/UltimateFertilizer/Dextermod_UltimateFertilizer.EXMODZ"
       }
     }
 ]
