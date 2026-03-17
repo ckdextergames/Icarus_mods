@@ -297,7 +297,7 @@ With this mod, all arrow and bolt packs purchased in the orbital workshop come i
 
 ---
 
-17. <a name="17">__Enhanced Suit Module: "The Panther" and "Panther Mk2"__</a> (Direct link: https://bit.ly/CKDpanthermod)
+17. <a name="17">__Enhanced Suit Module: "The Panther" and "Mark 2" and "Mark 3"__</a> (Direct link: https://bit.ly/CKDpanthermod)
 
 Costing quite a bit more to research and purchase, this powerful suit module replaces the "Patcher I" and combines characteristics of multiple modules:
 
