@@ -63,7 +63,8 @@
       "files": {
           "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/TurboWaterWorks/Dextermod_WaterWorksTurbo.EXMODZ"
       }
-    },    {
+    },
+	  {
       "name": "Dextermod: Bifrost_Titanium_Crossbow",
       "author": "CK_Dexterhaven",
       "version": "2.9",
