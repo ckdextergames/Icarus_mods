@@ -53,6 +53,17 @@
       }
     },
     {
+      "name": "Dextermod: WaterWorks Turbo",
+      "author": "CK_Dexterhaven",
+      "version": "3.0",
+      "compatibility": "w225",
+      "description": "Enables adding some key ingredients to the WaterWheel Generator and the Water Pump to craft upgraded Turbo versions on the Fabricator. These new versions give the prospector much higher power transfer from the WaterWheel, and much greater water throughput from the pump.",
+      "imageURL": "https://github.com/ckdextergames/Icarus_mods/blob/TurboWaterWorks/turbo.png",
+	  "readmeURL": "https://raw.githubusercontent.com/ckdextergames/Icarus_mods/TurboWaterWorks/README.md",
+      "files": {
+          "exmodz": "https://github.com/ckdextergames/Icarus_mods/raw/TurboWaterWorks/Dextermod_WaterWorksTurbo.EXMODZ"
+      }
+    },    {
       "name": "Dextermod: Bifrost_Titanium_Crossbow",
       "author": "CK_Dexterhaven",
       "version": "2.9",
